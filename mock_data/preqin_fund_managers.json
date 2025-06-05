@@ -1,0 +1,5083 @@
+[
+  {
+    "firm_id": "PQ56410",
+    "firm_name": "KKR & Co",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 5711758439.819616,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Infrastructure"
+    ],
+    "founded_year": 1997,
+    "employee_count": 1313,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 6848247201.704102,
+      "last_close_date": "2023-07-29"
+    },
+    "website": "https://www.kkr.fr",
+    "alternative_names": [
+      "KKR & Co. Inc.",
+      "Kohlberg Kravis Roberts & Co. L.P.",
+      "KKR"
+    ]
+  },
+  {
+    "firm_id": "PQ53534",
+    "firm_name": "Blackstone",
+    "headquarters": {
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    "total_aum": 29530840297.58945,
+    "funds_managed": 9,
+    "asset_classes": [
+      "Venture Capital",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "North America",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Special Situations",
+      "Real Estate",
+      "Distressed"
+    ],
+    "founded_year": 1999,
+    "employee_count": 390,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 6660642630.529811,
+      "last_close_date": "2025-02-23"
+    },
+    "website": "https://www.blackstone.net",
+    "alternative_names": [
+      "Blackstone Group",
+      "The Blackstone Group L.P.",
+      "Blackstone Inc."
+    ]
+  },
+  {
+    "firm_id": "PQ20079",
+    "firm_name": "TPG Inc.",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 34374224345.32248,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Distressed",
+      "Venture Capital"
+    ],
+    "founded_year": 1991,
+    "employee_count": 791,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 7761502725.575775,
+      "last_close_date": "2024-06-19"
+    },
+    "website": "https://www.tpg.co.uk",
+    "alternative_names": [
+      "TPG Capital",
+      "Texas Pacific Group",
+      "TPG"
+    ]
+  },
+  {
+    "firm_id": "PQ97800",
+    "firm_name": "Apollo Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_aum": 44151234373.14839,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Fund of Funds"
+    ],
+    "founded_year": 2007,
+    "employee_count": 1889,
+    "recent_fundraising": {
+      "active_funds": 5,
+      "target_size": 5961950342.798786,
+      "last_close_date": "2024-11-16"
+    },
+    "website": "https://www.apollo.de",
+    "alternative_names": [
+      "Apollo Global Management",
+      "Apollo",
+      "Apollo Global"
+    ]
+  },
+  {
+    "firm_id": "PQ71290",
+    "firm_name": "The Carlyle Group",
+    "headquarters": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "total_aum": 4784558330.621871,
+    "funds_managed": 22,
+    "asset_classes": [
+      "Private Debt",
+      "Natural Resources",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Buyout",
+      "Infrastructure",
+      "Venture Capital"
+    ],
+    "founded_year": 1977,
+    "employee_count": 1723,
+    "recent_fundraising": {
+      "active_funds": 4,
+      "target_size": 939033327.5702871,
+      "last_close_date": "2025-05-07"
+    },
+    "website": "https://www.thecarlyle.net",
+    "alternative_names": [
+      "Carlyle Group",
+      "Carlyle",
+      "Carlyle Group Inc."
+    ]
+  },
+  {
+    "firm_id": "PQ93390",
+    "firm_name": "Bain Capital LLC",
+    "headquarters": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "total_aum": 23681830215.276787,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Europe",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Secondary"
+    ],
+    "founded_year": 2014,
+    "employee_count": 369,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 8446011855.392726,
+      "last_close_date": "2025-01-04"
+    },
+    "website": "https://www.bain.com",
+    "alternative_names": [
+      "Bain Capital",
+      "Bain Capital LP",
+      "Bain"
+    ]
+  },
+  {
+    "firm_id": "PQ48056",
+    "firm_name": "Vista Partners",
+    "headquarters": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "total_aum": 8273097830.036049,
+    "funds_managed": 22,
+    "asset_classes": [
+      "Secondaries",
+      "Venture Capital",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1985,
+    "employee_count": 1553,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 4224492182.614122,
+      "last_close_date": "2024-08-21"
+    },
+    "website": "https://www.vista.net",
+    "alternative_names": [
+      "Vista Equity Partners",
+      "Vista Equity",
+      "Vista"
+    ]
+  },
+  {
+    "firm_id": "PQ35194",
+    "firm_name": "Silver Lake",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 25189135580.729015,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Distressed",
+      "Secondary"
+    ],
+    "founded_year": 2013,
+    "employee_count": 384,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 3126644185.1313696,
+      "last_close_date": "2023-07-13"
+    },
+    "website": "https://www.silverlake.net",
+    "alternative_names": [
+      "Silver Lake Partners",
+      "Silver Lake Management",
+      "SLP"
+    ]
+  },
+  {
+    "firm_id": "PQ81639",
+    "firm_name": "Warburg",
+    "headquarters": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "total_aum": 3455997045.6958404,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Distressed",
+      "Buyout",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2018,
+    "employee_count": 1317,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 8552879543.01495,
+      "last_close_date": "2024-07-01"
+    },
+    "website": "https://www.warburg.com",
+    "alternative_names": [
+      "Warburg Pincus",
+      "Warburg Pincus LLC",
+      "WP"
+    ]
+  },
+  {
+    "firm_id": "PQ92818",
+    "firm_name": "General Atlantic Partners",
+    "headquarters": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "total_aum": 47948295487.493805,
+    "funds_managed": 12,
+    "asset_classes": [
+      "Real Estate",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1994,
+    "employee_count": 478,
+    "recent_fundraising": {
+      "active_funds": 4,
+      "target_size": 3915341425.092289,
+      "last_close_date": "2023-12-23"
+    },
+    "website": "https://www.generalatlantic.com",
+    "alternative_names": [
+      "General Atlantic",
+      "General Atlantic LLC",
+      "GA"
+    ]
+  },
+  {
+    "firm_id": "PQ95828",
+    "firm_name": "KKR & Co. Inc., LLC",
+    "headquarters": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "total_aum": 6200750818.49079,
+    "funds_managed": 12,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Growth Capital",
+      "Venture Capital"
+    ],
+    "founded_year": 2022,
+    "employee_count": 284,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3436001643.669473,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.kkr.co.uk",
+    "alternative_names": [
+      "KKR & Co. Inc.",
+      "KKR & Co. Inc. LLC",
+      "KKR & Co. Inc. Inc.",
+      "KKR & Co. Inc. L.P."
+    ]
+  },
+  {
+    "firm_id": "PQ13660",
+    "firm_name": "Blackstone Capital",
+    "headquarters": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "total_aum": 7706092732.362679,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Real Estate",
+      "Secondaries",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Distressed"
+    ],
+    "founded_year": 2005,
+    "employee_count": 641,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3297647749.3511124,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.blackstone.co.uk",
+    "alternative_names": [
+      "Blackstone Group",
+      "The Blackstone Group",
+      "Blackstone Group LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ47014",
+    "firm_name": "Robinsonport Investment Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 1209584852.5955765,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Infrastructure",
+      "Hedge Funds",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Buyout"
+    ],
+    "founded_year": 1984,
+    "employee_count": 815,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 1311667193.5475109,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.robinsonportinvestment.de",
+    "alternative_names": [
+      "Robinsonport Investment Group",
+      "The Robinsonport Investment Group",
+      "Robinsonport Investment Group LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ47136",
+    "firm_name": "Sandoval & Associates, LLC",
+    "headquarters": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "total_aum": 6859087852.180962,
+    "funds_managed": 10,
+    "asset_classes": [
+      "Private Debt",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Venture Capital",
+      "Buyout",
+      "Growth Capital"
+    ],
+    "founded_year": 2008,
+    "employee_count": 60,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4814401994.040781,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.sandovalassociates.com",
+    "alternative_names": [
+      "Sandoval & Associates",
+      "Sandoval & Associates LLC",
+      "Sandoval & Associates Inc.",
+      "Sandoval & Associates L.P."
+    ]
+  },
+  {
+    "firm_id": "PQ82844",
+    "firm_name": "PLC Investment Management L.P.",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Sweden"
+    },
+    "total_aum": 4332673156.39888,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Infrastructure",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Secondary"
+    ],
+    "founded_year": 2018,
+    "employee_count": 376,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 911698425.9362077,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.plcinvestmentlp.de",
+    "alternative_names": [
+      "PLC Investment Management",
+      "PLC Investment Management LLC",
+      "PLC Investment Management Inc."
+    ]
+  },
+  {
+    "firm_id": "PQ58121",
+    "firm_name": "LLC Investment Management LLC",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 19944533342.771645,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Natural Resources",
+      "Secondaries",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2022,
+    "employee_count": 363,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1072028014.1460677,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.llcinvestment.fr",
+    "alternative_names": [
+      "LLC Investment Management",
+      "LLC Investment Management Inc.",
+      "LLC Investment Management L.P."
+    ]
+  },
+  {
+    "firm_id": "PQ49462",
+    "firm_name": "Campbell & Associates Inc.",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_aum": 10177290102.680046,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Secondary"
+    ],
+    "founded_year": 1991,
+    "employee_count": 552,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4427501277.110324,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.campbellassociates.net",
+    "alternative_names": [
+      "Campbell & Associates",
+      "Campbell & Associates LLC",
+      "Campbell & Associates L.P."
+    ]
+  },
+  {
+    "firm_id": "PQ58856",
+    "firm_name": "Jennifershire Investment Group L.P.",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 19316715226.237503,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Natural Resources",
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Buyout"
+    ],
+    "founded_year": 2001,
+    "employee_count": 809,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 1704349620.2619536,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.jennifershireinvestmentlp.fr",
+    "alternative_names": [
+      "Jennifershire Investment Group",
+      "Jennifershire Investment Capital",
+      "The Jennifershire Investment Group",
+      "Jennifershire Investment Group LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ84274",
+    "firm_name": "The New Joshua Investment Group",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 19968730610.445713,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Secondaries",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Real Estate"
+    ],
+    "founded_year": 2003,
+    "employee_count": 690,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 1092894579.6809657,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.thenewjoshuainvestment.co.uk",
+    "alternative_names": [
+      "New Joshua Investment Group",
+      "New Joshua Investment Capital",
+      "New Joshua Investment Group LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ84757",
+    "firm_name": "Brown Capital, LLC",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_aum": 15210642640.700167,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Hedge Funds",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Growth Capital",
+      "Infrastructure"
+    ],
+    "founded_year": 2006,
+    "employee_count": 282,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4702506177.35146,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.brown.com",
+    "alternative_names": [
+      "Brown Capital",
+      "Brown Partners",
+      "Brown Management",
+      "Brown Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ20554",
+    "firm_name": "Wu Partners L.P.",
+    "headquarters": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "total_aum": 1018575981.7481146,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Infrastructure"
+    ],
+    "founded_year": 1985,
+    "employee_count": 322,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3704088638.5316243,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.wulp.fr",
+    "alternative_names": [
+      "Wu Partners",
+      "Wu Capital",
+      "Wu Group",
+      "Wu Partners LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ94894",
+    "firm_name": "Gould & Associates Inc.",
+    "headquarters": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "total_aum": 10547402362.202812,
+    "funds_managed": 10,
+    "asset_classes": [
+      "Secondaries",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Venture Capital",
+      "Infrastructure",
+      "Real Estate"
+    ],
+    "founded_year": 1996,
+    "employee_count": 828,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3612583863.443042,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.gouldassociates.com",
+    "alternative_names": [
+      "Gould & Associates",
+      "Gould & Associates LLC",
+      "Gould & Associates L.P."
+    ]
+  },
+  {
+    "firm_id": "PQ74087",
+    "firm_name": "Keith & Associates",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 3166099868.4996843,
+    "funds_managed": 9,
+    "asset_classes": [
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Infrastructure"
+    ],
+    "founded_year": 2001,
+    "employee_count": 315,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4898341858.548316,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.keithassociates.de",
+    "alternative_names": [
+      "Keith & Associates",
+      "Keith & Associates LLC",
+      "Keith & Associates Inc.",
+      "Keith & Associates L.P."
+    ]
+  },
+  {
+    "firm_id": "PQ21585",
+    "firm_name": "Davis Capital, LLC",
+    "headquarters": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "total_aum": 4658912582.261848,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Venture Capital",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Growth Capital"
+    ],
+    "founded_year": 1981,
+    "employee_count": 641,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4679275159.747133,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.davis.co.uk",
+    "alternative_names": [
+      "Davis Capital",
+      "Davis Partners",
+      "Davis Management",
+      "Davis Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ42437",
+    "firm_name": "Stewart Williams Capital, LLC",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 18828601459.63591,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Private Debt",
+      "Natural Resources",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Buyout"
+    ],
+    "founded_year": 2018,
+    "employee_count": 635,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 2899928256.8334856,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.stewartwilliams.net",
+    "alternative_names": [
+      "Stewart Williams Capital",
+      "Stewart Williams Partners",
+      "Stewart Williams Management",
+      "Stewart Williams Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ14255",
+    "firm_name": "Moore Capital",
+    "headquarters": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "total_aum": 1843116323.3442657,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Infrastructure"
+    ],
+    "founded_year": 2018,
+    "employee_count": 549,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3163432755.602862,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.moore.de",
+    "alternative_names": [
+      "Moore Capital",
+      "Moore Partners",
+      "Moore Management",
+      "Moore Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ30097",
+    "firm_name": "Moore Chase Capital L.P.",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_aum": 19882474600.791996,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Infrastructure",
+      "Venture Capital",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Infrastructure"
+    ],
+    "founded_year": 2013,
+    "employee_count": 254,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 1281934472.9179738,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.moorechaselp.com",
+    "alternative_names": [
+      "Moore Chase Capital",
+      "Moore Chase Partners",
+      "Moore Chase Management",
+      "Moore Chase Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ16417",
+    "firm_name": "Mack Partners",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 9200290096.859533,
+    "funds_managed": 3,
+    "asset_classes": [
+      "Private Equity",
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Infrastructure",
+      "Venture Capital"
+    ],
+    "founded_year": 1997,
+    "employee_count": 998,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 2086866655.661985,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.mack.fr",
+    "alternative_names": [
+      "Mack Capital",
+      "Mack Management",
+      "Mack Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ71766",
+    "firm_name": "Port Ashley Investment Capital",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 19734023706.689716,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Real Estate",
+      "Infrastructure",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Infrastructure",
+      "Secondary"
+    ],
+    "founded_year": 2014,
+    "employee_count": 301,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3853174790.258803,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.portashleyinvestment.co.uk",
+    "alternative_names": [
+      "Port Ashley Investment Group",
+      "The Port Ashley Investment Group",
+      "Port Ashley Investment Group LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ16529",
+    "firm_name": "Obrien Turner Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 11973447478.499325,
+    "funds_managed": 9,
+    "asset_classes": [
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Secondary",
+      "Venture Capital"
+    ],
+    "founded_year": 2015,
+    "employee_count": 240,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 223055314.53868628,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.obrienturner.co.uk",
+    "alternative_names": [
+      "Obrien Turner Capital",
+      "Obrien Turner Management",
+      "Obrien Turner Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ56258",
+    "firm_name": "Brown Cardenas Capital Inc.",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 12409875736.426651,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Infrastructure",
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2008,
+    "employee_count": 548,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4993346135.869876,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.browncardenas.net",
+    "alternative_names": [
+      "Brown Cardenas Capital",
+      "Brown Cardenas Partners",
+      "Brown Cardenas Management",
+      "Brown Cardenas Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ10257",
+    "firm_name": "West Wesleyland Investment Group",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_aum": 4599515520.059332,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Venture Capital",
+      "Secondaries",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Infrastructure",
+      "Buyout"
+    ],
+    "founded_year": 1980,
+    "employee_count": 726,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3447369282.6580734,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.westwesleylandinvestment.de",
+    "alternative_names": [
+      "West Wesleyland Investment Group",
+      "West Wesleyland Investment Capital",
+      "The West Wesleyland Investment Group",
+      "West Wesleyland Investment Group LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ10012",
+    "firm_name": "Barber Partners LLC",
+    "headquarters": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "total_aum": 5344900702.055933,
+    "funds_managed": 5,
+    "asset_classes": [
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Secondary",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2011,
+    "employee_count": 62,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1626126008.82283,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.barber.fr",
+    "alternative_names": [
+      "Barber Partners",
+      "Barber Capital",
+      "Barber Group"
+    ]
+  },
+  {
+    "firm_id": "PQ72760",
+    "firm_name": "Conleytown Investment Group Inc.",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_aum": 13777903133.202885,
+    "funds_managed": 14,
+    "asset_classes": [
+      "Private Debt",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Secondary"
+    ],
+    "founded_year": 1985,
+    "employee_count": 617,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 175684303.53744763,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.conleytowninvestment.fr",
+    "alternative_names": [
+      "Conleytown Investment Group",
+      "Conleytown Investment Capital",
+      "The Conleytown Investment Group",
+      "Conleytown Investment Group LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ78207",
+    "firm_name": "Morris Wolf Capital L.P.",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 6862423698.142171,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Natural Resources",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Real Estate"
+    ],
+    "founded_year": 2017,
+    "employee_count": 489,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 4186940095.268111,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.morriswolflp.fr",
+    "alternative_names": [
+      "Morris Wolf Capital",
+      "Morris Wolf Partners",
+      "Morris Wolf Management",
+      "Morris Wolf Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ47256",
+    "firm_name": "Lake Lisa Investment Group Inc.",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_aum": 15361856974.81022,
+    "funds_managed": 9,
+    "asset_classes": [
+      "Natural Resources",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Special Situations",
+      "Infrastructure"
+    ],
+    "founded_year": 2002,
+    "employee_count": 542,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 2827292288.265419,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.lakelisainvestment.co.uk",
+    "alternative_names": [
+      "Lake Lisa Investment Group",
+      "Lake Lisa Investment Capital",
+      "The Lake Lisa Investment Group",
+      "Lake Lisa Investment Group LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ91637",
+    "firm_name": "Perry Capital",
+    "headquarters": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "total_aum": 3265759128.0831017,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Infrastructure",
+      "Venture Capital",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Secondary",
+      "Growth Capital"
+    ],
+    "founded_year": 2011,
+    "employee_count": 234,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 1870488877.2428896,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.perry.de",
+    "alternative_names": [
+      "Perry Capital",
+      "Perry Partners",
+      "Perry Management",
+      "Perry Capital LLC"
+    ]
+  },
+  {
+    "firm_id": "PQ77345",
+    "firm_name": "Obrien Pratt Partners",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_aum": 18470612888.473225,
+    "funds_managed": 14,
+    "asset_classes": [
+      "Secondaries",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Real Estate"
+    ],
+    "founded_year": 1996,
+    "employee_count": 506,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 1306418914.7680473,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.obrienpratt.fr",
+    "alternative_names": [
+      "Obrien Pratt",
+      "Obrien Pratt Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ34267",
+    "firm_name": "Sanchez Capital Partners",
+    "headquarters": {
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    "total_aum": 7238599428.079492,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Venture Capital",
+      "Infrastructure",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2001,
+    "employee_count": 919,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 261026767.05704403,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.sanchez.de",
+    "alternative_names": [
+      "Sanchez Capital",
+      "Sanchez Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ28209",
+    "firm_name": "Turner Frazier Partners",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 3940880198.177718,
+    "funds_managed": 5,
+    "asset_classes": [
+      "Hedge Funds",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Buyout",
+      "Real Estate"
+    ],
+    "founded_year": 1999,
+    "employee_count": 70,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 3407988369.9646277,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.turnerfrazier.fr",
+    "alternative_names": [
+      "Turner Frazier",
+      "Turner Frazier Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ70661",
+    "firm_name": "Clarktown Ventures",
+    "headquarters": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "total_aum": 18108859997.083313,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Venture Capital",
+      "Infrastructure",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Growth Capital",
+      "Buyout"
+    ],
+    "founded_year": 2015,
+    "employee_count": 784,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1127850224.8657937,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.clarktownventures.de",
+    "alternative_names": [
+      "Clarktown Ventures",
+      "Clarktown Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ84919",
+    "firm_name": "White Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 7244730791.334135,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Venture Capital",
+      "Hedge Funds",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Infrastructure"
+    ],
+    "founded_year": 1981,
+    "employee_count": 896,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 2195226568.498123,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.whiteinvestment.de",
+    "alternative_names": [
+      "White Investment Management",
+      "White Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ81545",
+    "firm_name": "Sharp, Rollins and Mcgee Capital",
+    "headquarters": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "total_aum": 7226698542.114077,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Secondaries",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Growth Capital"
+    ],
+    "founded_year": 1993,
+    "employee_count": 350,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 1676294285.1459422,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.sharprollinsandmcgee.net",
+    "alternative_names": [
+      "Sharp, Rollins and Mcgee Capital",
+      "Sharp, Rollins and Mcgee"
+    ]
+  },
+  {
+    "firm_id": "PQ30484",
+    "firm_name": "Noble Capital Partners",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_aum": 5272120998.690572,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Private Equity",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Buyout",
+      "Venture Capital"
+    ],
+    "founded_year": 1980,
+    "employee_count": 881,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4689133861.132394,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.noble.co.uk",
+    "alternative_names": [
+      "Noble Capital",
+      "Noble Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ83889",
+    "firm_name": "Duran Lucas Partners",
+    "headquarters": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "total_aum": 11923309967.420055,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Private Equity",
+      "Infrastructure",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Growth Capital"
+    ],
+    "founded_year": 2008,
+    "employee_count": 883,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3691888188.6946397,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.duranlucas.de",
+    "alternative_names": [
+      "Duran Lucas",
+      "Duran Lucas Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ69771",
+    "firm_name": "Hart, Sanders and Wilson Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 17587078110.68302,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Hedge Funds",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Distressed"
+    ],
+    "founded_year": 2013,
+    "employee_count": 499,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4287088685.2832685,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.hartsandersandwilson.net",
+    "alternative_names": [
+      "Hart, Sanders and Wilson Capital",
+      "Hart, Sanders and Wilson"
+    ]
+  },
+  {
+    "firm_id": "PQ62936",
+    "firm_name": "Pope-Huang Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 9370922490.778818,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Secondaries",
+      "Private Equity",
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Distressed",
+      "Real Estate"
+    ],
+    "founded_year": 2013,
+    "employee_count": 462,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 990229412.6300913,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.popehuang.fr",
+    "alternative_names": [
+      "Pope-Huang Capital",
+      "Pope-Huang"
+    ]
+  },
+  {
+    "firm_id": "PQ18576",
+    "firm_name": "Mcdowell Capital Partners",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 1896802302.9397867,
+    "funds_managed": 3,
+    "asset_classes": [
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Buyout"
+    ],
+    "founded_year": 1987,
+    "employee_count": 956,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4126058879.3892074,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.mcdowell.de",
+    "alternative_names": [
+      "Mcdowell Capital",
+      "Mcdowell Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ99003",
+    "firm_name": "Johnson Capital Partners",
+    "headquarters": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "total_aum": 5786943226.74034,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Infrastructure",
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Special Situations"
+    ],
+    "founded_year": 1994,
+    "employee_count": 219,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4164894284.896415,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.johnson.com",
+    "alternative_names": [
+      "Johnson Capital",
+      "Johnson Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ63802",
+    "firm_name": "Jones Capital Partners",
+    "headquarters": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "total_aum": 4938278158.869708,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Venture Capital",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Distressed"
+    ],
+    "founded_year": 2006,
+    "employee_count": 755,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 2532978191.622742,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.jones.net",
+    "alternative_names": [
+      "Jones Capital",
+      "Jones Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ79548",
+    "firm_name": "Mclean Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 16489237159.962444,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Secondaries",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Venture Capital"
+    ],
+    "founded_year": 1996,
+    "employee_count": 504,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 978754176.1753474,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.mcleaninvestment.com",
+    "alternative_names": [
+      "Mclean Investment Management",
+      "Mclean Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ78365",
+    "firm_name": "Robinson Group Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 2220075630.6442447,
+    "funds_managed": 5,
+    "asset_classes": [
+      "Hedge Funds",
+      "Natural Resources",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Buyout",
+      "Growth Capital",
+      "Infrastructure"
+    ],
+    "founded_year": 1987,
+    "employee_count": 501,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 1813084261.0783498,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.robinson.fr",
+    "alternative_names": [
+      "Robinson Group Capital",
+      "Robinson Group"
+    ]
+  },
+  {
+    "firm_id": "PQ73163",
+    "firm_name": "Bennett Capital Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 5019908305.196044,
+    "funds_managed": 9,
+    "asset_classes": [
+      "Hedge Funds",
+      "Private Equity",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Real Estate"
+    ],
+    "founded_year": 2021,
+    "employee_count": 63,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3364809302.0388145,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.bennett.com",
+    "alternative_names": [
+      "Bennett Capital",
+      "Bennett Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ62390",
+    "firm_name": "Brock, Walters and Johnson Capital",
+    "headquarters": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "total_aum": 16800358837.616453,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Buyout"
+    ],
+    "founded_year": 1992,
+    "employee_count": 871,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3305403223.00125,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.brockwaltersandjohnson.co.uk",
+    "alternative_names": [
+      "Brock, Walters and Johnson Capital",
+      "Brock, Walters and Johnson"
+    ]
+  },
+  {
+    "firm_id": "PQ54931",
+    "firm_name": "Barnes, Hughes and Day Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 8093786297.159238,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Real Estate",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Fund of Funds",
+      "Special Situations"
+    ],
+    "founded_year": 2010,
+    "employee_count": 200,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3732075757.637044,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.barneshughesandday.com",
+    "alternative_names": [
+      "Barnes, Hughes and Day Capital",
+      "Barnes, Hughes and Day"
+    ]
+  },
+  {
+    "firm_id": "PQ31184",
+    "firm_name": "Roberts Investment Management",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_aum": 14141096742.846224,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Buyout"
+    ],
+    "founded_year": 1982,
+    "employee_count": 918,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 1622388368.8452551,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.robertsinvestment.de",
+    "alternative_names": [
+      "Roberts Investment Management",
+      "Roberts Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ91573",
+    "firm_name": "New Kaylaside Ventures",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 5282970927.52033,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Natural Resources",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Secondary"
+    ],
+    "founded_year": 2008,
+    "employee_count": 64,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 4104576424.495493,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.newkaylasideventures.net",
+    "alternative_names": [
+      "New Kaylaside Ventures",
+      "New Kaylaside Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ91360",
+    "firm_name": "Carroll Investment Management",
+    "headquarters": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "total_aum": 5111697356.727895,
+    "funds_managed": 12,
+    "asset_classes": [
+      "Real Estate",
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Buyout",
+      "Growth Capital"
+    ],
+    "founded_year": 2013,
+    "employee_count": 29,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4460469258.873315,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.carrollinvestment.net",
+    "alternative_names": [
+      "Carroll Investment Management",
+      "Carroll Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ97548",
+    "firm_name": "Hoffman Investment Management",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 10266748444.568851,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Hedge Funds",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Growth Capital",
+      "Buyout"
+    ],
+    "founded_year": 1997,
+    "employee_count": 364,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 2014376130.5401087,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.hoffmaninvestment.co.uk",
+    "alternative_names": [
+      "Hoffman Investment Management",
+      "Hoffman Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ77911",
+    "firm_name": "Bridges Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Sweden"
+    },
+    "total_aum": 10375458411.77259,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Real Estate",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Secondary"
+    ],
+    "founded_year": 2017,
+    "employee_count": 642,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1909027058.8433697,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.bridgesinvestment.com",
+    "alternative_names": [
+      "Bridges Investment Management",
+      "Bridges Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ34699",
+    "firm_name": "Hall Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 18602757585.055496,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Buyout"
+    ],
+    "founded_year": 2011,
+    "employee_count": 673,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 2756452033.3269534,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.hallinvestment.fr",
+    "alternative_names": [
+      "Hall Investment Management",
+      "Hall Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ41056",
+    "firm_name": "Reyes Inc Capital",
+    "headquarters": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "total_aum": 4710095245.701731,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Venture Capital",
+      "Infrastructure",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Infrastructure",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2000,
+    "employee_count": 111,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3796300243.9773493,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.reyes.net",
+    "alternative_names": [
+      "Reyes Inc Capital",
+      "Reyes Inc"
+    ]
+  },
+  {
+    "firm_id": "PQ96503",
+    "firm_name": "Jones Capital Partners",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 18548703020.3483,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Natural Resources",
+      "Private Debt",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Buyout",
+      "Infrastructure"
+    ],
+    "founded_year": 1980,
+    "employee_count": 732,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3714395583.058171,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.jones.co.uk",
+    "alternative_names": [
+      "Jones Capital",
+      "Jones Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ80524",
+    "firm_name": "Kelleyhaven Ventures",
+    "headquarters": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "total_aum": 11781029881.65125,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Secondaries",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Venture Capital",
+      "Real Estate",
+      "Secondary"
+    ],
+    "founded_year": 2003,
+    "employee_count": 352,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 312369920.29226226,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.kelleyhavenventures.de",
+    "alternative_names": [
+      "Kelleyhaven Ventures",
+      "Kelleyhaven Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ60409",
+    "firm_name": "Robertson Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 16993894479.982815,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Real Estate",
+      "Special Situations"
+    ],
+    "founded_year": 1981,
+    "employee_count": 759,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 1791979151.798393,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.robertsoninvestment.net",
+    "alternative_names": [
+      "Robertson Investment Management",
+      "Robertson Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ91529",
+    "firm_name": "Wells Capital Partners",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_aum": 10681424577.220766,
+    "funds_managed": 5,
+    "asset_classes": [
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Growth Capital"
+    ],
+    "founded_year": 2012,
+    "employee_count": 150,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4286411385.7445345,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.wells.de",
+    "alternative_names": [
+      "Wells Capital",
+      "Wells Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ21478",
+    "firm_name": "Leon-Green Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 14890024209.322273,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Venture Capital",
+      "Distressed"
+    ],
+    "founded_year": 1986,
+    "employee_count": 303,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3074492737.2705154,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.leongreen.fr",
+    "alternative_names": [
+      "Leon-Green Capital",
+      "Leon-Green"
+    ]
+  },
+  {
+    "firm_id": "PQ83500",
+    "firm_name": "Murphy Investment Management",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 9944256899.372559,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Real Estate",
+      "Private Equity",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Fund of Funds",
+      "Special Situations"
+    ],
+    "founded_year": 1984,
+    "employee_count": 787,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 4305625617.730957,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.murphyinvestment.net",
+    "alternative_names": [
+      "Murphy Investment Management",
+      "Murphy Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ81053",
+    "firm_name": "Cole, Cline and Lewis Capital",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 2828278096.5226564,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Hedge Funds",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Growth Capital"
+    ],
+    "founded_year": 2018,
+    "employee_count": 426,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 1583206629.8302317,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.coleclineandlewis.com",
+    "alternative_names": [
+      "Cole, Cline and Lewis Capital",
+      "Cole, Cline and Lewis"
+    ]
+  },
+  {
+    "firm_id": "PQ85657",
+    "firm_name": "Flores Capital Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 13161132042.721106,
+    "funds_managed": 10,
+    "asset_classes": [
+      "Natural Resources",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Buyout",
+      "Fund of Funds",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2010,
+    "employee_count": 972,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3869926385.3621335,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.flores.co.uk",
+    "alternative_names": [
+      "Flores Capital",
+      "Flores Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ34270",
+    "firm_name": "New Danielletown Ventures",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 16926118214.426859,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Growth Capital"
+    ],
+    "founded_year": 1985,
+    "employee_count": 671,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 951150837.6591792,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.newdanielletownventures.co.uk",
+    "alternative_names": [
+      "New Danielletown Ventures",
+      "New Danielletown Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ57592",
+    "firm_name": "Jordan Capital Partners",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_aum": 2622433380.09873,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Secondaries",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Infrastructure",
+      "Special Situations"
+    ],
+    "founded_year": 1993,
+    "employee_count": 398,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1762274836.4492471,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.jordan.co.uk",
+    "alternative_names": [
+      "Jordan Capital",
+      "Jordan Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ86706",
+    "firm_name": "Erikshire Ventures",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 12899690067.272343,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Infrastructure",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Credit/Mezzanine",
+      "Growth Capital"
+    ],
+    "founded_year": 1988,
+    "employee_count": 739,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 2038371792.6420717,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.erikshireventures.net",
+    "alternative_names": [
+      "Erikshire Ventures",
+      "Erikshire Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ80697",
+    "firm_name": "Brown Capital Partners",
+    "headquarters": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "total_aum": 2447113596.4073544,
+    "funds_managed": 3,
+    "asset_classes": [
+      "Real Estate",
+      "Venture Capital",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Fund of Funds"
+    ],
+    "founded_year": 2008,
+    "employee_count": 536,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3617583384.2451906,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.brown.net",
+    "alternative_names": [
+      "Brown Capital",
+      "Brown Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ93528",
+    "firm_name": "Bishop Investment Management",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_aum": 10037868671.20919,
+    "funds_managed": 14,
+    "asset_classes": [
+      "Infrastructure",
+      "Private Equity",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Secondary",
+      "Growth Capital"
+    ],
+    "founded_year": 2015,
+    "employee_count": 248,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3615181421.1068773,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.bishopinvestment.com",
+    "alternative_names": [
+      "Bishop Investment Management",
+      "Bishop Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ44200",
+    "firm_name": "Bird Spears Partners",
+    "headquarters": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "total_aum": 1862736402.213726,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Private Debt",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Venture Capital"
+    ],
+    "founded_year": 1988,
+    "employee_count": 605,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4182362230.9158278,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.birdspears.co.uk",
+    "alternative_names": [
+      "Bird Spears",
+      "Bird Spears Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ18428",
+    "firm_name": "Frye-Meyer Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 5030494686.934509,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Hedge Funds",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Growth Capital"
+    ],
+    "founded_year": 2020,
+    "employee_count": 617,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3494594144.671401,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.fryemeyer.com",
+    "alternative_names": [
+      "Frye-Meyer Capital",
+      "Frye-Meyer"
+    ]
+  },
+  {
+    "firm_id": "PQ64211",
+    "firm_name": "Mccarthy Capital Partners",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 3311767195.9215455,
+    "funds_managed": 9,
+    "asset_classes": [
+      "Secondaries",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Venture Capital",
+      "Infrastructure",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2012,
+    "employee_count": 406,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 3352031331.576662,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.mccarthy.com",
+    "alternative_names": [
+      "Mccarthy Capital",
+      "Mccarthy Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ24213",
+    "firm_name": "Lamb Ltd Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 14693918183.626001,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Hedge Funds",
+      "Infrastructure",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Secondary",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 1982,
+    "employee_count": 668,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 474775622.83139,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.lambltd.de",
+    "alternative_names": [
+      "Lamb Ltd Capital",
+      "Lamb Ltd"
+    ]
+  },
+  {
+    "firm_id": "PQ23911",
+    "firm_name": "Willis Morris Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 9892751785.572409,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Secondary",
+      "Fund of Funds"
+    ],
+    "founded_year": 1999,
+    "employee_count": 854,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 161980507.7572244,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.willismorris.de",
+    "alternative_names": [
+      "Willis Morris",
+      "Willis Morris Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ43677",
+    "firm_name": "Walker Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 9292514115.435715,
+    "funds_managed": 3,
+    "asset_classes": [
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Real Estate"
+    ],
+    "founded_year": 2010,
+    "employee_count": 941,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 531118921.02339554,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.walkerinvestment.com",
+    "alternative_names": [
+      "Walker Investment Management",
+      "Walker Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ34460",
+    "firm_name": "Joshualand Ventures",
+    "headquarters": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "total_aum": 3090947910.0573697,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1986,
+    "employee_count": 789,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 4403367718.884815,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.joshualandventures.com",
+    "alternative_names": [
+      "Joshualand Ventures",
+      "Joshualand Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ77293",
+    "firm_name": "Harvey, Nelson and Garrett Capital",
+    "headquarters": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "total_aum": 14708275127.20428,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Private Equity",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Infrastructure"
+    ],
+    "founded_year": 1987,
+    "employee_count": 790,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4466206844.196386,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.harveynelsonandgarrett.com",
+    "alternative_names": [
+      "Harvey, Nelson and Garrett Capital",
+      "Harvey, Nelson and Garrett"
+    ]
+  },
+  {
+    "firm_id": "PQ11509",
+    "firm_name": "Callahan Lopez Partners",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 9935206240.636847,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Venture Capital",
+      "Growth Capital"
+    ],
+    "founded_year": 1997,
+    "employee_count": 661,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1437292148.494315,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.callahanlopez.de",
+    "alternative_names": [
+      "Callahan Lopez",
+      "Callahan Lopez Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ89713",
+    "firm_name": "Luna, Mitchell and Sutton Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 8404233236.041457,
+    "funds_managed": 12,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1987,
+    "employee_count": 480,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 3539477874.5306664,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.lunamitchellandsutton.net",
+    "alternative_names": [
+      "Luna, Mitchell and Sutton Capital",
+      "Luna, Mitchell and Sutton"
+    ]
+  },
+  {
+    "firm_id": "PQ62721",
+    "firm_name": "Franco Investment Management",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 11407440157.682505,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Private Equity",
+      "Hedge Funds",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Fund of Funds",
+      "Growth Capital"
+    ],
+    "founded_year": 1987,
+    "employee_count": 329,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 3712508672.9251375,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.francoinvestment.fr",
+    "alternative_names": [
+      "Franco Investment Management",
+      "Franco Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ60224",
+    "firm_name": "Mccormick Capital Partners",
+    "headquarters": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "total_aum": 7854152363.785966,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Real Estate",
+      "Natural Resources",
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Secondary"
+    ],
+    "founded_year": 2000,
+    "employee_count": 865,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3140389570.721502,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.mccormick.com",
+    "alternative_names": [
+      "Mccormick Capital",
+      "Mccormick Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ57082",
+    "firm_name": "Todd Investment Management",
+    "headquarters": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "total_aum": 10157984694.921692,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Infrastructure",
+      "Buyout"
+    ],
+    "founded_year": 1988,
+    "employee_count": 36,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4860066619.124833,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.toddinvestment.fr",
+    "alternative_names": [
+      "Todd Investment Management",
+      "Todd Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ44762",
+    "firm_name": "Perez Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 2586458764.900615,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Venture Capital",
+      "Real Estate",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Fund of Funds"
+    ],
+    "founded_year": 2001,
+    "employee_count": 514,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 3045710200.13021,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.perezinvestment.de",
+    "alternative_names": [
+      "Perez Investment Management",
+      "Perez Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ96713",
+    "firm_name": "Collins Capital Partners",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 838632285.471845,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Secondaries",
+      "Private Debt",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Buyout",
+      "Real Estate"
+    ],
+    "founded_year": 1990,
+    "employee_count": 953,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 2164111560.5268097,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.collins.fr",
+    "alternative_names": [
+      "Collins Capital",
+      "Collins Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ19752",
+    "firm_name": "Valdez, Walters and Barnes Capital",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 15661735320.011482,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1990,
+    "employee_count": 297,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1030022164.9575174,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.valdezwaltersandbarnes.de",
+    "alternative_names": [
+      "Valdez, Walters and Barnes Capital",
+      "Valdez, Walters and Barnes"
+    ]
+  },
+  {
+    "firm_id": "PQ85013",
+    "firm_name": "Brown Cox Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Sweden"
+    },
+    "total_aum": 11044220942.399416,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Venture Capital",
+      "Real Estate",
+      "Infrastructure"
+    ],
+    "founded_year": 1987,
+    "employee_count": 594,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4444901213.634249,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.browncox.net",
+    "alternative_names": [
+      "Brown Cox",
+      "Brown Cox Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ65822",
+    "firm_name": "Williams Capital Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 8380066737.747496,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Infrastructure",
+      "Buyout"
+    ],
+    "founded_year": 2017,
+    "employee_count": 120,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4181822689.5313354,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.williams.de",
+    "alternative_names": [
+      "Williams Capital",
+      "Williams Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ50236",
+    "firm_name": "Richard Thomas Partners",
+    "headquarters": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "total_aum": 4700545972.016849,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Secondaries",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Growth Capital",
+      "Infrastructure"
+    ],
+    "founded_year": 1981,
+    "employee_count": 483,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4249083053.20293,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.richardthomas.co.uk",
+    "alternative_names": [
+      "Richard Thomas",
+      "Richard Thomas Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ64234",
+    "firm_name": "Cordova Capital Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 4857745234.251461,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Real Estate"
+    ],
+    "founded_year": 2007,
+    "employee_count": 329,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4641514623.562588,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.cordova.de",
+    "alternative_names": [
+      "Cordova Capital",
+      "Cordova Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ60561",
+    "firm_name": "Dixonfurt Ventures",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 631395742.9912282,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Secondaries",
+      "Venture Capital",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Secondary"
+    ],
+    "founded_year": 1986,
+    "employee_count": 451,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4176253873.032266,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.dixonfurtventures.net",
+    "alternative_names": [
+      "Dixonfurt Ventures",
+      "Dixonfurt Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ57372",
+    "firm_name": "Solis, Hernandez and Carter Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 4677495894.693276,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Infrastructure",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Buyout"
+    ],
+    "founded_year": 2003,
+    "employee_count": 120,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 2616012188.187989,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.solishernandezandcarter.fr",
+    "alternative_names": [
+      "Solis, Hernandez and Carter Capital",
+      "Solis, Hernandez and Carter"
+    ]
+  },
+  {
+    "firm_id": "PQ25804",
+    "firm_name": "Lake Catherine Ventures",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 15993500290.244095,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Fund of Funds"
+    ],
+    "founded_year": 1995,
+    "employee_count": 124,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 2474828043.8908863,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.lakecatherineventures.fr",
+    "alternative_names": [
+      "Lake Catherine Ventures",
+      "Lake Catherine Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ90235",
+    "firm_name": "Peters, Holland and Warner Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_aum": 8003483959.104853,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Venture Capital",
+      "Infrastructure",
+      "Growth Capital"
+    ],
+    "founded_year": 1998,
+    "employee_count": 440,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 1178286862.3658464,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.petershollandandwarner.co.uk",
+    "alternative_names": [
+      "Peters, Holland and Warner Capital",
+      "Peters, Holland and Warner"
+    ]
+  },
+  {
+    "firm_id": "PQ93780",
+    "firm_name": "Kathrynburgh Ventures",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_aum": 1312635537.463556,
+    "funds_managed": 9,
+    "asset_classes": [
+      "Private Debt",
+      "Private Equity",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Secondary"
+    ],
+    "founded_year": 1984,
+    "employee_count": 884,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3234112201.342023,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.kathrynburghventures.fr",
+    "alternative_names": [
+      "Kathrynburgh Ventures",
+      "Kathrynburgh Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ84319",
+    "firm_name": "Williams Douglas Partners",
+    "headquarters": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "total_aum": 17038096560.346897,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Private Equity",
+      "Private Debt",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Venture Capital",
+      "Fund of Funds"
+    ],
+    "founded_year": 2018,
+    "employee_count": 93,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 387686483.5344176,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.williamsdouglas.net",
+    "alternative_names": [
+      "Williams Douglas",
+      "Williams Douglas Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ98991",
+    "firm_name": "Robinson Investment Management",
+    "headquarters": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "total_aum": 13717520738.783855,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1986,
+    "employee_count": 559,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 4180556957.9075437,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.robinsoninvestment.de",
+    "alternative_names": [
+      "Robinson Investment Management",
+      "Robinson Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ61258",
+    "firm_name": "Walsh Thomas Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 15665367016.735655,
+    "funds_managed": 5,
+    "asset_classes": [
+      "Venture Capital",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1982,
+    "employee_count": 125,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 1347089609.0110435,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.walshthomas.de",
+    "alternative_names": [
+      "Walsh Thomas",
+      "Walsh Thomas Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ96645",
+    "firm_name": "Charlesfurt Ventures",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 7719028111.020743,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Real Estate",
+      "Private Debt",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Buyout"
+    ],
+    "founded_year": 2009,
+    "employee_count": 668,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 4882350606.070735,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.charlesfurtventures.com",
+    "alternative_names": [
+      "Charlesfurt Ventures",
+      "Charlesfurt Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ94738",
+    "firm_name": "South David Ventures",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 520249553.7088328,
+    "funds_managed": 9,
+    "asset_classes": [
+      "Venture Capital",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 1986,
+    "employee_count": 368,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3243631062.4193287,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.southdavidventures.net",
+    "alternative_names": [
+      "South David Ventures",
+      "South David Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ70829",
+    "firm_name": "Lake Arthurton Ventures",
+    "headquarters": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "total_aum": 13497594101.36659,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Natural Resources",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Growth Capital"
+    ],
+    "founded_year": 2003,
+    "employee_count": 350,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 2924161174.2383003,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.lakearthurtonventures.com",
+    "alternative_names": [
+      "Lake Arthurton Ventures",
+      "Lake Arthurton Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ93367",
+    "firm_name": "Molina Investment Management",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 2568650509.492194,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Hedge Funds",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Buyout"
+    ],
+    "founded_year": 2013,
+    "employee_count": 344,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3713950423.6715436,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.molinainvestment.com",
+    "alternative_names": [
+      "Molina Investment Management",
+      "Molina Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ15171",
+    "firm_name": "Ruiz Inc Capital",
+    "headquarters": {
+      "city": "San Francisco",
+      "country": "United States"
+    },
+    "total_aum": 9416083418.554901,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Secondary",
+      "Real Estate"
+    ],
+    "founded_year": 1995,
+    "employee_count": 977,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4016911639.455383,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.ruiz.com",
+    "alternative_names": [
+      "Ruiz Inc Capital",
+      "Ruiz Inc"
+    ]
+  },
+  {
+    "firm_id": "PQ66302",
+    "firm_name": "Duncan Capital Partners",
+    "headquarters": {
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    "total_aum": 9694997775.951029,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Hedge Funds",
+      "Private Equity",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 2000,
+    "employee_count": 281,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3580236129.3519115,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.duncan.de",
+    "alternative_names": [
+      "Duncan Capital",
+      "Duncan Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ53865",
+    "firm_name": "Hernandez and Sons Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 584577040.1634177,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Infrastructure",
+      "Natural Resources",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Venture Capital"
+    ],
+    "founded_year": 2022,
+    "employee_count": 830,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3599639411.2003202,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.hernandezandsons.de",
+    "alternative_names": [
+      "Hernandez and Sons Capital",
+      "Hernandez and Sons"
+    ]
+  },
+  {
+    "firm_id": "PQ32128",
+    "firm_name": "Webb Capital Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 3896333114.656988,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 1992,
+    "employee_count": 780,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 1200934852.8351407,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.webb.fr",
+    "alternative_names": [
+      "Webb Capital",
+      "Webb Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ96175",
+    "firm_name": "Bowersbury Ventures",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 1635174714.2292767,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Distressed"
+    ],
+    "founded_year": 1997,
+    "employee_count": 68,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1477284417.2053926,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.bowersburyventures.de",
+    "alternative_names": [
+      "Bowersbury Ventures",
+      "Bowersbury Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ68894",
+    "firm_name": "North Evanshire Ventures",
+    "headquarters": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "total_aum": 5847823626.245858,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Secondaries",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Secondary"
+    ],
+    "founded_year": 2017,
+    "employee_count": 669,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 2337287663.977537,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.northevanshireventures.fr",
+    "alternative_names": [
+      "North Evanshire Ventures",
+      "North Evanshire Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ56871",
+    "firm_name": "James Capital Partners",
+    "headquarters": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "total_aum": 10925792451.914904,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1992,
+    "employee_count": 10,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4158491710.0680513,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.james.co.uk",
+    "alternative_names": [
+      "James Capital",
+      "James Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ26605",
+    "firm_name": "Perkins-Andrade Capital",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_aum": 7752085526.208269,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Infrastructure"
+    ],
+    "founded_year": 1984,
+    "employee_count": 724,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 3443414701.2107425,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.perkinsandrade.fr",
+    "alternative_names": [
+      "Perkins-Andrade Capital",
+      "Perkins-Andrade"
+    ]
+  },
+  {
+    "firm_id": "PQ85239",
+    "firm_name": "Bowman Capital Partners",
+    "headquarters": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "total_aum": 8217053264.551084,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Secondaries",
+      "Venture Capital",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Real Estate"
+    ],
+    "founded_year": 1996,
+    "employee_count": 471,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 2588611158.5861216,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.bowman.fr",
+    "alternative_names": [
+      "Bowman Capital",
+      "Bowman Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ74487",
+    "firm_name": "North Robertland Ventures",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 15145604426.580727,
+    "funds_managed": 10,
+    "asset_classes": [
+      "Natural Resources",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Distressed",
+      "Fund of Funds"
+    ],
+    "founded_year": 2002,
+    "employee_count": 339,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4603969302.493861,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.northrobertlandventures.net",
+    "alternative_names": [
+      "North Robertland Ventures",
+      "North Robertland Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ52202",
+    "firm_name": "Port Loriport Ventures",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 10643298664.562456,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Hedge Funds",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Growth Capital"
+    ],
+    "founded_year": 1999,
+    "employee_count": 281,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3206195949.549403,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.portloriportventures.fr",
+    "alternative_names": [
+      "Port Loriport Ventures",
+      "Port Loriport Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ18427",
+    "firm_name": "Wright Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 4926539081.619681,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Private Equity",
+      "Real Estate",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Venture Capital",
+      "Infrastructure"
+    ],
+    "founded_year": 1996,
+    "employee_count": 517,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 1387132595.6755824,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.wrightinvestment.de",
+    "alternative_names": [
+      "Wright Investment Management",
+      "Wright Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ28818",
+    "firm_name": "Gonzalez Capital Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 6722475346.971444,
+    "funds_managed": 12,
+    "asset_classes": [
+      "Infrastructure",
+      "Secondaries",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Buyout",
+      "Venture Capital"
+    ],
+    "founded_year": 2020,
+    "employee_count": 718,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 2314232830.381895,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.gonzalez.net",
+    "alternative_names": [
+      "Gonzalez Capital",
+      "Gonzalez Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ51360",
+    "firm_name": "Vasquez, Barker and Walker Capital",
+    "headquarters": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "total_aum": 16129260957.389751,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Private Debt",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Special Situations",
+      "Fund of Funds"
+    ],
+    "founded_year": 1994,
+    "employee_count": 250,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1049071529.6689436,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.vasquezbarkerandwalker.net",
+    "alternative_names": [
+      "Vasquez, Barker and Walker Capital",
+      "Vasquez, Barker and Walker"
+    ]
+  },
+  {
+    "firm_id": "PQ39835",
+    "firm_name": "Watkins-Anderson Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 17201614609.829086,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Private Debt",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 1989,
+    "employee_count": 367,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 3456226388.0489764,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.watkinsanderson.co.uk",
+    "alternative_names": [
+      "Watkins-Anderson Capital",
+      "Watkins-Anderson"
+    ]
+  },
+  {
+    "firm_id": "PQ91030",
+    "firm_name": "Hallside Ventures",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_aum": 13764332431.890766,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Growth Capital",
+      "Fund of Funds"
+    ],
+    "founded_year": 1982,
+    "employee_count": 134,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 566832553.1005204,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.hallsideventures.fr",
+    "alternative_names": [
+      "Hallside Ventures",
+      "Hallside Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ14444",
+    "firm_name": "Martin, Hicks and Cook Capital",
+    "headquarters": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "total_aum": 10494219212.826933,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Hedge Funds",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Growth Capital"
+    ],
+    "founded_year": 1992,
+    "employee_count": 563,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 2136707514.1932032,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.martinhicksandcook.co.uk",
+    "alternative_names": [
+      "Martin, Hicks and Cook Capital",
+      "Martin, Hicks and Cook"
+    ]
+  },
+  {
+    "firm_id": "PQ58432",
+    "firm_name": "Jacobson Capital Partners",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 3790957064.0553136,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Venture Capital",
+      "Secondaries",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific",
+      "Europe"
+    ],
+    "investment_strategy": [
+      "Fund of Funds"
+    ],
+    "founded_year": 1999,
+    "employee_count": 553,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3202628225.298186,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.jacobson.de",
+    "alternative_names": [
+      "Jacobson Capital",
+      "Jacobson Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ95796",
+    "firm_name": "Harris Capital Partners",
+    "headquarters": {
+      "city": "Boston",
+      "country": "United States"
+    },
+    "total_aum": 15403592968.935223,
+    "funds_managed": 5,
+    "asset_classes": [
+      "Secondaries",
+      "Real Estate",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Infrastructure"
+    ],
+    "founded_year": 2019,
+    "employee_count": 75,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 1669203139.2770498,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.harris.de",
+    "alternative_names": [
+      "Harris Capital",
+      "Harris Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ30240",
+    "firm_name": "Gregory Investment Management",
+    "headquarters": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "total_aum": 14202300124.11521,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Buyout",
+      "Real Estate",
+      "Infrastructure"
+    ],
+    "founded_year": 2006,
+    "employee_count": 583,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1951208605.8841588,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.gregoryinvestment.net",
+    "alternative_names": [
+      "Gregory Investment Management",
+      "Gregory Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ66124",
+    "firm_name": "Hayden-Jones Capital",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 4394097818.009608,
+    "funds_managed": 10,
+    "asset_classes": [
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1992,
+    "employee_count": 237,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 1381224313.5792408,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.haydenjones.com",
+    "alternative_names": [
+      "Hayden-Jones Capital",
+      "Hayden-Jones"
+    ]
+  },
+  {
+    "firm_id": "PQ95214",
+    "firm_name": "Owen, Melendez and Miller Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 6883125487.981962,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Infrastructure",
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 2006,
+    "employee_count": 508,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4405787984.4890375,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.owenmelendezandmiller.fr",
+    "alternative_names": [
+      "Owen, Melendez and Miller Capital",
+      "Owen, Melendez and Miller"
+    ]
+  },
+  {
+    "firm_id": "PQ62432",
+    "firm_name": "Armstrong Jones Partners",
+    "headquarters": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "total_aum": 2951811510.7031875,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Hedge Funds",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Secondary"
+    ],
+    "founded_year": 2003,
+    "employee_count": 18,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 132222596.37427026,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.armstrongjones.com",
+    "alternative_names": [
+      "Armstrong Jones",
+      "Armstrong Jones Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ53220",
+    "firm_name": "Ross Capital Partners",
+    "headquarters": {
+      "city": "Vancouver",
+      "country": "Canada"
+    },
+    "total_aum": 7980833779.788218,
+    "funds_managed": 3,
+    "asset_classes": [
+      "Real Estate",
+      "Private Equity",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 1983,
+    "employee_count": 991,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 1375640865.4439704,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.ross.co.uk",
+    "alternative_names": [
+      "Ross Capital",
+      "Ross Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ29240",
+    "firm_name": "Holmes West Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Sweden"
+    },
+    "total_aum": 17586009374.670547,
+    "funds_managed": 3,
+    "asset_classes": [
+      "Natural Resources",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Secondary"
+    ],
+    "founded_year": 2013,
+    "employee_count": 491,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 4144393204.916095,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.holmeswest.com",
+    "alternative_names": [
+      "Holmes West",
+      "Holmes West Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ56002",
+    "firm_name": "Jensen Capital Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 11679905817.668835,
+    "funds_managed": 3,
+    "asset_classes": [
+      "Private Equity",
+      "Natural Resources"
+    ],
+    "geographic_focus": [
+      "North America",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Buyout",
+      "Secondary"
+    ],
+    "founded_year": 1988,
+    "employee_count": 771,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 3915951701.810804,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.jensen.com",
+    "alternative_names": [
+      "Jensen Capital",
+      "Jensen Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ40906",
+    "firm_name": "Perry Scott Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_aum": 1214538399.6252313,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Global"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Venture Capital",
+      "Real Estate"
+    ],
+    "founded_year": 1989,
+    "employee_count": 429,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 2856668610.7894416,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.perryscott.com",
+    "alternative_names": [
+      "Perry Scott",
+      "Perry Scott Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ26524",
+    "firm_name": "Wells Castillo Partners",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 17231426107.47701,
+    "funds_managed": 12,
+    "asset_classes": [
+      "Real Estate",
+      "Private Equity",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Europe",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Special Situations",
+      "Real Estate"
+    ],
+    "founded_year": 1996,
+    "employee_count": 977,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4220876059.993563,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.wellscastillo.fr",
+    "alternative_names": [
+      "Wells Castillo",
+      "Wells Castillo Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ60754",
+    "firm_name": "Parsons Investment Management",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_aum": 8332285395.906305,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Venture Capital",
+      "Real Estate",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Special Situations"
+    ],
+    "founded_year": 1998,
+    "employee_count": 127,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 1007456529.4740429,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.parsonsinvestment.fr",
+    "alternative_names": [
+      "Parsons Investment Management",
+      "Parsons Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ47982",
+    "firm_name": "Newman Investment Management",
+    "headquarters": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "total_aum": 19408410318.69715,
+    "funds_managed": 2,
+    "asset_classes": [
+      "Secondaries",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Growth Capital"
+    ],
+    "founded_year": 1988,
+    "employee_count": 631,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 4415018670.990233,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.newmaninvestment.de",
+    "alternative_names": [
+      "Newman Investment Management",
+      "Newman Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ50896",
+    "firm_name": "Stokes Bass Partners",
+    "headquarters": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "total_aum": 12128964349.56555,
+    "funds_managed": 4,
+    "asset_classes": [
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "Global",
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Distressed"
+    ],
+    "founded_year": 2018,
+    "employee_count": 886,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 2126607565.2386425,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.stokesbass.com",
+    "alternative_names": [
+      "Stokes Bass",
+      "Stokes Bass Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ58582",
+    "firm_name": "Allen Capital Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 19708770913.588516,
+    "funds_managed": 5,
+    "asset_classes": [
+      "Secondaries",
+      "Venture Capital",
+      "Hedge Funds"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Real Estate",
+      "Buyout",
+      "Fund of Funds"
+    ],
+    "founded_year": 2005,
+    "employee_count": 128,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 208484595.0819748,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.allen.com",
+    "alternative_names": [
+      "Allen Capital",
+      "Allen Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ83544",
+    "firm_name": "Porter-Perez Capital",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_aum": 7675180747.787142,
+    "funds_managed": 7,
+    "asset_classes": [
+      "Infrastructure",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Latin America"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Real Estate",
+      "Fund of Funds"
+    ],
+    "founded_year": 2016,
+    "employee_count": 337,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 958958494.2320424,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.porterperez.co.uk",
+    "alternative_names": [
+      "Porter-Perez Capital",
+      "Porter-Perez"
+    ]
+  },
+  {
+    "firm_id": "PQ23070",
+    "firm_name": "North Stephenmouth Ventures",
+    "headquarters": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "total_aum": 15594186698.874454,
+    "funds_managed": 5,
+    "asset_classes": [
+      "Real Estate",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Global"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Secondary",
+      "Buyout"
+    ],
+    "founded_year": 2011,
+    "employee_count": 663,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4388162855.976131,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.northstephenmouthventures.fr",
+    "alternative_names": [
+      "North Stephenmouth Ventures",
+      "North Stephenmouth Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ16036",
+    "firm_name": "Wang Investment Management",
+    "headquarters": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "total_aum": 12772171943.483234,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Hedge Funds",
+      "Private Debt"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "Asia-Pacific"
+    ],
+    "investment_strategy": [
+      "Fund of Funds"
+    ],
+    "founded_year": 2005,
+    "employee_count": 146,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 1295574835.6135967,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.wanginvestment.com",
+    "alternative_names": [
+      "Wang Investment Management",
+      "Wang Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ25599",
+    "firm_name": "Smith Mercado Partners",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_aum": 14836611267.004955,
+    "funds_managed": 11,
+    "asset_classes": [
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Buyout"
+    ],
+    "founded_year": 1982,
+    "employee_count": 646,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 4457534400.220302,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.smithmercado.net",
+    "alternative_names": [
+      "Smith Mercado",
+      "Smith Mercado Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ56120",
+    "firm_name": "Bailey-Garcia Capital",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_aum": 11252924410.280127,
+    "funds_managed": 8,
+    "asset_classes": [
+      "Natural Resources",
+      "Hedge Funds",
+      "Real Estate"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa",
+      "North America"
+    ],
+    "investment_strategy": [
+      "Fund of Funds",
+      "Growth Capital",
+      "Buyout"
+    ],
+    "founded_year": 1986,
+    "employee_count": 38,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 4232211591.482928,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.baileygarcia.net",
+    "alternative_names": [
+      "Bailey-Garcia Capital",
+      "Bailey-Garcia"
+    ]
+  },
+  {
+    "firm_id": "PQ66537",
+    "firm_name": "Carter Capital Partners",
+    "headquarters": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "total_aum": 15110642548.944067,
+    "funds_managed": 6,
+    "asset_classes": [
+      "Natural Resources",
+      "Real Estate",
+      "Infrastructure"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Infrastructure",
+      "Growth Capital"
+    ],
+    "founded_year": 2012,
+    "employee_count": 533,
+    "recent_fundraising": {
+      "active_funds": 0,
+      "target_size": 599392116.2803333,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.carter.net",
+    "alternative_names": [
+      "Carter Capital",
+      "Carter Partners"
+    ]
+  },
+  {
+    "firm_id": "PQ95816",
+    "firm_name": "Guerrero Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_aum": 18520710612.213158,
+    "funds_managed": 14,
+    "asset_classes": [
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Distressed"
+    ],
+    "founded_year": 2006,
+    "employee_count": 54,
+    "recent_fundraising": {
+      "active_funds": 3,
+      "target_size": 1268369034.5662713,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.guerreroinvestment.de",
+    "alternative_names": [
+      "Guerrero Investment Management",
+      "Guerrero Investment Management"
+    ]
+  },
+  {
+    "firm_id": "PQ31174",
+    "firm_name": "Thomas-Greer Capital",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Sweden"
+    },
+    "total_aum": 12788886648.983704,
+    "funds_managed": 1,
+    "asset_classes": [
+      "Venture Capital",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine",
+      "Special Situations",
+      "Growth Capital"
+    ],
+    "founded_year": 2014,
+    "employee_count": 409,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3458201933.4915137,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.thomasgreer.com",
+    "alternative_names": [
+      "Thomas-Greer Capital",
+      "Thomas-Greer"
+    ]
+  },
+  {
+    "firm_id": "PQ67823",
+    "firm_name": "Hayes-Murphy Capital",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_aum": 7145277452.821024,
+    "funds_managed": 13,
+    "asset_classes": [
+      "Private Equity",
+      "Secondaries",
+      "Venture Capital"
+    ],
+    "geographic_focus": [
+      "Latin America",
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Growth Capital",
+      "Infrastructure",
+      "Distressed"
+    ],
+    "founded_year": 1995,
+    "employee_count": 109,
+    "recent_fundraising": {
+      "active_funds": 2,
+      "target_size": 2698677911.1035852,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.hayesmurphy.net",
+    "alternative_names": [
+      "Hayes-Murphy Capital",
+      "Hayes-Murphy"
+    ]
+  },
+  {
+    "firm_id": "PQ34616",
+    "firm_name": "South Anita Ventures",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_aum": 149022153.6264356,
+    "funds_managed": 3,
+    "asset_classes": [
+      "Infrastructure",
+      "Private Equity"
+    ],
+    "geographic_focus": [
+      "Middle East & Africa"
+    ],
+    "investment_strategy": [
+      "Credit/Mezzanine"
+    ],
+    "founded_year": 1993,
+    "employee_count": 882,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3383637708.493372,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.southanitaventures.com",
+    "alternative_names": [
+      "South Anita Ventures",
+      "South Anita Ventures"
+    ]
+  },
+  {
+    "firm_id": "PQ31127",
+    "firm_name": "Thomas Investment Management",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_aum": 12731499057.638214,
+    "funds_managed": 15,
+    "asset_classes": [
+      "Real Estate",
+      "Secondaries"
+    ],
+    "geographic_focus": [
+      "North America"
+    ],
+    "investment_strategy": [
+      "Distressed",
+      "Infrastructure",
+      "Real Estate"
+    ],
+    "founded_year": 1995,
+    "employee_count": 584,
+    "recent_fundraising": {
+      "active_funds": 1,
+      "target_size": 3844250456.800224,
+      "last_close_date": "2025-06-05"
+    },
+    "website": "https://www.thomasinvestment.com",
+    "alternative_names": [
+      "Thomas Investment Management",
+      "Thomas Investment Management"
+    ]
+  }
+]

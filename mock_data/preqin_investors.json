@@ -1,0 +1,6670 @@
+[
+  {
+    "investor_id": "INV53466",
+    "investor_name": "Peterson PLC Fund of Funds",
+    "investor_type": "Fund of Funds",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 73829498978.12936,
+    "asset_class_allocations": {
+      "Real Estate": 21.8,
+      "Private Debt": 41.2,
+      "Secondaries": 37.0
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Lopez-Norris Fund 9",
+        "commitment_amount": 279470489.6756072,
+        "commitment_date": "2024-07-19"
+      },
+      {
+        "fund_name": "Daniels-Moyer Fund 5",
+        "commitment_amount": 112538788.55624981,
+        "commitment_date": "2023-09-13"
+      },
+      {
+        "fund_name": "Nelson, Gardner and Garcia Fund 6",
+        "commitment_amount": 416182143.20995003,
+        "commitment_date": "2024-01-05"
+      },
+      {
+        "fund_name": "Brooks-Lin Fund 10",
+        "commitment_amount": 60337551.09655147,
+        "commitment_date": "2023-07-01"
+      }
+    ],
+    "portfolio_companies": [
+      "Black-Howard",
+      "Padilla-Cohen",
+      "Taylor, Mcguire and Frost",
+      "Goodman LLC",
+      "Pollard Ltd",
+      "Hart, Curry and Daniels",
+      "Lopez-Young",
+      "Phillips and Sons",
+      "Williamson-Daniels",
+      "Wallace PLC",
+      "Burgess-Ford",
+      "Johnson-Smith",
+      "Chambers Inc",
+      "Sloan and Sons",
+      "Olson, Rogers and Bradley"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 23008715.172946848,
+      "max_opportunity_size": 138860578.0322483,
+      "preferred_service_lines": [
+        "Technology",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV88074",
+    "investor_name": "Denmark Investment Authority",
+    "investor_type": "Sovereign Wealth Fund",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_commitments": 77848195771.80544,
+    "asset_class_allocations": {
+      "Natural Resources": 25.1,
+      "Private Equity": 17.4,
+      "Infrastructure": 26.0,
+      "Hedge Funds": 31.6
+    },
+    "geographic_preferences": [
+      "Global",
+      "Europe",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Lutz, Franklin and Charles Fund 4",
+        "commitment_amount": 269433938.9503567,
+        "commitment_date": "2023-11-15"
+      }
+    ],
+    "portfolio_companies": [
+      "Russell, Melton and Smith",
+      "Brown Group",
+      "Martinez-Livingston",
+      "Krause, Chen and Burke",
+      "Watson, Harvey and Duncan",
+      "Anderson-Berry",
+      "Foster, Smith and Black",
+      "Miller PLC",
+      "Mcknight Ltd",
+      "Martinez-Graham",
+      "Lewis-Davis",
+      "Wong Inc",
+      "Frank-Davis",
+      "Fowler-Martin",
+      "Bell, Brown and White",
+      "Gamble-Davis",
+      "Smith-Beck",
+      "Wyatt, Contreras and Mayer",
+      "Miller Inc"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 42637854.484578624,
+      "max_opportunity_size": 1971736395.3600705,
+      "preferred_service_lines": [
+        "Technology",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV84616",
+    "investor_name": "Brooks, Washington and Mueller Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_commitments": 6031341120.283031,
+    "asset_class_allocations": {
+      "Venture Capital": 48.8,
+      "Natural Resources": 28.6,
+      "Infrastructure": 22.6
+    },
+    "geographic_preferences": [
+      "Europe",
+      "Latin America",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Marsh and Sons Fund 3",
+        "commitment_amount": 457554607.85629964,
+        "commitment_date": "2025-02-03"
+      },
+      {
+        "fund_name": "Farley PLC Fund 7",
+        "commitment_amount": 87950355.9889322,
+        "commitment_date": "2024-04-17"
+      },
+      {
+        "fund_name": "Holmes-Castillo Fund 3",
+        "commitment_amount": 452202901.7848629,
+        "commitment_date": "2024-03-31"
+      },
+      {
+        "fund_name": "Silva PLC Fund 5",
+        "commitment_amount": 398183399.4886214,
+        "commitment_date": "2025-04-03"
+      }
+    ],
+    "portfolio_companies": [
+      "Mcknight Ltd",
+      "Martin Ltd",
+      "Oliver, Gilbert and Coleman",
+      "Collins-Jimenez",
+      "Lane-Graves",
+      "Goodwin Inc",
+      "Sanchez-Jackson",
+      "Quinn LLC",
+      "Little-Hunt",
+      "Williams, Griffin and Odom",
+      "Calderon LLC",
+      "Daugherty, Haley and Carlson",
+      "Wilson, Costa and Wolfe",
+      "Roberts LLC",
+      "Palmer-Bowen"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 46324456.22218445,
+      "max_opportunity_size": 1277214967.0351171,
+      "preferred_service_lines": [
+        "Research",
+        "Technology",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Global",
+        "Latin America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV12056",
+    "investor_name": "Hess, Stephens and Fitzgerald Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 14211099752.189705,
+    "asset_class_allocations": {
+      "Real Estate": 26.2,
+      "Secondaries": 24.3,
+      "Hedge Funds": 26.7,
+      "Natural Resources": 22.7
+    },
+    "geographic_preferences": [
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Allen and Sons Fund 2",
+        "commitment_amount": 13535093.25849388,
+        "commitment_date": "2025-01-29"
+      },
+      {
+        "fund_name": "Lee Ltd Fund 3",
+        "commitment_amount": 452775366.60618824,
+        "commitment_date": "2023-10-29"
+      },
+      {
+        "fund_name": "Hall-Houston Fund 6",
+        "commitment_amount": 144844059.72539568,
+        "commitment_date": "2025-01-10"
+      }
+    ],
+    "portfolio_companies": [
+      "Macias, Riley and Miller",
+      "Murray-Burnett",
+      "Cooper, Harris and Carr",
+      "Morton and Sons",
+      "Hayden, Jones and Wilcox",
+      "Marshall-Velazquez",
+      "Herrera Group",
+      "Gutierrez Group",
+      "Kline-Patterson",
+      "Foster PLC",
+      "Mendoza-Austin",
+      "Smith, Maxwell and Powell",
+      "Johnson Ltd",
+      "Smith, Casey and Thompson",
+      "Watson, Hunt and Maxwell",
+      "Stokes-Harvey",
+      "Nelson-Allen",
+      "Trevino, Fernandez and Rocha",
+      "Obrien-Gonzalez",
+      "Robinson-Thomas",
+      "Martinez-Lee",
+      "Davis PLC",
+      "Romero-Garcia",
+      "Atkinson Group",
+      "Bradley-Sweeney",
+      "Wheeler, Jackson and Jones",
+      "Glass-Pena",
+      "Garcia, Kane and Macias",
+      "Walker-Graham",
+      "Nguyen, Sanders and Frank",
+      "Mcdaniel, Sanders and Nelson",
+      "Price-Clark",
+      "Powers-Barr",
+      "Moore and Sons",
+      "Lee, Stewart and Hughes"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 8961509.317199307,
+      "max_opportunity_size": 951444748.7308652,
+      "preferred_service_lines": [
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV83667",
+    "investor_name": "Paul-Torres Endowment",
+    "investor_type": "Endowment",
+    "headquarters": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "total_commitments": 8054403830.264004,
+    "asset_class_allocations": {
+      "Natural Resources": 49.1,
+      "Private Equity": 50.9
+    },
+    "geographic_preferences": [
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Murphy LLC Fund 6",
+        "commitment_amount": 468270863.71502143,
+        "commitment_date": "2023-08-24"
+      },
+      {
+        "fund_name": "Martinez-Riggs Fund 8",
+        "commitment_amount": 171824890.4830709,
+        "commitment_date": "2025-05-21"
+      },
+      {
+        "fund_name": "Miller, Rodriguez and Davis Fund 2",
+        "commitment_amount": 261679362.54511702,
+        "commitment_date": "2024-09-19"
+      }
+    ],
+    "portfolio_companies": [
+      "Anderson-Mann",
+      "Wilson Inc",
+      "Powell-May",
+      "Lane-Price",
+      "Brown, Thomas and Wilson",
+      "Macdonald, Boyd and Espinoza",
+      "Gallagher Inc",
+      "Frazier, Kelly and Morris",
+      "Carter, Crawford and Fitzpatrick",
+      "Burton, Fritz and Russell",
+      "Clark-Mccall",
+      "Williams Inc",
+      "Pope-Morales",
+      "Hunt, Pittman and Baker",
+      "Thomas, Sanchez and Reed",
+      "Davis PLC"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 9377010.274822276,
+      "max_opportunity_size": 1428445028.7685843,
+      "preferred_service_lines": [
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Latin America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV17979",
+    "investor_name": "Perez, Holland and Herrera Fund of Funds",
+    "investor_type": "Fund of Funds",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_commitments": 60381056473.86725,
+    "asset_class_allocations": {
+      "Private Debt": 12.4,
+      "Infrastructure": 26.7,
+      "Venture Capital": 31.2,
+      "Secondaries": 29.7
+    },
+    "geographic_preferences": [
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Terry, Bryan and Gallegos Fund 7",
+        "commitment_amount": 175965897.0033131,
+        "commitment_date": "2023-07-30"
+      },
+      {
+        "fund_name": "Rowe-Lee Fund 10",
+        "commitment_amount": 286611625.7299261,
+        "commitment_date": "2024-01-14"
+      },
+      {
+        "fund_name": "Smith-Burke Fund 6",
+        "commitment_amount": 355200560.5402942,
+        "commitment_date": "2024-04-01"
+      },
+      {
+        "fund_name": "Short PLC Fund 9",
+        "commitment_amount": 466009453.3146985,
+        "commitment_date": "2024-11-15"
+      }
+    ],
+    "portfolio_companies": [
+      "Mitchell-Miller",
+      "Gallagher Ltd",
+      "Ford, Walker and Howell",
+      "Nichols Ltd",
+      "Ramirez-Kent",
+      "Jimenez Ltd",
+      "Johnston, Michael and Jenkins",
+      "Matthews Ltd",
+      "Snyder-Salazar",
+      "Griffin Inc",
+      "Richardson-Jones",
+      "Roberson-Aguilar",
+      "Huff, Wilson and Cervantes",
+      "Thomas, Moreno and Watkins",
+      "Baldwin PLC",
+      "Shaw Group",
+      "Douglas, Burke and Baker",
+      "Deleon-Williams",
+      "Phillips-George",
+      "Melendez LLC",
+      "Jones Inc",
+      "Anderson and Sons",
+      "Bradford, Andrews and Diaz",
+      "Shaw, Burns and Williams",
+      "Jones LLC",
+      "Montoya Ltd",
+      "Lee Ltd",
+      "Henson PLC",
+      "Bush, Montgomery and Dixon",
+      "Morgan, Morgan and Foster",
+      "Cannon, Jennings and Wilson",
+      "Berg-Cox",
+      "Molina-Johnson",
+      "Cruz, Bowman and Green",
+      "Myers-Clark",
+      "Russell Ltd",
+      "Foley-Sanchez",
+      "Carpenter PLC",
+      "Miller-Berry",
+      "Zamora, Sandoval and Armstrong",
+      "Cardenas PLC",
+      "Marquez, Garcia and Torres",
+      "Cummings-Williams",
+      "Jackson, Moore and Gardner",
+      "Velasquez-Mathews",
+      "Jones, Browning and Gentry",
+      "Brown, Shepherd and Fitzpatrick",
+      "Rodriguez, Hammond and Ochoa",
+      "Carson, Brown and Horn",
+      "Singh Ltd"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 13971970.650728803,
+      "max_opportunity_size": 1046809802.5973446,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV70785",
+    "investor_name": "Sullivan, Morgan and Daniels Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_commitments": 82243480549.76472,
+    "asset_class_allocations": {
+      "Private Debt": 12.5,
+      "Private Equity": 19.3,
+      "Infrastructure": 17.4,
+      "Real Estate": 32.6,
+      "Venture Capital": 18.1
+    },
+    "geographic_preferences": [
+      "Middle East & Africa",
+      "Latin America",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Holmes-Scott Fund 1",
+        "commitment_amount": 252007589.32262158,
+        "commitment_date": "2023-09-06"
+      },
+      {
+        "fund_name": "Kirby-Davis Fund 7",
+        "commitment_amount": 491052342.2555701,
+        "commitment_date": "2024-08-02"
+      },
+      {
+        "fund_name": "Kennedy Ltd Fund 3",
+        "commitment_amount": 350512576.0980604,
+        "commitment_date": "2025-02-02"
+      },
+      {
+        "fund_name": "Thomas-Johnson Fund 10",
+        "commitment_amount": 166388106.11430266,
+        "commitment_date": "2023-06-29"
+      },
+      {
+        "fund_name": "Lee Group Fund 10",
+        "commitment_amount": 248438425.12398806,
+        "commitment_date": "2023-06-13"
+      }
+    ],
+    "portfolio_companies": [
+      "Hall PLC",
+      "Campbell-Farmer",
+      "Johnson, May and Collier",
+      "Hunt-Clark",
+      "Mays, Jensen and Morris",
+      "Smith Inc",
+      "Guzman, Cross and Thornton",
+      "Bruce LLC",
+      "Blake Group",
+      "Burns, Saunders and Barrett",
+      "Clark LLC",
+      "Price PLC",
+      "Rodriguez, Stark and Thompson",
+      "Hernandez Group",
+      "Smith, Dillon and Espinoza",
+      "Griffin-Baker",
+      "Mccann Ltd",
+      "Curtis, Brooks and Taylor",
+      "Jones PLC",
+      "Blanchard Inc",
+      "Rodriguez Group",
+      "Rose PLC",
+      "Watkins, Morrison and Alvarez",
+      "Cantu and Sons",
+      "Soto PLC",
+      "Schwartz-Smith",
+      "Torres Ltd",
+      "Wilson Ltd"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 48064344.98007986,
+      "max_opportunity_size": 779304316.909325,
+      "preferred_service_lines": [
+        "Research",
+        "Advisory",
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Global",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV70045",
+    "investor_name": "Miller-Brown Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "total_commitments": 5655991230.833056,
+    "asset_class_allocations": {
+      "Secondaries": 31.0,
+      "Infrastructure": 29.9,
+      "Venture Capital": 39.1
+    },
+    "geographic_preferences": [
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Hamilton, Reeves and Morales Fund 8",
+        "commitment_amount": 84862967.0961737,
+        "commitment_date": "2023-11-12"
+      },
+      {
+        "fund_name": "Williams, Miller and Matthews Fund 1",
+        "commitment_amount": 300691322.1347488,
+        "commitment_date": "2025-04-03"
+      },
+      {
+        "fund_name": "Hernandez-Scott Fund 3",
+        "commitment_amount": 414837488.4280215,
+        "commitment_date": "2025-05-07"
+      },
+      {
+        "fund_name": "Franco PLC Fund 6",
+        "commitment_amount": 319769652.09591293,
+        "commitment_date": "2023-08-14"
+      },
+      {
+        "fund_name": "Johnson, Ramirez and Thomas Fund 10",
+        "commitment_amount": 108893159.43368712,
+        "commitment_date": "2025-01-21"
+      }
+    ],
+    "portfolio_companies": [
+      "Robinson-Martin",
+      "Calhoun, Barker and Ryan",
+      "Nichols, Reed and Vance",
+      "Hogan-Bridges",
+      "Humphrey Ltd",
+      "Ryan LLC",
+      "Glover-Cunningham",
+      "Smith LLC",
+      "Maxwell, Smith and Garcia",
+      "Kelly Group",
+      "Hurley, Vaughan and Brady",
+      "Leonard, Hamilton and Mitchell",
+      "Key-White",
+      "Serrano-Jones",
+      "Douglas and Sons",
+      "Reed Ltd",
+      "Hall Ltd",
+      "Graves-Hurst",
+      "White PLC",
+      "Morris-Payne",
+      "Proctor, Powell and Barrett",
+      "Martinez-Luna",
+      "Ramirez-Kane",
+      "Norton-Shields",
+      "Reeves, Gonzalez and Hernandez",
+      "Reese LLC",
+      "Eaton Inc",
+      "Keith LLC",
+      "Watson PLC",
+      "Smith, Hill and Pittman",
+      "Fry, Madden and Wong",
+      "Mayer, Wallace and Morris",
+      "Pittman and Sons",
+      "Young-Jones"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 13648834.838593382,
+      "max_opportunity_size": 1750596992.9294715,
+      "preferred_service_lines": [
+        "Technology",
+        "Data & Analytics",
+        "Training"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Latin America",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV13774",
+    "investor_name": "Johnson-Simmons Family Office",
+    "investor_type": "Family Office",
+    "headquarters": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "total_commitments": 11459831063.613522,
+    "asset_class_allocations": {
+      "Secondaries": 22.5,
+      "Real Estate": 49.8,
+      "Hedge Funds": 27.6
+    },
+    "geographic_preferences": [
+      "Global",
+      "Latin America",
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Patterson Group Fund 2",
+        "commitment_amount": 228699494.73649666,
+        "commitment_date": "2023-11-18"
+      },
+      {
+        "fund_name": "Patterson, Fuller and Wolfe Fund 2",
+        "commitment_amount": 189223430.6705407,
+        "commitment_date": "2025-04-30"
+      },
+      {
+        "fund_name": "Lewis, Campbell and Sandoval Fund 4",
+        "commitment_amount": 499268480.62129223,
+        "commitment_date": "2024-01-21"
+      },
+      {
+        "fund_name": "Cline-Morgan Fund 8",
+        "commitment_amount": 274514000.63126934,
+        "commitment_date": "2024-10-20"
+      }
+    ],
+    "portfolio_companies": [
+      "Butler, Shea and Daniels",
+      "Bautista-Cardenas",
+      "Spencer, Kelly and Gonzalez",
+      "Reeves-Soto",
+      "Washington, Powell and Martinez",
+      "Davenport Group",
+      "Wise, Walls and Robinson",
+      "Potts-Baldwin",
+      "Johnson Ltd",
+      "Bishop, Deleon and French",
+      "Lawson, Burton and Green",
+      "Harper, Davis and Cabrera",
+      "Carter, Kelley and Young",
+      "Bush LLC",
+      "Donaldson, Miller and Mitchell",
+      "Sanders Inc",
+      "Hughes-Lucas",
+      "Thompson, Soto and Walker",
+      "Perez Inc",
+      "Hays-Rodriguez",
+      "Johnson, Lyons and Barrera",
+      "Mcdaniel Group",
+      "Mitchell Ltd",
+      "Kennedy LLC",
+      "Miller, Chapman and Anderson",
+      "Cummings Inc",
+      "Sullivan-Porter",
+      "Glass-Russell",
+      "Lopez, Jones and Collins",
+      "Shannon, Sutton and Rodriguez",
+      "Smith, Frost and Sanchez",
+      "Johnson Inc",
+      "Monroe, Gutierrez and Kelly",
+      "Cochran Group"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 46879301.645330705,
+      "max_opportunity_size": 523794058.3928337,
+      "preferred_service_lines": [
+        "Research",
+        "Data & Analytics",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV98811",
+    "investor_name": "Juarez, Patrick and Lopez Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_commitments": 10756268028.478338,
+    "asset_class_allocations": {
+      "Venture Capital": 38.9,
+      "Private Equity": 52.8,
+      "Infrastructure": 8.3
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Peters, Miller and Harris Fund 6",
+        "commitment_amount": 417206228.95697707,
+        "commitment_date": "2023-12-09"
+      },
+      {
+        "fund_name": "Perry-Smith Fund 7",
+        "commitment_amount": 449685648.3702394,
+        "commitment_date": "2025-05-13"
+      },
+      {
+        "fund_name": "Wilkins-Martinez Fund 3",
+        "commitment_amount": 389831802.56986475,
+        "commitment_date": "2024-11-27"
+      },
+      {
+        "fund_name": "Ball-Lloyd Fund 2",
+        "commitment_amount": 289001272.1824017,
+        "commitment_date": "2023-10-13"
+      },
+      {
+        "fund_name": "Brown-Garcia Fund 8",
+        "commitment_amount": 480719901.4650989,
+        "commitment_date": "2024-12-11"
+      }
+    ],
+    "portfolio_companies": [
+      "Miller Ltd",
+      "Stevens Ltd",
+      "Leonard Group",
+      "Smith, Oconnor and Rivera",
+      "Stewart LLC",
+      "Edwards-Knight",
+      "Bush Ltd",
+      "Carter-Rios",
+      "Holmes LLC",
+      "Hill Inc",
+      "Payne-Allen",
+      "Garrett-Smith",
+      "Mccoy-Wilson",
+      "Miles-Porter",
+      "Reynolds-Mckay",
+      "Patterson Inc",
+      "Lambert Ltd",
+      "Ritter, Johnson and Long",
+      "Roy, Taylor and Perez",
+      "Chavez, White and Collier",
+      "Ross, Ramirez and Carrillo"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 28115612.324870374,
+      "max_opportunity_size": 1989755216.159304,
+      "preferred_service_lines": [
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa",
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV51714",
+    "investor_name": "Cruz LLC Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_commitments": 15043575154.60492,
+    "asset_class_allocations": {
+      "Secondaries": 32.0,
+      "Private Equity": 15.4,
+      "Hedge Funds": 17.2,
+      "Venture Capital": 35.3
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "North America",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Foster, Bell and Clark Fund 10",
+        "commitment_amount": 127661656.48720315,
+        "commitment_date": "2023-09-08"
+      },
+      {
+        "fund_name": "Snyder PLC Fund 10",
+        "commitment_amount": 159809931.0949087,
+        "commitment_date": "2023-08-14"
+      },
+      {
+        "fund_name": "Jimenez LLC Fund 7",
+        "commitment_amount": 82220232.94828351,
+        "commitment_date": "2024-03-22"
+      },
+      {
+        "fund_name": "Lewis, Thompson and Villegas Fund 4",
+        "commitment_amount": 154510307.5420446,
+        "commitment_date": "2024-09-06"
+      }
+    ],
+    "portfolio_companies": [
+      "Brown-Morgan",
+      "Miller, Hart and Pratt",
+      "Martinez Inc",
+      "Flores, Mitchell and Robertson",
+      "Wallace, Richards and Herrera",
+      "Cobb, Munoz and Kennedy",
+      "Donovan, Pena and Young",
+      "Brooks-Glass",
+      "Johnson Ltd",
+      "Nelson-Chase",
+      "Hicks-Schroeder",
+      "Taylor-Pearson",
+      "Erickson Inc",
+      "Martinez Ltd",
+      "Wright PLC",
+      "Bishop Group",
+      "Clark Inc",
+      "Owens and Sons",
+      "Henry Group",
+      "White LLC",
+      "Chapman-Garcia",
+      "Martinez-Perez",
+      "Davis, Harris and Jones",
+      "Maxwell, Watts and Taylor",
+      "Lee and Sons",
+      "Tucker Inc",
+      "Arnold LLC"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 27574586.945771843,
+      "max_opportunity_size": 648562666.1106477,
+      "preferred_service_lines": [
+        "Technology",
+        "Advisory",
+        "Training"
+      ],
+      "stage_preferences": [
+        "Prospecting",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV61471",
+    "investor_name": "Nebraska Teachers Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_commitments": 94093864229.13565,
+    "asset_class_allocations": {
+      "Private Debt": 33.7,
+      "Infrastructure": 66.3
+    },
+    "geographic_preferences": [
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Parker-Duncan Fund 4",
+        "commitment_amount": 321107987.41129404,
+        "commitment_date": "2024-05-10"
+      },
+      {
+        "fund_name": "Perez LLC Fund 9",
+        "commitment_amount": 409591572.9299621,
+        "commitment_date": "2024-07-05"
+      }
+    ],
+    "portfolio_companies": [
+      "Hill Inc",
+      "Morris Inc",
+      "Hernandez, Harrington and Gray",
+      "Lee, Wiggins and Villanueva",
+      "Jones PLC",
+      "Ballard, Stephens and Baker",
+      "Maxwell-Jones",
+      "Dawson, Martinez and Mcdaniel",
+      "Carter-Miller",
+      "Walton and Sons",
+      "Parsons-Robinson",
+      "Baker, Goodwin and Stone",
+      "Collins PLC",
+      "Davis, Nelson and Thompson",
+      "Dudley Inc",
+      "Thomas-Holland",
+      "Parker, Fox and Russell",
+      "Smith LLC",
+      "Howell Ltd",
+      "Shaw, Anderson and Carter",
+      "Ellis, Miller and Medina",
+      "Ferrell Ltd",
+      "Rhodes Inc",
+      "Brown, Logan and Valdez",
+      "Waller, Hughes and Irwin",
+      "Ramos LLC",
+      "Jenkins-White",
+      "George and Sons",
+      "Rojas, Hall and Adams",
+      "Smith-Carney",
+      "Perez-Franklin",
+      "Wong, Atkinson and Cuevas",
+      "Gomez Ltd",
+      "Williams, Hunt and Warner",
+      "Mitchell, Diaz and Harrington",
+      "Smith, Little and Morrow",
+      "Johnston, May and Wells",
+      "Hunt PLC",
+      "Paul-Harris",
+      "Matthews, Christensen and Robinson",
+      "Pena-Rich",
+      "Thomas, Owens and Decker",
+      "Nelson LLC",
+      "Howe, Cook and Blackwell",
+      "House Inc",
+      "Matthews, Willis and Johnson",
+      "Vaughn, Gibson and Ortiz",
+      "Sanford and Sons",
+      "Gardner-Kennedy"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 39266719.40418019,
+      "max_opportunity_size": 1939456193.0348482,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Training",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV34348",
+    "investor_name": "Rodriguez, Spence and Garza Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_commitments": 9934898364.697725,
+    "asset_class_allocations": {
+      "Hedge Funds": 44.8,
+      "Natural Resources": 15.8,
+      "Private Debt": 28.3,
+      "Infrastructure": 11.1
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Europe",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Garcia-Stewart Fund 9",
+        "commitment_amount": 233605157.5367193,
+        "commitment_date": "2024-11-09"
+      },
+      {
+        "fund_name": "King Ltd Fund 2",
+        "commitment_amount": 438564982.46123224,
+        "commitment_date": "2025-05-27"
+      },
+      {
+        "fund_name": "Flores Ltd Fund 2",
+        "commitment_amount": 379485889.8025871,
+        "commitment_date": "2024-02-21"
+      }
+    ],
+    "portfolio_companies": [
+      "Cook Ltd",
+      "Hahn-Taylor",
+      "Rhodes, Roberts and Ruiz",
+      "Russell-Vaughn",
+      "Taylor, Oneill and Lester",
+      "Thomas LLC",
+      "Porter Inc",
+      "Dixon Inc",
+      "Cruz, Stevens and Thompson",
+      "Glenn-Shaw",
+      "Wilson, Martin and Olson",
+      "Barnes, Holt and Stevens",
+      "Jordan-Bauer",
+      "Obrien Inc",
+      "Petersen Inc",
+      "Perez, Allison and Jackson",
+      "Kim, Serrano and Schultz",
+      "Walker-Osborne",
+      "Mitchell-Ramirez",
+      "Holland Group",
+      "Rodriguez-Spears",
+      "Marshall, Becker and Cummings",
+      "Chapman-Hunter",
+      "Fischer Ltd",
+      "Murray, Murphy and Little",
+      "Sanchez, Gamble and Davis",
+      "Lawson-Baker",
+      "Young-Davila",
+      "Pham, Mitchell and Ashley",
+      "Thompson LLC",
+      "Wood-May",
+      "Dominguez-Mclaughlin",
+      "Clark-Patel",
+      "Scott LLC",
+      "Hughes PLC",
+      "Turner, Griffith and Barker",
+      "Li, Webster and Lee",
+      "Taylor and Sons",
+      "Baker and Sons",
+      "Walker-Hanna",
+      "Smith, Barron and Butler",
+      "Mays-Daniels",
+      "Mckee Ltd",
+      "Sanchez-Harper",
+      "White, Villanueva and Reilly",
+      "Mason, Hull and Silva",
+      "Guerra-Mosley"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 13222763.759411717,
+      "max_opportunity_size": 1250875332.994664,
+      "preferred_service_lines": [
+        "Training",
+        "Advisory",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV69633",
+    "investor_name": "United Kingdom Investment Authority",
+    "investor_type": "Sovereign Wealth Fund",
+    "headquarters": {
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    "total_commitments": 44569573973.909386,
+    "asset_class_allocations": {
+      "Venture Capital": 20.2,
+      "Hedge Funds": 79.8
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Middle East & Africa",
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Jackson-Vincent Fund 4",
+        "commitment_amount": 416084522.5165466,
+        "commitment_date": "2023-06-24"
+      },
+      {
+        "fund_name": "Stone LLC Fund 5",
+        "commitment_amount": 92108184.75863387,
+        "commitment_date": "2025-01-13"
+      },
+      {
+        "fund_name": "Lopez, Graham and Crawford Fund 6",
+        "commitment_amount": 325496913.6541815,
+        "commitment_date": "2024-08-27"
+      }
+    ],
+    "portfolio_companies": [
+      "Andrews Ltd",
+      "Wells, Gonzalez and Hendrix",
+      "Sanchez Ltd",
+      "Norris-Wilson",
+      "Carey, Jennings and Barr",
+      "Haney Inc",
+      "May-Stevens",
+      "Allen-Nichols",
+      "Coleman Inc",
+      "Shah, Jackson and Tran",
+      "Smith, Leon and Martinez",
+      "Brown and Sons",
+      "Davis Inc",
+      "Hanson and Sons",
+      "Torres, James and Jones",
+      "Thompson-Lee",
+      "Bailey, Branch and Martin",
+      "Beck-Daniels",
+      "Moore-Preston",
+      "Clarke, Moore and Curtis",
+      "Wade, Navarro and Thomas",
+      "Hall, Lee and Lewis",
+      "Bowman LLC",
+      "Christensen LLC",
+      "Mcfarland Group",
+      "Collins, Smith and Martin",
+      "Hernandez PLC",
+      "Maldonado, Taylor and Gordon",
+      "Ramsey-Wagner",
+      "Nelson Group",
+      "Bowman-Thompson",
+      "Hernandez LLC",
+      "Haas-Finley",
+      "Taylor-Daugherty",
+      "Hull Group"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 3235641.83621895,
+      "max_opportunity_size": 1465901357.2216625,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV29204",
+    "investor_name": "New Mexico Public Employees Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_commitments": 84151907556.91179,
+    "asset_class_allocations": {
+      "Infrastructure": 34.2,
+      "Venture Capital": 32.6,
+      "Natural Resources": 21.0,
+      "Hedge Funds": 12.1
+    },
+    "geographic_preferences": [
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Davis, King and Burnett Fund 10",
+        "commitment_amount": 39990732.24125013,
+        "commitment_date": "2023-08-28"
+      }
+    ],
+    "portfolio_companies": [
+      "Hanna LLC",
+      "Lopez, Velez and Cooke",
+      "Lewis-Lowe",
+      "Le Inc",
+      "Reyes, Tucker and Jackson",
+      "Sanders Inc",
+      "Moore Inc",
+      "Strickland LLC",
+      "King, Harris and Wilkins",
+      "Hunter Ltd",
+      "Williams-Hudson",
+      "Spencer, Chen and Bradshaw",
+      "Lopez Inc",
+      "Schneider, Robinson and Ball",
+      "Mack-Brooks",
+      "Wilson-Green",
+      "Becker, Mclaughlin and Gray",
+      "Stevenson LLC",
+      "Warner-Young",
+      "Blair-Owen",
+      "Pierce Group",
+      "Stephens-Holland",
+      "Gomez PLC",
+      "Dixon and Sons"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 30080978.080170117,
+      "max_opportunity_size": 763757130.4731258,
+      "preferred_service_lines": [
+        "Advisory",
+        "Training",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Global",
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV16885",
+    "investor_name": "Dixon Ltd Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_commitments": 51126653790.242035,
+    "asset_class_allocations": {
+      "Secondaries": 15.3,
+      "Venture Capital": 16.6,
+      "Natural Resources": 31.2,
+      "Private Debt": 28.4,
+      "Real Estate": 8.5
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "North America",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Martin PLC Fund 5",
+        "commitment_amount": 72052575.95178664,
+        "commitment_date": "2024-03-27"
+      },
+      {
+        "fund_name": "Powers PLC Fund 9",
+        "commitment_amount": 222923050.23967946,
+        "commitment_date": "2025-01-25"
+      },
+      {
+        "fund_name": "Rivas Inc Fund 2",
+        "commitment_amount": 370473042.6781373,
+        "commitment_date": "2025-02-01"
+      },
+      {
+        "fund_name": "Lang-Terrell Fund 3",
+        "commitment_amount": 191187802.66847947,
+        "commitment_date": "2023-11-02"
+      }
+    ],
+    "portfolio_companies": [
+      "Bennett, Floyd and Randall",
+      "Johnson PLC",
+      "Ware, Hernandez and Hunt",
+      "Weiss-Pena",
+      "Terrell LLC",
+      "Allen, Lee and Smith",
+      "Guerrero Ltd",
+      "Perez Ltd",
+      "Brown-Knox",
+      "Perez, Potts and Williams",
+      "Mitchell-Parrish",
+      "Porter-Turner",
+      "Bridges, Cameron and Griffith",
+      "Rollins-Stewart",
+      "Young-Wagner",
+      "Stewart-Garrett",
+      "Coffey-Glass",
+      "Smith-Davis",
+      "Johnson-Rice",
+      "Cochran-Fernandez",
+      "Cook-Smith",
+      "Smith Ltd",
+      "Nichols, Smith and Thompson",
+      "Wilson Group",
+      "Mayo-Holmes",
+      "Bryant and Sons",
+      "Hunt-Sanders"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 26432922.51175665,
+      "max_opportunity_size": 751159364.6650397,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Prospecting",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV28537",
+    "investor_name": "Cook, Lucas and Wilson Endowment",
+    "investor_type": "Endowment",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_commitments": 57026479157.74434,
+    "asset_class_allocations": {
+      "Hedge Funds": 11.5,
+      "Real Estate": 16.5,
+      "Infrastructure": 24.8,
+      "Natural Resources": 19.1,
+      "Secondaries": 28.0
+    },
+    "geographic_preferences": [
+      "Global",
+      "Latin America",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Bell, Ward and Martin Fund 6",
+        "commitment_amount": 26905865.876478612,
+        "commitment_date": "2024-10-05"
+      },
+      {
+        "fund_name": "Levy PLC Fund 10",
+        "commitment_amount": 419005150.9377658,
+        "commitment_date": "2024-02-21"
+      },
+      {
+        "fund_name": "Scott Group Fund 9",
+        "commitment_amount": 402104056.0498256,
+        "commitment_date": "2025-02-25"
+      }
+    ],
+    "portfolio_companies": [
+      "Mitchell, Atkins and Lynch",
+      "Higgins, Ward and Coleman",
+      "Armstrong-Gilmore",
+      "Powell, Petty and Newman",
+      "Miller PLC",
+      "Hanson, Gonzales and Clark",
+      "Carter and Sons",
+      "Marshall-Davis",
+      "Wilson, Pham and Walker",
+      "Garcia, Edwards and Williams"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 15714000.900540784,
+      "max_opportunity_size": 1817836069.8321617,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV80604",
+    "investor_name": "Sawyer and Sons Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "total_commitments": 2849881055.423114,
+    "asset_class_allocations": {
+      "Secondaries": 5.5,
+      "Natural Resources": 37.5,
+      "Hedge Funds": 25.4,
+      "Private Debt": 25.4,
+      "Private Equity": 6.2
+    },
+    "geographic_preferences": [
+      "North America",
+      "Global",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Mitchell Ltd Fund 8",
+        "commitment_amount": 446946951.80963427,
+        "commitment_date": "2025-02-08"
+      },
+      {
+        "fund_name": "Moore, Johnson and Martin Fund 1",
+        "commitment_amount": 350225480.18938214,
+        "commitment_date": "2023-08-15"
+      },
+      {
+        "fund_name": "Harvey Inc Fund 1",
+        "commitment_amount": 194078028.858882,
+        "commitment_date": "2024-02-08"
+      },
+      {
+        "fund_name": "Johnson, Turner and Banks Fund 6",
+        "commitment_amount": 409344087.83819574,
+        "commitment_date": "2023-07-22"
+      },
+      {
+        "fund_name": "Douglas, Elliott and Moore Fund 9",
+        "commitment_amount": 211332011.6795056,
+        "commitment_date": "2023-10-10"
+      }
+    ],
+    "portfolio_companies": [
+      "Rivera Ltd",
+      "Ryan Ltd",
+      "Key Ltd",
+      "Galvan-Johnson",
+      "Vasquez-Hill",
+      "Peterson-Cobb",
+      "Roberts-Gonzalez",
+      "Cook PLC",
+      "Brady Group",
+      "Lopez PLC",
+      "Ellison Group",
+      "Hayes Ltd",
+      "Pineda-Diaz",
+      "Garcia LLC",
+      "Lopez-Thomas",
+      "Hansen, Beck and Baker",
+      "Ellis, Norris and Smith",
+      "Patterson, Torres and Garcia",
+      "Anderson, Murray and Harrell",
+      "Castro, Morales and Vasquez",
+      "Little LLC",
+      "Gardner, Fisher and Wells",
+      "Lynch-Bennett",
+      "Hoover, Maxwell and Smith",
+      "Johnson LLC",
+      "Wilson-Phillips",
+      "Hubbard, Walker and Ruiz",
+      "Perry, Gonzalez and Tran",
+      "Gates, Melendez and Walsh",
+      "Fox-Henderson",
+      "Miller-Henderson",
+      "Moreno-Dudley",
+      "Miller, Nguyen and Hayden",
+      "Ruiz, Weber and Hall",
+      "Stevenson-Brown",
+      "Bass-Shelton",
+      "Alvarez-Sanchez",
+      "Arnold, Martin and Spears",
+      "Collins-Thompson",
+      "Santiago, Rios and Gonzalez",
+      "Chavez Group",
+      "Alvarado LLC",
+      "Reed, Smith and Wilkinson",
+      "Owens, Lawson and Burns",
+      "Villa-Cantu",
+      "Brown, Brown and Kemp",
+      "Lozano PLC",
+      "Guerrero, Parks and Collins"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 36121394.68020495,
+      "max_opportunity_size": 1945536250.582332,
+      "preferred_service_lines": [
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Latin America",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV86059",
+    "investor_name": "Carter, Mills and Graham Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_commitments": 17627604271.438232,
+    "asset_class_allocations": {
+      "Secondaries": 10.1,
+      "Venture Capital": 20.9,
+      "Infrastructure": 68.9
+    },
+    "geographic_preferences": [
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Russell-Miranda Fund 6",
+        "commitment_amount": 258386997.54705507,
+        "commitment_date": "2025-02-01"
+      }
+    ],
+    "portfolio_companies": [
+      "Rogers Ltd",
+      "Reynolds-Barrett",
+      "Harrison and Sons",
+      "Gilbert, Garcia and Hunter",
+      "Jacobs-Osborne",
+      "Smith and Sons",
+      "Turner, Marquez and Gonzalez",
+      "Wagner-Baker",
+      "Mendoza, Kelly and Brown",
+      "Wyatt-Ray",
+      "Alvarez-Sellers",
+      "Maddox, White and Johnson",
+      "Lindsey and Sons"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 3051730.483692956,
+      "max_opportunity_size": 851980962.7573186,
+      "preferred_service_lines": [
+        "Technology",
+        "Training",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Latin America",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV65081",
+    "investor_name": "Duran PLC Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "total_commitments": 14392576034.207119,
+    "asset_class_allocations": {
+      "Hedge Funds": 48.9,
+      "Venture Capital": 51.1
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "North America",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Hubbard, Harrison and Stevenson Fund 2",
+        "commitment_amount": 326482287.2821555,
+        "commitment_date": "2025-05-21"
+      },
+      {
+        "fund_name": "Perez-Haas Fund 5",
+        "commitment_amount": 124628076.14602868,
+        "commitment_date": "2025-01-18"
+      },
+      {
+        "fund_name": "Ellison-Shannon Fund 6",
+        "commitment_amount": 52566579.6714312,
+        "commitment_date": "2025-02-04"
+      },
+      {
+        "fund_name": "Adams, Knox and Ingram Fund 7",
+        "commitment_amount": 185594820.84826294,
+        "commitment_date": "2025-01-20"
+      }
+    ],
+    "portfolio_companies": [
+      "Charles-Mcdonald",
+      "Curry Inc",
+      "Baker, Ingram and Williams",
+      "Lutz-Hooper",
+      "Webb-Morales",
+      "Salas-Lindsey",
+      "Gregory PLC",
+      "Rodriguez and Sons",
+      "Williams, Jacobson and Berger",
+      "Rose, Nguyen and Craig",
+      "Diaz-Watts",
+      "Williams Inc",
+      "Barrera and Sons",
+      "Cruz LLC",
+      "Wilson, Ryan and Stephenson",
+      "Figueroa Inc",
+      "Gallegos-Mcdonald",
+      "Flores-Porter",
+      "Beasley-Johnson",
+      "Newton-Green",
+      "Cummings, Perez and Morales",
+      "Hawkins-Barajas",
+      "Lewis and Sons",
+      "Hernandez Inc",
+      "Phelps, Chavez and Mora",
+      "Bush, Robinson and Anderson",
+      "Taylor Ltd",
+      "Gonzalez-Dixon",
+      "Richard-Cole",
+      "Lynch Ltd",
+      "Thomas, Reed and Roberts",
+      "Martinez Group",
+      "Yates Group",
+      "House-Lee",
+      "Mcclure-Ballard",
+      "Harris-Jefferson",
+      "Anderson PLC",
+      "Haynes and Sons",
+      "Page, Jones and Lee",
+      "Rangel-Larson",
+      "Lopez-Martin",
+      "Butler-Scott",
+      "Farmer Group",
+      "Fernandez, Avila and Francis",
+      "Singh Ltd",
+      "Henderson-Fritz",
+      "White-Manning"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 42410569.70591368,
+      "max_opportunity_size": 1014670120.285882,
+      "preferred_service_lines": [
+        "Advisory",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Europe",
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV47550",
+    "investor_name": "Fisher-Matthews Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "total_commitments": 92655395738.11461,
+    "asset_class_allocations": {
+      "Private Equity": 23.1,
+      "Natural Resources": 55.5,
+      "Venture Capital": 21.3
+    },
+    "geographic_preferences": [
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Rodriguez-Butler Fund 6",
+        "commitment_amount": 290667639.95563674,
+        "commitment_date": "2025-05-15"
+      },
+      {
+        "fund_name": "English LLC Fund 5",
+        "commitment_amount": 350995475.05775106,
+        "commitment_date": "2025-04-26"
+      },
+      {
+        "fund_name": "Kramer and Sons Fund 9",
+        "commitment_amount": 195407865.92469737,
+        "commitment_date": "2024-09-19"
+      },
+      {
+        "fund_name": "Welch-Patterson Fund 4",
+        "commitment_amount": 456573831.899841,
+        "commitment_date": "2024-06-23"
+      }
+    ],
+    "portfolio_companies": [
+      "Martinez, Johnson and Morales",
+      "Douglas-Wallace",
+      "Jacobson LLC",
+      "Guzman Inc",
+      "Huynh, Carter and Benjamin",
+      "Wheeler and Sons",
+      "Harris PLC",
+      "Jensen LLC",
+      "Porter, Brown and Reyes",
+      "Hernandez, Mckay and Taylor",
+      "Larson, Stevenson and Perez",
+      "Smith-Rodriguez",
+      "Liu, Jacobs and Brooks",
+      "Park and Sons",
+      "Martinez Ltd",
+      "Roberts, Hudson and Lewis",
+      "Brooks, Payne and Rice",
+      "Carter, Martinez and Little",
+      "Thomas PLC",
+      "Rivera, Peck and Rodriguez",
+      "Gomez-Rodriguez",
+      "Williams-Stewart",
+      "Rodriguez-Hanna",
+      "Welch-Chavez"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 41124283.10831362,
+      "max_opportunity_size": 665183884.3476907,
+      "preferred_service_lines": [
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV18815",
+    "investor_name": "Rowe Ltd Asset Manager",
+    "investor_type": "Asset Manager",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_commitments": 25166448818.983894,
+    "asset_class_allocations": {
+      "Venture Capital": 66.4,
+      "Hedge Funds": 33.6
+    },
+    "geographic_preferences": [
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Cook PLC Fund 5",
+        "commitment_amount": 230217870.08402762,
+        "commitment_date": "2024-10-01"
+      },
+      {
+        "fund_name": "Ross Inc Fund 9",
+        "commitment_amount": 275564175.42030144,
+        "commitment_date": "2024-12-16"
+      },
+      {
+        "fund_name": "Perez, Velazquez and Hill Fund 10",
+        "commitment_amount": 349212243.99354887,
+        "commitment_date": "2024-06-12"
+      },
+      {
+        "fund_name": "Huber-Jordan Fund 5",
+        "commitment_amount": 341692950.31447184,
+        "commitment_date": "2024-05-28"
+      },
+      {
+        "fund_name": "White-Wong Fund 9",
+        "commitment_amount": 292102841.2869224,
+        "commitment_date": "2023-12-02"
+      }
+    ],
+    "portfolio_companies": [
+      "Tucker-Edwards",
+      "Cameron, Garcia and Smith",
+      "Sexton LLC",
+      "Sanchez-Rivera",
+      "Duran LLC",
+      "Ashley Ltd",
+      "Roberts, Jones and Smith",
+      "Powell-Miller",
+      "Durham, Andrews and Patterson",
+      "Mcdonald Inc",
+      "Mendez, Hart and King",
+      "Young-Price",
+      "Skinner, Williams and Park",
+      "Wilson-Casey",
+      "Mckinney Group",
+      "Peck Group",
+      "Thompson-Taylor",
+      "Jackson, Keller and Caldwell",
+      "Morgan, Larson and Robinson",
+      "Horton-Dalton"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 43594243.88955508,
+      "max_opportunity_size": 423053689.6381556,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Training"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV88173",
+    "investor_name": "Richardson LLC Family Office",
+    "investor_type": "Family Office",
+    "headquarters": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "total_commitments": 96847854784.1026,
+    "asset_class_allocations": {
+      "Infrastructure": 27.1,
+      "Private Equity": 19.5,
+      "Private Debt": 21.0,
+      "Secondaries": 11.5,
+      "Venture Capital": 20.9
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Europe"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Martin PLC Fund 2",
+        "commitment_amount": 123327456.1624848,
+        "commitment_date": "2024-09-10"
+      },
+      {
+        "fund_name": "Mcdonald, Mack and Glass Fund 4",
+        "commitment_amount": 379926268.81370056,
+        "commitment_date": "2024-06-11"
+      },
+      {
+        "fund_name": "Campbell Ltd Fund 6",
+        "commitment_amount": 40285718.48016247,
+        "commitment_date": "2025-03-21"
+      },
+      {
+        "fund_name": "Myers-Lopez Fund 5",
+        "commitment_amount": 319093525.06958085,
+        "commitment_date": "2023-10-02"
+      },
+      {
+        "fund_name": "Brandt-Holland Fund 8",
+        "commitment_amount": 408253671.51267064,
+        "commitment_date": "2024-06-30"
+      }
+    ],
+    "portfolio_companies": [
+      "Rogers, Nash and Harris",
+      "Edwards, Romero and Charles",
+      "Baird Ltd",
+      "Campbell and Sons",
+      "Martin, Adams and Hayes",
+      "Wright Inc",
+      "Fisher Ltd",
+      "Villarreal-Adams",
+      "Collier Inc",
+      "Gill Inc",
+      "Gregory Ltd",
+      "Haley LLC",
+      "Jackson-Norton"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 24425037.944900237,
+      "max_opportunity_size": 1810198733.168581,
+      "preferred_service_lines": [
+        "Training",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Latin America",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV87103",
+    "investor_name": "Hawaii Teachers Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_commitments": 75438129476.70187,
+    "asset_class_allocations": {
+      "Infrastructure": 21.8,
+      "Hedge Funds": 78.2
+    },
+    "geographic_preferences": [
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Jones-Nunez Fund 4",
+        "commitment_amount": 412526100.88028526,
+        "commitment_date": "2024-01-03"
+      },
+      {
+        "fund_name": "Walker-Ward Fund 2",
+        "commitment_amount": 420407900.204907,
+        "commitment_date": "2025-02-05"
+      },
+      {
+        "fund_name": "Perry Ltd Fund 1",
+        "commitment_amount": 315702862.57191116,
+        "commitment_date": "2025-01-16"
+      },
+      {
+        "fund_name": "Parker-Acosta Fund 2",
+        "commitment_amount": 377299823.5005809,
+        "commitment_date": "2024-06-09"
+      }
+    ],
+    "portfolio_companies": [
+      "Burton Ltd",
+      "Caldwell-Lopez",
+      "Lopez-Spencer",
+      "Jones-Johnson",
+      "Reyes Inc",
+      "Dean, Wyatt and Soto",
+      "Hamilton-Baker",
+      "Gonzalez Group",
+      "Davis, Fisher and Jones",
+      "Fleming-Watson",
+      "Garcia, Perez and Mccoy",
+      "Green Group",
+      "Brown Ltd",
+      "Wright Group",
+      "Torres-Russell"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 16111266.642979316,
+      "max_opportunity_size": 1489738594.4881983,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV30501",
+    "investor_name": "Japan Investment Authority",
+    "investor_type": "Sovereign Wealth Fund",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_commitments": 34686721546.30287,
+    "asset_class_allocations": {
+      "Venture Capital": 27.6,
+      "Infrastructure": 33.7,
+      "Natural Resources": 10.6,
+      "Hedge Funds": 6.6,
+      "Real Estate": 21.5
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Europe",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Cook, Holder and George Fund 5",
+        "commitment_amount": 196412486.23218733,
+        "commitment_date": "2023-12-30"
+      },
+      {
+        "fund_name": "Love LLC Fund 6",
+        "commitment_amount": 264976215.734805,
+        "commitment_date": "2024-07-17"
+      },
+      {
+        "fund_name": "Terry-Smith Fund 9",
+        "commitment_amount": 94375051.36897452,
+        "commitment_date": "2025-04-09"
+      },
+      {
+        "fund_name": "Alexander and Sons Fund 9",
+        "commitment_amount": 324085902.77530634,
+        "commitment_date": "2025-01-31"
+      }
+    ],
+    "portfolio_companies": [
+      "Garcia, Quinn and Graham",
+      "Hamilton-Perez",
+      "Jones Inc",
+      "Richards, Lawson and Roach",
+      "Sanders Group",
+      "Gonzales Ltd",
+      "Osborn LLC",
+      "Price, Rodriguez and Moyer",
+      "Johnson, Hammond and Hammond",
+      "Wilson-Ali",
+      "Fleming LLC",
+      "Romero-Drake",
+      "Mills LLC",
+      "Beard and Sons",
+      "Harris, Strong and Cunningham",
+      "Daniels-Yates",
+      "Small Group",
+      "Johnson, Boone and Woods",
+      "Morgan PLC",
+      "Murphy PLC"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 41999051.979447395,
+      "max_opportunity_size": 319931664.20456266,
+      "preferred_service_lines": [
+        "Research",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Prospecting",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa",
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV22135",
+    "investor_name": "Krueger PLC Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "total_commitments": 21226267225.24991,
+    "asset_class_allocations": {
+      "Natural Resources": 25.9,
+      "Secondaries": 24.4,
+      "Venture Capital": 25.9,
+      "Infrastructure": 4.6,
+      "Private Debt": 19.2
+    },
+    "geographic_preferences": [
+      "North America",
+      "Middle East & Africa",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Murillo Group Fund 2",
+        "commitment_amount": 189391510.89923573,
+        "commitment_date": "2024-01-15"
+      },
+      {
+        "fund_name": "Norris-Knight Fund 7",
+        "commitment_amount": 348930538.76947445,
+        "commitment_date": "2024-03-31"
+      },
+      {
+        "fund_name": "House-Davis Fund 9",
+        "commitment_amount": 11889846.729057727,
+        "commitment_date": "2024-04-09"
+      },
+      {
+        "fund_name": "Caldwell-Harris Fund 5",
+        "commitment_amount": 442757302.66190046,
+        "commitment_date": "2023-12-21"
+      },
+      {
+        "fund_name": "Hill, Rose and Diaz Fund 8",
+        "commitment_amount": 317063471.1810927,
+        "commitment_date": "2023-12-23"
+      }
+    ],
+    "portfolio_companies": [
+      "Joseph-Farrell",
+      "Campos Ltd",
+      "Jones Group",
+      "Pierce-Crosby",
+      "Carroll Inc",
+      "Williams-Johnson",
+      "Henderson Inc",
+      "Wood Inc",
+      "Russell-Wallace",
+      "Pace, Anderson and Cowan",
+      "Hall, Rivera and Deleon",
+      "Dominguez-Ward",
+      "Ball-Morris",
+      "Lowe-Ballard",
+      "Berry, Love and Williams",
+      "Mora, Obrien and Moore",
+      "Wilson, Williams and Hurley",
+      "Noble, Howard and Cox",
+      "Horne-Thomas",
+      "Barber-Davis",
+      "Hall Group",
+      "Whitney-Brown"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 16009448.654541472,
+      "max_opportunity_size": 1692137571.2858582,
+      "preferred_service_lines": [
+        "Technology",
+        "Advisory",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Latin America",
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV30203",
+    "investor_name": "Iowa Public Employees Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 78265759421.70679,
+    "asset_class_allocations": {
+      "Private Equity": 15.8,
+      "Secondaries": 24.5,
+      "Private Debt": 24.9,
+      "Natural Resources": 22.7,
+      "Venture Capital": 12.2
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Europe"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Edwards Ltd Fund 1",
+        "commitment_amount": 362699894.2066537,
+        "commitment_date": "2024-05-22"
+      },
+      {
+        "fund_name": "Krueger, Lyons and Smith Fund 10",
+        "commitment_amount": 209266036.62017533,
+        "commitment_date": "2024-06-23"
+      },
+      {
+        "fund_name": "Torres-Middleton Fund 9",
+        "commitment_amount": 212071119.42754367,
+        "commitment_date": "2025-05-23"
+      },
+      {
+        "fund_name": "Pugh Ltd Fund 1",
+        "commitment_amount": 39048378.075509146,
+        "commitment_date": "2024-01-19"
+      },
+      {
+        "fund_name": "Russell, Park and Davenport Fund 10",
+        "commitment_amount": 189464055.2635265,
+        "commitment_date": "2023-12-26"
+      }
+    ],
+    "portfolio_companies": [
+      "Bean PLC",
+      "Garcia, Patterson and Malone",
+      "Hensley Group",
+      "Kirk and Sons",
+      "Proctor PLC",
+      "Gibson LLC",
+      "Patel, Ingram and Palmer",
+      "Garrett Ltd",
+      "Matthews-Hernandez",
+      "Walsh, Lewis and Harding",
+      "Smith, Long and Massey",
+      "Stone-Douglas",
+      "Allen-Brown",
+      "Allison-Chambers",
+      "Palmer-Oneill",
+      "Carroll PLC",
+      "Harris, Rasmussen and Diaz",
+      "Booker-Martin",
+      "Davis, Mcguire and Mccoy",
+      "Klein Group",
+      "Wise Group",
+      "Edwards, Watts and Reed",
+      "Miller, Ryan and Rodriguez",
+      "Wilson-Benitez",
+      "Landry PLC",
+      "Shaw Inc",
+      "Cohen, Watson and Choi",
+      "Smith, Morrison and Blake",
+      "Hall, Herrera and Johnson"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 26808953.68045218,
+      "max_opportunity_size": 446304667.6139993,
+      "preferred_service_lines": [
+        "Training",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV95263",
+    "investor_name": "Long-Gomez Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "total_commitments": 88284726724.69667,
+    "asset_class_allocations": {
+      "Secondaries": 24.4,
+      "Natural Resources": 16.9,
+      "Private Debt": 11.0,
+      "Private Equity": 23.9,
+      "Real Estate": 23.7
+    },
+    "geographic_preferences": [
+      "Global",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Smith, Scott and Hudson Fund 7",
+        "commitment_amount": 128844654.1186428,
+        "commitment_date": "2024-02-24"
+      },
+      {
+        "fund_name": "Taylor Group Fund 8",
+        "commitment_amount": 208980108.67354578,
+        "commitment_date": "2024-07-17"
+      },
+      {
+        "fund_name": "Gonzales-Gonzales Fund 2",
+        "commitment_amount": 84538340.10298896,
+        "commitment_date": "2024-07-18"
+      },
+      {
+        "fund_name": "Marks Inc Fund 9",
+        "commitment_amount": 263043943.9264986,
+        "commitment_date": "2023-12-25"
+      }
+    ],
+    "portfolio_companies": [
+      "Cook Ltd",
+      "Glenn, Young and Allen",
+      "Gutierrez, Bradford and Le",
+      "Brown-Bush",
+      "Norton, Ford and Davis",
+      "Gonzalez Group",
+      "Wright-Cummings",
+      "Swanson-Marsh",
+      "Martinez, Martinez and Blackwell",
+      "Howell LLC",
+      "Webb, Mendoza and Snyder",
+      "Hoover, King and Frazier",
+      "Brewer-James",
+      "Davis-Clark",
+      "Hunt, Meyer and Hamilton",
+      "Sellers, Jordan and Peterson",
+      "Allen Ltd",
+      "Kennedy, Flowers and Bradley",
+      "Berger, Mitchell and Saunders",
+      "Henry, Espinoza and Bird",
+      "Schmitt Ltd",
+      "Stokes, Wade and Morris",
+      "Wilson, Robertson and Webster",
+      "Johnson, Lester and Griffith",
+      "Allison, Perez and Jones",
+      "Bailey Ltd",
+      "Washington LLC",
+      "Rogers-Cooley",
+      "Lindsey, Palmer and Mclean",
+      "Wells-Murphy",
+      "Ramirez-Bell"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 13620637.58847152,
+      "max_opportunity_size": 220439088.090595,
+      "preferred_service_lines": [
+        "Training"
+      ],
+      "stage_preferences": [
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV81855",
+    "investor_name": "Whitaker-Baker Family Office",
+    "investor_type": "Family Office",
+    "headquarters": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "total_commitments": 96262603876.18456,
+    "asset_class_allocations": {
+      "Secondaries": 77.7,
+      "Real Estate": 22.3
+    },
+    "geographic_preferences": [
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Sanchez-Gillespie Fund 10",
+        "commitment_amount": 204165597.81899694,
+        "commitment_date": "2024-07-27"
+      },
+      {
+        "fund_name": "Smith and Sons Fund 10",
+        "commitment_amount": 21023181.71912228,
+        "commitment_date": "2024-03-11"
+      }
+    ],
+    "portfolio_companies": [
+      "Wells Ltd",
+      "Price Ltd",
+      "Lopez, Turner and Nelson",
+      "Glenn-Barry",
+      "Wright Group",
+      "Stevens-Berg",
+      "Rodriguez, Adkins and Watson",
+      "Payne, Thompson and Hill",
+      "Williams-Pacheco",
+      "Brown-Leonard",
+      "Watson, Ford and Stein",
+      "Ray Inc"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 17493057.570719026,
+      "max_opportunity_size": 1567023696.7930293,
+      "preferred_service_lines": [
+        "Training",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV26711",
+    "investor_name": "Holt-Meyer Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_commitments": 37555144491.03116,
+    "asset_class_allocations": {
+      "Natural Resources": 38.9,
+      "Private Equity": 44.9,
+      "Real Estate": 16.2
+    },
+    "geographic_preferences": [
+      "Middle East & Africa",
+      "North America",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Morton and Sons Fund 7",
+        "commitment_amount": 266756160.24903965,
+        "commitment_date": "2024-07-23"
+      },
+      {
+        "fund_name": "Mckee-Beck Fund 7",
+        "commitment_amount": 128905264.13716978,
+        "commitment_date": "2023-08-30"
+      },
+      {
+        "fund_name": "Peters PLC Fund 10",
+        "commitment_amount": 72036616.5134731,
+        "commitment_date": "2024-09-28"
+      },
+      {
+        "fund_name": "Clark Group Fund 6",
+        "commitment_amount": 140821591.9987871,
+        "commitment_date": "2023-09-21"
+      },
+      {
+        "fund_name": "Bell, Davis and Klein Fund 2",
+        "commitment_amount": 267527921.28570804,
+        "commitment_date": "2025-06-01"
+      }
+    ],
+    "portfolio_companies": [
+      "Vaughan Ltd",
+      "Levine Ltd",
+      "Powell LLC",
+      "Harrell Group",
+      "Stevens, Thompson and Henson",
+      "Reynolds-Sellers",
+      "Gardner-Hamilton",
+      "Richardson, Reynolds and Cooke",
+      "Garza-Morris",
+      "Cooke Inc",
+      "Mahoney, Scott and Johnson",
+      "Flowers-Horne",
+      "Kane-Bailey",
+      "Mcguire Inc",
+      "Zuniga LLC",
+      "Harper-Johnson",
+      "Christensen, Smith and Stevenson",
+      "Clark-Mccarthy",
+      "Mathews-Johnson",
+      "Monroe-Owens",
+      "House, Mayer and Koch"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 11178763.627274327,
+      "max_opportunity_size": 1260792963.0652719,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV22690",
+    "investor_name": "Ramirez Ltd Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_commitments": 581149008.0022792,
+    "asset_class_allocations": {
+      "Venture Capital": 49.5,
+      "Private Debt": 19.4,
+      "Secondaries": 31.0
+    },
+    "geographic_preferences": [
+      "Global",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Bailey, Wong and Vargas Fund 8",
+        "commitment_amount": 174587254.15399083,
+        "commitment_date": "2025-06-02"
+      }
+    ],
+    "portfolio_companies": [
+      "Simmons LLC",
+      "Rice Inc",
+      "Grimes and Sons",
+      "Ballard, Lopez and Johnson",
+      "Bryant, Elliott and Munoz",
+      "Church, Castro and Allen",
+      "Rice, Ashley and James",
+      "Rice, Jones and Hammond",
+      "Stephens Inc",
+      "Hernandez-Rogers",
+      "Wilkerson-Allen",
+      "Noble Group",
+      "Gutierrez, Mendez and Page",
+      "Alexander-Murphy",
+      "Lopez, Garrett and Clark",
+      "Evans, Perez and Shannon",
+      "Gallegos Inc",
+      "Huber Group",
+      "Sanchez LLC",
+      "Mejia LLC",
+      "Wright Group",
+      "Jones, Phillips and White",
+      "Hall, Sosa and Gibson",
+      "Garcia-Hardy"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 33501576.38178239,
+      "max_opportunity_size": 151092728.50253755,
+      "preferred_service_lines": [
+        "Research",
+        "Training",
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV38203",
+    "investor_name": "Garcia and Sons Endowment",
+    "investor_type": "Endowment",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 66690788776.795166,
+    "asset_class_allocations": {
+      "Secondaries": 44.5,
+      "Private Debt": 26.5,
+      "Venture Capital": 18.2,
+      "Hedge Funds": 10.8
+    },
+    "geographic_preferences": [
+      "Middle East & Africa",
+      "Global",
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "King, Rice and White Fund 2",
+        "commitment_amount": 492134041.8810772,
+        "commitment_date": "2025-03-04"
+      },
+      {
+        "fund_name": "Hardy PLC Fund 6",
+        "commitment_amount": 333299849.2107903,
+        "commitment_date": "2023-11-18"
+      }
+    ],
+    "portfolio_companies": [
+      "Rodriguez PLC",
+      "Norton-Riggs",
+      "Barr LLC",
+      "Saunders, Brown and Richardson",
+      "Washington LLC",
+      "Burke LLC",
+      "Wheeler-Lowe",
+      "Murphy, Scott and Boyer",
+      "Galloway, Reid and Atkins",
+      "Morris Ltd",
+      "Adkins Group",
+      "Brown, Fischer and Wade",
+      "Richards Group",
+      "Franco Inc",
+      "Parsons, Chavez and Williams",
+      "Calhoun PLC",
+      "Valdez LLC",
+      "Brennan, Juarez and Powell",
+      "Russell-Thomas",
+      "Mcconnell, Duke and Smith",
+      "Bean, Monroe and Harmon",
+      "Hayes, Scott and Lee",
+      "Brown, Hall and Martin",
+      "Watson, Irwin and Hernandez",
+      "Washington Inc",
+      "Mcclain LLC",
+      "Fischer-Perry",
+      "Harris, Hernandez and Mendoza",
+      "Villegas Inc",
+      "Collins-Winters",
+      "Wallace-Nelson",
+      "Clark PLC",
+      "Lopez, Rowland and Fletcher",
+      "Taylor, Shelton and West",
+      "Garrett-Crawford",
+      "Fox and Sons",
+      "Anderson and Sons",
+      "Contreras-Kerr",
+      "Hunt LLC",
+      "Allen-Taylor",
+      "Macias, Haley and Davis",
+      "Robertson, Francis and Smith"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 24613122.295547593,
+      "max_opportunity_size": 339493329.3399952,
+      "preferred_service_lines": [
+        "Training"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Latin America",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV47339",
+    "investor_name": "Minnesota Public Employees Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_commitments": 56111859820.67239,
+    "asset_class_allocations": {
+      "Hedge Funds": 31.5,
+      "Venture Capital": 16.7,
+      "Private Equity": 28.7,
+      "Natural Resources": 23.1
+    },
+    "geographic_preferences": [
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Myers LLC Fund 1",
+        "commitment_amount": 466461533.7697306,
+        "commitment_date": "2025-01-29"
+      },
+      {
+        "fund_name": "Marquez PLC Fund 7",
+        "commitment_amount": 460131674.00125057,
+        "commitment_date": "2024-02-21"
+      },
+      {
+        "fund_name": "Williams, Tucker and Mccoy Fund 10",
+        "commitment_amount": 463912547.1851441,
+        "commitment_date": "2025-03-24"
+      },
+      {
+        "fund_name": "Martinez LLC Fund 6",
+        "commitment_amount": 166554726.97439384,
+        "commitment_date": "2023-11-16"
+      }
+    ],
+    "portfolio_companies": [
+      "Robinson, Dean and Wood",
+      "Douglas LLC",
+      "Gray LLC",
+      "Brown-Turner",
+      "Johnson, Cabrera and Singleton",
+      "Erickson, Weaver and Salazar",
+      "Young and Sons",
+      "Mccoy PLC",
+      "Hodges, Warner and Jones",
+      "Hooper-Johnson",
+      "Mitchell, Murray and Garcia",
+      "Smith Ltd",
+      "Gomez, Davis and Cohen",
+      "Daniel, Powell and Higgins",
+      "Caldwell-Montes",
+      "Brown, Smith and Alexander",
+      "Galvan-Moore",
+      "Chapman, Valentine and Avila",
+      "Morgan-Sexton",
+      "Durham Ltd",
+      "Martinez, Anderson and Morgan",
+      "Simmons, Reeves and Perez",
+      "Harrison-Glenn",
+      "Bradley PLC",
+      "Hudson PLC",
+      "Hodges, Fuentes and Ross",
+      "Johnson-Thomas",
+      "Moore Inc",
+      "Howell-Patel",
+      "Gonzalez-Reyes",
+      "Hunt, Erickson and Martinez",
+      "Hatfield Inc"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 49329591.79632625,
+      "max_opportunity_size": 415815240.92740554,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Prospecting",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV67100",
+    "investor_name": "Andrade-Watson Asset Manager",
+    "investor_type": "Asset Manager",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 21602332993.78347,
+    "asset_class_allocations": {
+      "Private Debt": 32.5,
+      "Natural Resources": 49.3,
+      "Real Estate": 18.3
+    },
+    "geographic_preferences": [
+      "Global",
+      "Europe",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Manning-Travis Fund 8",
+        "commitment_amount": 26772255.795291048,
+        "commitment_date": "2025-06-02"
+      },
+      {
+        "fund_name": "Yang PLC Fund 9",
+        "commitment_amount": 85260527.23851252,
+        "commitment_date": "2025-03-18"
+      },
+      {
+        "fund_name": "Reed LLC Fund 8",
+        "commitment_amount": 246848354.57272708,
+        "commitment_date": "2025-06-02"
+      },
+      {
+        "fund_name": "Boyd Inc Fund 4",
+        "commitment_amount": 265320430.96645513,
+        "commitment_date": "2024-01-18"
+      }
+    ],
+    "portfolio_companies": [
+      "Cohen, Horne and Lawson",
+      "Hall, Castro and Martin",
+      "Davis Ltd",
+      "Romero, Moore and Sanders",
+      "White-Mora",
+      "Gordon-Jones",
+      "Garrison-Huber",
+      "Tran PLC",
+      "Taylor and Sons",
+      "Wheeler-Williams",
+      "House, Lee and Short",
+      "Jenkins, Turner and Goodwin",
+      "Bullock and Sons",
+      "Parker, Carter and Curtis",
+      "Mills-Brown",
+      "Huang, Griffin and Landry",
+      "Evans Group",
+      "Davidson Ltd",
+      "Singleton-Barrera",
+      "Brown-Flowers",
+      "Miller Ltd",
+      "Hunt, Ochoa and Thompson",
+      "Massey, Turner and Smith",
+      "Dawson-Howell",
+      "Griffin-Harris",
+      "Arnold, Collins and Cruz",
+      "Jensen, Morgan and English",
+      "Pruitt-Walters",
+      "Wong, Snyder and Tucker",
+      "Taylor and Sons",
+      "Goodman, King and Park",
+      "Anderson Ltd",
+      "Foster and Sons",
+      "Wright Ltd",
+      "Wilson and Sons",
+      "Thompson, Morales and Petersen",
+      "Navarro Ltd",
+      "Hicks-Mcclain",
+      "Phelps, Robbins and Moore",
+      "Walsh-Mason",
+      "Wright, Lopez and Lutz",
+      "Stewart, Morgan and Davis",
+      "Young, Love and Johnson",
+      "Green Inc"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 25738764.95720291,
+      "max_opportunity_size": 395057263.1945045,
+      "preferred_service_lines": [
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV12256",
+    "investor_name": "Brooks-Nash Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "total_commitments": 16544091686.08925,
+    "asset_class_allocations": {
+      "Hedge Funds": 12.7,
+      "Private Debt": 11.6,
+      "Natural Resources": 38.6,
+      "Private Equity": 21.1,
+      "Infrastructure": 16.0
+    },
+    "geographic_preferences": [
+      "Middle East & Africa",
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Cole-Avila Fund 3",
+        "commitment_amount": 288753975.48082787,
+        "commitment_date": "2024-04-28"
+      },
+      {
+        "fund_name": "Parks, Bray and Miller Fund 3",
+        "commitment_amount": 368150470.62212837,
+        "commitment_date": "2023-09-11"
+      }
+    ],
+    "portfolio_companies": [
+      "Clark, Massey and Santos",
+      "Reed, Jordan and Stewart",
+      "Cooper-Hernandez",
+      "Williams-Rubio",
+      "Fuller and Sons",
+      "Franklin, Martinez and Gutierrez",
+      "Conley, Martin and Peters",
+      "Phillips-White",
+      "Joseph-Hinton",
+      "Glenn, Oliver and Owens",
+      "Myers, Huff and Alvarado",
+      "Larson Inc",
+      "Gross-Logan",
+      "Simpson-Webster",
+      "Smith-Morrison",
+      "Edwards-Williams",
+      "Jones Ltd",
+      "Cole, Foster and Rodriguez",
+      "Snyder Group",
+      "Lindsey Inc",
+      "Garcia-Phillips"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 7333262.173774764,
+      "max_opportunity_size": 1311822004.9787223,
+      "preferred_service_lines": [
+        "Research",
+        "Advisory",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV71076",
+    "investor_name": "Cabrera, Torres and Roberts Endowment",
+    "investor_type": "Endowment",
+    "headquarters": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "total_commitments": 57267331103.41119,
+    "asset_class_allocations": {
+      "Private Equity": 11.8,
+      "Private Debt": 19.8,
+      "Hedge Funds": 16.6,
+      "Secondaries": 24.2,
+      "Natural Resources": 27.6
+    },
+    "geographic_preferences": [
+      "Europe"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "West LLC Fund 1",
+        "commitment_amount": 437089022.1491964,
+        "commitment_date": "2024-12-13"
+      },
+      {
+        "fund_name": "Ward-Cunningham Fund 7",
+        "commitment_amount": 493076493.56691384,
+        "commitment_date": "2023-10-12"
+      },
+      {
+        "fund_name": "Hall, Mclean and Gomez Fund 9",
+        "commitment_amount": 447982852.35698783,
+        "commitment_date": "2025-04-11"
+      }
+    ],
+    "portfolio_companies": [
+      "Oneal, Gonzalez and Woods",
+      "Miller Ltd",
+      "Mccullough, Rodriguez and Parker",
+      "Wyatt Group",
+      "Mendoza and Sons",
+      "Willis, Holloway and Anderson",
+      "Davis, Baker and Garcia",
+      "Humphrey-Smith",
+      "Frey Inc",
+      "Greene, Murphy and Johnson",
+      "Copeland-Branch",
+      "Bowen-Howard",
+      "Vance Inc",
+      "Ellis-Melendez",
+      "Smith-Hall",
+      "Reed, Armstrong and Garcia",
+      "Villegas, Hernandez and Jones",
+      "Davidson-Nelson",
+      "Wagner-Franklin",
+      "Green-Cameron",
+      "Ford, Miller and Taylor",
+      "Marshall LLC",
+      "Harper, Hall and Perez",
+      "Mcneil-Hudson",
+      "Payne, Johnson and Simpson",
+      "Calderon, Meyer and King",
+      "Hunter, Haynes and Stewart",
+      "Mclaughlin-Jefferson",
+      "Johnson, Reyes and Myers",
+      "Watkins-Goodwin",
+      "Spencer Group",
+      "Stewart-Juarez",
+      "Bird, Sanchez and Howard",
+      "Hunter-Diaz",
+      "Jackson, Snyder and Henry",
+      "Miles Ltd",
+      "Kirby-Sherman"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 28797631.56873759,
+      "max_opportunity_size": 1909089468.2386122,
+      "preferred_service_lines": [
+        "Training"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Global",
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV97093",
+    "investor_name": "Florida State Workers Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_commitments": 31411305984.860344,
+    "asset_class_allocations": {
+      "Private Equity": 84.1,
+      "Venture Capital": 15.9
+    },
+    "geographic_preferences": [
+      "Europe"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Meyer Inc Fund 7",
+        "commitment_amount": 128873307.3147432,
+        "commitment_date": "2024-08-14"
+      },
+      {
+        "fund_name": "Gates, Lewis and Baker Fund 10",
+        "commitment_amount": 235059844.12828496,
+        "commitment_date": "2023-09-12"
+      }
+    ],
+    "portfolio_companies": [
+      "Newman, Sandoval and Miles",
+      "King Inc",
+      "Castillo PLC",
+      "Jimenez-Burke",
+      "Brown-Stanley",
+      "English Ltd",
+      "Ingram, Gilbert and Stone",
+      "Farley, Rose and Henson",
+      "Mcdonald, Fields and Cruz",
+      "Erickson, Fisher and Acevedo",
+      "Mendez, Barker and Calhoun",
+      "Frank, Thomas and Taylor",
+      "Cunningham LLC",
+      "Harris LLC",
+      "Mitchell and Sons",
+      "Dawson Group",
+      "Armstrong, Arnold and Johnson",
+      "Schultz and Sons",
+      "Vincent-Mosley",
+      "Saunders, Fernandez and Sullivan",
+      "Johnston Inc",
+      "Singh Inc",
+      "Bolton-Butler",
+      "Smith Inc",
+      "Green Ltd",
+      "Cobb-Reed",
+      "Rodriguez, Whitaker and Russell"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 9994229.373344505,
+      "max_opportunity_size": 1127294361.7602463,
+      "preferred_service_lines": [
+        "Advisory",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV64268",
+    "investor_name": "Hernandez-Parker Fund of Funds",
+    "investor_type": "Fund of Funds",
+    "headquarters": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "total_commitments": 65420052409.460915,
+    "asset_class_allocations": {
+      "Infrastructure": 34.7,
+      "Private Debt": 37.6,
+      "Natural Resources": 27.8
+    },
+    "geographic_preferences": [
+      "North America",
+      "Middle East & Africa",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Woods LLC Fund 9",
+        "commitment_amount": 444498383.65227675,
+        "commitment_date": "2024-07-18"
+      },
+      {
+        "fund_name": "Harrison, Carlson and Wilson Fund 8",
+        "commitment_amount": 264371545.84876886,
+        "commitment_date": "2024-11-19"
+      }
+    ],
+    "portfolio_companies": [
+      "Summers, Murphy and Johnson",
+      "Robertson, Brown and Barton",
+      "Johnson-Gutierrez",
+      "Valencia, Jackson and Richard",
+      "Mitchell Inc",
+      "Brown, Thomas and Mclean",
+      "Ramsey-Mcintosh",
+      "Bruce-Tyler",
+      "Snyder-Hamilton",
+      "Ramos, Jordan and Boyle",
+      "Blackburn and Sons",
+      "Garcia, Hayes and Rice",
+      "Hendricks, Hurst and Hall",
+      "Marshall-Gallagher",
+      "Ballard, Mcgee and Lee",
+      "Martinez and Sons",
+      "Brooks and Sons",
+      "Kennedy, Donaldson and Parsons",
+      "Rivera, Griffith and Cooper",
+      "Mejia and Sons",
+      "Hamilton, Ward and Chavez",
+      "Wright, Pena and Washington",
+      "Bishop, Powers and Holden",
+      "Ross-Ward",
+      "Gilmore Inc",
+      "Leon, Cochran and Anderson",
+      "Lucas-Mcclure",
+      "Carter, Walters and Robinson",
+      "Levy-Hansen",
+      "Rogers, Scott and Castro",
+      "Johnson-Booth",
+      "Webb, Hooper and Barnes",
+      "Kerr, Jones and Snyder",
+      "Schmidt, Taylor and Jones",
+      "Robinson-Camacho",
+      "Conrad, Jensen and Galvan",
+      "Wright-Love",
+      "Martin-Burke",
+      "Brown-Sanchez",
+      "Shelton Ltd",
+      "Ellison, Newman and Howard",
+      "Kemp and Sons",
+      "Valentine-Hurley",
+      "Ward, Huynh and Olson",
+      "Walter-Smith",
+      "Green PLC",
+      "Fox, Berry and Nelson",
+      "Alexander, Vaughan and Cain"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 26835658.614157367,
+      "max_opportunity_size": 152948845.62492022,
+      "preferred_service_lines": [
+        "Technology",
+        "Research",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV74147",
+    "investor_name": "Villegas Inc Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_commitments": 21661762178.552837,
+    "asset_class_allocations": {
+      "Private Debt": 8.0,
+      "Private Equity": 40.4,
+      "Infrastructure": 40.4,
+      "Natural Resources": 11.2
+    },
+    "geographic_preferences": [
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Young Ltd Fund 1",
+        "commitment_amount": 152119447.50479677,
+        "commitment_date": "2025-03-31"
+      }
+    ],
+    "portfolio_companies": [
+      "Paul-Valdez",
+      "Guerrero-Cruz",
+      "Hudson-Wagner",
+      "Gray-Wright",
+      "Smith, Cuevas and Wong",
+      "Mccarthy, Green and Flowers",
+      "Johnson-Medina",
+      "Brown, Mendoza and Leon",
+      "Petersen, Greer and Ochoa",
+      "Wilkins, Kelly and May",
+      "Richmond LLC",
+      "Jackson-Smith",
+      "Norman-James",
+      "Thompson, Wilson and Ward",
+      "Johnston-Delacruz",
+      "Perez Ltd"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 43134394.7722959,
+      "max_opportunity_size": 812641599.1738479,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Training",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV92390",
+    "investor_name": "Davis, Evans and Rivera Endowment",
+    "investor_type": "Endowment",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_commitments": 53108033220.555466,
+    "asset_class_allocations": {
+      "Private Debt": 18.8,
+      "Secondaries": 30.4,
+      "Hedge Funds": 50.8
+    },
+    "geographic_preferences": [
+      "Global",
+      "Middle East & Africa",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Ross-Gonzalez Fund 3",
+        "commitment_amount": 89211251.08124681,
+        "commitment_date": "2024-04-11"
+      },
+      {
+        "fund_name": "Curtis-Woods Fund 10",
+        "commitment_amount": 334617866.38960207,
+        "commitment_date": "2023-07-09"
+      }
+    ],
+    "portfolio_companies": [
+      "Rivera, Mclaughlin and Johnson",
+      "Brock Inc",
+      "Harrison LLC",
+      "Arroyo Ltd",
+      "Williams Inc",
+      "Barrett-Greene",
+      "Avery Inc",
+      "Davis Group",
+      "Webb-Hamilton",
+      "Harvey, Martinez and Duncan",
+      "Barton-Cabrera",
+      "Evans LLC",
+      "Davis-Martin",
+      "Franco, Cook and Johnson",
+      "Garner, Serrano and Herring",
+      "Smith-Garcia",
+      "Barnett, Huynh and Morales",
+      "Ford, Sawyer and Johnson",
+      "Sanders LLC",
+      "Murphy-Sanchez"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 28709207.653934266,
+      "max_opportunity_size": 1033925047.7634997,
+      "preferred_service_lines": [
+        "Advisory",
+        "Research",
+        "Training"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific",
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV63597",
+    "investor_name": "Navarro-Cameron Fund of Funds",
+    "investor_type": "Fund of Funds",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_commitments": 59782606236.81989,
+    "asset_class_allocations": {
+      "Real Estate": 24.3,
+      "Hedge Funds": 40.7,
+      "Secondaries": 8.7,
+      "Private Debt": 26.3
+    },
+    "geographic_preferences": [
+      "Europe",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Patterson, Nelson and Mitchell Fund 10",
+        "commitment_amount": 149523646.53096384,
+        "commitment_date": "2024-10-28"
+      },
+      {
+        "fund_name": "Miller-Rogers Fund 5",
+        "commitment_amount": 414792587.9313838,
+        "commitment_date": "2023-12-12"
+      },
+      {
+        "fund_name": "Nguyen-Williams Fund 1",
+        "commitment_amount": 382733211.2674819,
+        "commitment_date": "2023-11-06"
+      },
+      {
+        "fund_name": "Brown-Campbell Fund 3",
+        "commitment_amount": 191192854.6043899,
+        "commitment_date": "2024-06-17"
+      },
+      {
+        "fund_name": "King-Cole Fund 7",
+        "commitment_amount": 27692915.270751555,
+        "commitment_date": "2024-01-17"
+      }
+    ],
+    "portfolio_companies": [
+      "Adams Group",
+      "Reyes, Lopez and Hancock",
+      "Davis, Banks and Bryant",
+      "Frazier, Guzman and Sweeney",
+      "Howard, Johnson and Castillo",
+      "Brown Inc",
+      "Turner Inc",
+      "Clayton LLC",
+      "Warren, Martinez and Hughes",
+      "Jones Inc",
+      "Evans Inc",
+      "Jones-Miller",
+      "Massey-Austin",
+      "Andrews Inc",
+      "Romero-Walsh",
+      "Rodgers PLC",
+      "Henderson-Reed",
+      "Scott-Taylor",
+      "Boyd, Cole and Hutchinson",
+      "Gilbert-Morris",
+      "Jenkins, Johnson and Nixon",
+      "Chandler Inc",
+      "Suarez, Gonzalez and Nguyen",
+      "Mcclain-Warner",
+      "Gallagher-Wilson",
+      "Yates-Wallace",
+      "Myers-Chavez",
+      "Simmons-Miller",
+      "Nelson-Walters"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 26579597.591615964,
+      "max_opportunity_size": 1415539526.6673057,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV92107",
+    "investor_name": "Shields, Khan and Anderson Family Office",
+    "investor_type": "Family Office",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Denmark"
+    },
+    "total_commitments": 65916348364.31218,
+    "asset_class_allocations": {
+      "Secondaries": 34.1,
+      "Infrastructure": 34.6,
+      "Private Equity": 31.2
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Reeves-Davis Fund 4",
+        "commitment_amount": 198349662.41762128,
+        "commitment_date": "2024-09-14"
+      },
+      {
+        "fund_name": "Vega, Oconnor and Morgan Fund 8",
+        "commitment_amount": 318599724.90796477,
+        "commitment_date": "2024-01-08"
+      },
+      {
+        "fund_name": "Rogers, Nguyen and Edwards Fund 10",
+        "commitment_amount": 249775368.50644207,
+        "commitment_date": "2024-06-29"
+      },
+      {
+        "fund_name": "Gonzalez, Rodriguez and Brown Fund 9",
+        "commitment_amount": 74881266.28511322,
+        "commitment_date": "2023-09-25"
+      },
+      {
+        "fund_name": "Roberts, Lopez and Fernandez Fund 4",
+        "commitment_amount": 499626466.1975939,
+        "commitment_date": "2025-06-04"
+      }
+    ],
+    "portfolio_companies": [
+      "Mendoza-Saunders",
+      "Davis, Martin and Horton",
+      "Mason-Martin",
+      "Stewart Inc",
+      "Hill, Bradley and Johnson",
+      "Davis-Hartman",
+      "Bennett, Day and Hodges",
+      "Pineda-Allen",
+      "Lee and Sons",
+      "Hurst, Wyatt and Moore",
+      "Parker-Lin",
+      "Moss-Thompson",
+      "Hernandez-Owens",
+      "Combs LLC",
+      "Patterson, Hendrix and Rodriguez",
+      "Roberts-Ferrell",
+      "Young, Garcia and Johnson",
+      "Moyer, Hoffman and Davis",
+      "Elliott, Johnson and Mills"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 36375483.6537622,
+      "max_opportunity_size": 1958566961.3539875,
+      "preferred_service_lines": [
+        "Research",
+        "Technology",
+        "Training"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Europe",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV80382",
+    "investor_name": "Rogers-Shaffer Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_commitments": 13306610414.715937,
+    "asset_class_allocations": {
+      "Private Debt": 34.8,
+      "Natural Resources": 6.7,
+      "Infrastructure": 12.8,
+      "Secondaries": 31.3,
+      "Venture Capital": 14.4
+    },
+    "geographic_preferences": [
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Perez, Sanchez and Gonzalez Fund 9",
+        "commitment_amount": 347113882.763282,
+        "commitment_date": "2024-07-22"
+      },
+      {
+        "fund_name": "Byrd, Perry and Flores Fund 7",
+        "commitment_amount": 199634360.34829798,
+        "commitment_date": "2024-03-25"
+      },
+      {
+        "fund_name": "Taylor-Johnson Fund 7",
+        "commitment_amount": 325249093.1048403,
+        "commitment_date": "2024-09-08"
+      }
+    ],
+    "portfolio_companies": [
+      "Perez Inc",
+      "King-Williams",
+      "Parker, Sanchez and Lopez",
+      "Conner-Smith",
+      "Hester, Hammond and Holder",
+      "Byrd, Woods and Smith",
+      "Cooper Group",
+      "Shaffer-Welch",
+      "Gilbert-Gomez",
+      "Myers, Robinson and Patrick",
+      "Grant PLC",
+      "Copeland, Huynh and Stewart",
+      "Sanchez, Schaefer and Williams",
+      "Johnson, Barnes and Doyle",
+      "Cunningham-Gray",
+      "Grant Group",
+      "Robinson PLC",
+      "Ortiz Group",
+      "Martinez LLC",
+      "Perez LLC",
+      "Hernandez-Richards",
+      "Green, Williams and Garcia",
+      "Serrano-Montgomery",
+      "Ward, Jenkins and Thomas",
+      "Bradley Group",
+      "Ross-Cook",
+      "Logan, Charles and Ward",
+      "Thompson-Flores",
+      "Gutierrez, Smith and Smith",
+      "Williams LLC",
+      "Sanders-White",
+      "Wilson and Sons",
+      "Lopez, Brown and Brown",
+      "Carter, English and Acosta",
+      "Koch and Sons",
+      "Guerrero-Scott",
+      "Brown, Whitaker and Mcgrath",
+      "Bryan Inc",
+      "Whitaker and Sons",
+      "Sanchez, West and Williams",
+      "Hill, Jones and Figueroa",
+      "Smith and Sons",
+      "Bell, Wong and Freeman"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 43413242.29561389,
+      "max_opportunity_size": 930748337.4443179,
+      "preferred_service_lines": [
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Latin America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV47211",
+    "investor_name": "Kansas Public Employees Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 49264969831.41023,
+    "asset_class_allocations": {
+      "Infrastructure": 6.3,
+      "Private Equity": 42.3,
+      "Hedge Funds": 21.4,
+      "Natural Resources": 24.2,
+      "Secondaries": 5.8
+    },
+    "geographic_preferences": [
+      "Europe",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Brown-Caldwell Fund 3",
+        "commitment_amount": 69219437.16430476,
+        "commitment_date": "2025-01-30"
+      },
+      {
+        "fund_name": "Davis PLC Fund 9",
+        "commitment_amount": 46010035.77687587,
+        "commitment_date": "2024-01-03"
+      },
+      {
+        "fund_name": "Newman Group Fund 8",
+        "commitment_amount": 435316444.6216592,
+        "commitment_date": "2023-09-28"
+      },
+      {
+        "fund_name": "Carlson-Hart Fund 6",
+        "commitment_amount": 483752073.9791024,
+        "commitment_date": "2023-07-24"
+      },
+      {
+        "fund_name": "Gonzales-Martinez Fund 7",
+        "commitment_amount": 143937339.1978578,
+        "commitment_date": "2023-06-29"
+      }
+    ],
+    "portfolio_companies": [
+      "Holder, Williamson and Beltran",
+      "Mayer, Ross and Lopez",
+      "Hill-House",
+      "Avery-Henderson",
+      "Andrews-King",
+      "Perry, Foster and Sandoval",
+      "Kramer-Stone",
+      "Cross-Anderson",
+      "Wilson-Bender",
+      "Rogers PLC",
+      "Turner Ltd",
+      "Dickerson-Waller",
+      "Phillips Group",
+      "Terry-Oliver",
+      "Nguyen, Floyd and Martinez",
+      "Gonzalez, White and Marshall",
+      "Collins, Jacobs and Allen",
+      "Rose Ltd",
+      "Gomez-Robinson",
+      "Mitchell, Parrish and Davis",
+      "Fields-Duke",
+      "Goodman-Rangel",
+      "Williamson, Strong and Hunter",
+      "Randall-Carrillo",
+      "Powell LLC",
+      "Smith Ltd",
+      "Powell, Mccoy and Shaw",
+      "Mann-Phillips",
+      "Koch PLC",
+      "Jefferson, Jensen and Gates",
+      "Burns and Sons",
+      "Mason-Berry",
+      "Thompson LLC",
+      "Best-Donaldson",
+      "Maxwell LLC",
+      "Sherman-Clark",
+      "Collins, Hampton and Figueroa",
+      "Griffin, Smith and Schneider",
+      "Boyd, Dunn and Smith",
+      "Everett Group"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 33324623.547805354,
+      "max_opportunity_size": 308200241.2105482,
+      "preferred_service_lines": [
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV12146",
+    "investor_name": "Carr-Carroll Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "total_commitments": 38505199268.50217,
+    "asset_class_allocations": {
+      "Real Estate": 20.6,
+      "Infrastructure": 21.0,
+      "Venture Capital": 6.6,
+      "Hedge Funds": 12.0,
+      "Natural Resources": 39.8
+    },
+    "geographic_preferences": [
+      "Europe"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Holmes and Sons Fund 6",
+        "commitment_amount": 52414579.52107145,
+        "commitment_date": "2024-06-17"
+      },
+      {
+        "fund_name": "Cooper Ltd Fund 9",
+        "commitment_amount": 297540136.69553846,
+        "commitment_date": "2025-05-01"
+      }
+    ],
+    "portfolio_companies": [
+      "Adkins Inc",
+      "Figueroa-Leonard",
+      "Fleming Inc",
+      "King Inc",
+      "Costa Inc",
+      "Gentry, King and Reyes",
+      "Robertson LLC",
+      "Hoffman-Owens",
+      "Love, Erickson and Kim",
+      "Fowler, Newton and Wilson"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 39892704.558320306,
+      "max_opportunity_size": 1466864462.5941567,
+      "preferred_service_lines": [
+        "Technology",
+        "Research",
+        "Training"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific",
+        "Latin America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV81524",
+    "investor_name": "Connecticut State Workers Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "total_commitments": 59938988186.799484,
+    "asset_class_allocations": {
+      "Venture Capital": 25.6,
+      "Private Debt": 28.4,
+      "Secondaries": 4.6,
+      "Natural Resources": 26.2,
+      "Infrastructure": 15.2
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Greene LLC Fund 4",
+        "commitment_amount": 328924702.80276525,
+        "commitment_date": "2025-01-12"
+      },
+      {
+        "fund_name": "Beck Inc Fund 2",
+        "commitment_amount": 314387731.0004009,
+        "commitment_date": "2023-09-20"
+      },
+      {
+        "fund_name": "Gonzalez-White Fund 1",
+        "commitment_amount": 292431502.215902,
+        "commitment_date": "2024-11-05"
+      },
+      {
+        "fund_name": "Cameron, Perry and Harrison Fund 8",
+        "commitment_amount": 283059175.8263974,
+        "commitment_date": "2023-06-16"
+      }
+    ],
+    "portfolio_companies": [
+      "Robles Group",
+      "Wilson-Black",
+      "Johnson, Hodges and Stokes",
+      "Cox, Russell and White",
+      "Sanchez-Key",
+      "Fisher Ltd",
+      "Allen-Gibson",
+      "Martin, Little and Williams",
+      "Murillo Inc",
+      "Santos Group",
+      "King, Miller and Foster",
+      "Thompson, Hester and Cannon",
+      "Hull PLC",
+      "Hill-Parker",
+      "Hanna, Johnson and Campbell",
+      "Pope, Jones and Riddle",
+      "Young LLC",
+      "Anderson, Clark and Campbell",
+      "Norris and Sons",
+      "Spencer-Davis",
+      "Smith, Robinson and Lewis",
+      "Bradford-Cowan",
+      "Martin-Chandler",
+      "Williams, Ochoa and Thomas",
+      "Booker-Johnson",
+      "Hale Ltd",
+      "Patel-Allen",
+      "Hernandez, Davis and Smith",
+      "Donovan and Sons",
+      "Dalton, Sanchez and Willis",
+      "Stephens, Tyler and Andrews",
+      "Sellers Ltd",
+      "Berger-Newton",
+      "Leonard and Sons",
+      "Norris-Moore",
+      "Hamilton-Fox",
+      "Pierce, Lloyd and Woodard",
+      "Rodriguez LLC",
+      "George Group",
+      "Bender and Sons",
+      "Carter, Smith and Jordan",
+      "Walker and Sons",
+      "Long-Cunningham"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 31630355.362586226,
+      "max_opportunity_size": 472290763.6834684,
+      "preferred_service_lines": [
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV29250",
+    "investor_name": "Ortiz-Carpenter Family Office",
+    "investor_type": "Family Office",
+    "headquarters": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "total_commitments": 31599683974.612926,
+    "asset_class_allocations": {
+      "Venture Capital": 20.4,
+      "Infrastructure": 79.6
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Keller, Palmer and Ortiz Fund 6",
+        "commitment_amount": 97774893.02822912,
+        "commitment_date": "2025-04-01"
+      },
+      {
+        "fund_name": "Williams-Andrade Fund 5",
+        "commitment_amount": 427405079.63191646,
+        "commitment_date": "2023-12-26"
+      }
+    ],
+    "portfolio_companies": [
+      "Allen LLC",
+      "Faulkner-Shelton",
+      "Stafford and Sons",
+      "Jones, Hernandez and Davis",
+      "Farrell PLC",
+      "Torres and Sons",
+      "Buckley PLC",
+      "Beck, Reynolds and Berg",
+      "Miller LLC",
+      "Murray, Clark and Wilson",
+      "Gonzalez, Butler and Wilcox",
+      "Mckenzie-Butler",
+      "Orr LLC",
+      "Barry Group",
+      "Mccullough, Bennett and Carroll",
+      "Ward LLC",
+      "Rodgers, Summers and Shelton",
+      "White Group",
+      "Martinez Inc",
+      "Perkins PLC",
+      "Young, Smith and Silva",
+      "Schultz-Garcia",
+      "Moore, Henry and Dillon",
+      "Cole-Wagner",
+      "Wilson, Jones and Wright"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 28738157.04655379,
+      "max_opportunity_size": 1905629516.5632055,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV75852",
+    "investor_name": "Jackson-Lyons Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_commitments": 99634741689.04428,
+    "asset_class_allocations": {
+      "Secondaries": 50.7,
+      "Natural Resources": 49.3
+    },
+    "geographic_preferences": [
+      "North America",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Compton Group Fund 1",
+        "commitment_amount": 295950717.3937869,
+        "commitment_date": "2024-07-07"
+      },
+      {
+        "fund_name": "Douglas-Deleon Fund 3",
+        "commitment_amount": 229143523.9232002,
+        "commitment_date": "2024-06-15"
+      }
+    ],
+    "portfolio_companies": [
+      "Lamb, Callahan and Jones",
+      "Adkins LLC",
+      "Mcconnell-Mays",
+      "Ellis-Guerrero",
+      "Palmer Inc",
+      "Gonzalez, Phillips and Martin",
+      "Roberts, Chan and Donovan",
+      "Paul-Spencer",
+      "Calderon-Lee",
+      "Hester Inc",
+      "Mccarthy, Moore and Randall",
+      "Jones Group",
+      "Smith-Cunningham",
+      "Bush-Herrera",
+      "Walsh, Knight and Perry",
+      "Wilson-Cruz",
+      "Moore LLC",
+      "Nelson-Soto",
+      "Stewart-Martinez",
+      "Sanders, Rogers and Valentine",
+      "Mcdonald, Sanchez and Esparza",
+      "Ford PLC",
+      "Guerra PLC"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 36055503.49689317,
+      "max_opportunity_size": 1653655051.2865815,
+      "preferred_service_lines": [
+        "Technology",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV63178",
+    "investor_name": "Long, Payne and Bolton Endowment",
+    "investor_type": "Endowment",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_commitments": 79798075360.33221,
+    "asset_class_allocations": {
+      "Private Equity": 43.9,
+      "Infrastructure": 56.1
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Snyder Group Fund 9",
+        "commitment_amount": 135497155.99421442,
+        "commitment_date": "2024-11-20"
+      },
+      {
+        "fund_name": "White, Williams and Obrien Fund 5",
+        "commitment_amount": 407771429.9903537,
+        "commitment_date": "2024-08-21"
+      },
+      {
+        "fund_name": "Tucker, Phillips and Hodges Fund 4",
+        "commitment_amount": 382100137.3193897,
+        "commitment_date": "2024-09-01"
+      },
+      {
+        "fund_name": "Singleton, Robinson and Tucker Fund 2",
+        "commitment_amount": 137700111.49382323,
+        "commitment_date": "2023-12-05"
+      },
+      {
+        "fund_name": "Ramsey Group Fund 2",
+        "commitment_amount": 74435623.04628423,
+        "commitment_date": "2023-12-23"
+      }
+    ],
+    "portfolio_companies": [
+      "Melton-Vazquez",
+      "Ross-Washington",
+      "Bailey, Parker and Mendoza",
+      "Johnson-Hamilton",
+      "Stevenson-Herrera",
+      "Guzman Inc",
+      "Shaw, Martinez and Burgess",
+      "Johnson, Harris and Gray",
+      "Ray-Vazquez",
+      "Tucker Ltd",
+      "Swanson LLC",
+      "Mayer, Walker and Vega",
+      "Morgan-Nelson",
+      "Sutton-Pratt",
+      "Klein Inc",
+      "Rodriguez-Duncan",
+      "Williams-Cohen",
+      "Fitzgerald-Griffin",
+      "Diaz and Sons",
+      "Fernandez-Mullen",
+      "Short-Lee",
+      "Rodriguez, Ramos and Hernandez",
+      "Johnson PLC",
+      "Vang-Garcia",
+      "Mendez Group",
+      "Mullins, Byrd and Lee",
+      "Foster-Harrington",
+      "Reed, Turner and Hughes",
+      "Hernandez Inc",
+      "Hudson Group",
+      "Lopez-Washington",
+      "Alexander, Parks and Munoz",
+      "Lopez and Sons",
+      "Fischer, Jimenez and Walsh"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 33100683.84068177,
+      "max_opportunity_size": 1071458561.0694433,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV11905",
+    "investor_name": "Hong Kong Investment Authority",
+    "investor_type": "Sovereign Wealth Fund",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 21116457559.151768,
+    "asset_class_allocations": {
+      "Private Debt": 75.7,
+      "Infrastructure": 24.3
+    },
+    "geographic_preferences": [
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Sharp Group Fund 6",
+        "commitment_amount": 293768344.40357625,
+        "commitment_date": "2024-05-21"
+      }
+    ],
+    "portfolio_companies": [
+      "Rodriguez LLC",
+      "Conner Ltd",
+      "Flores Group",
+      "Mcdowell LLC",
+      "Williams PLC",
+      "Ramirez LLC",
+      "Sullivan Group",
+      "Phillips LLC",
+      "Harrington, Davis and Zavala",
+      "Morgan-Drake",
+      "Donaldson, Lowery and Odom",
+      "Cummings-Anderson",
+      "Gonzalez Ltd",
+      "Gonzalez-Thompson",
+      "Huber Ltd",
+      "Clark Group",
+      "Ochoa, Carr and Hubbard",
+      "Gonzales, Bell and Gilbert",
+      "Allen-Stephens",
+      "Hawkins and Sons",
+      "Lewis, Soto and Smith",
+      "Parker-Larsen",
+      "Hatfield, Martinez and Medina",
+      "Mcfarland Group",
+      "Gould and Sons",
+      "Santana-Daniels",
+      "Baxter Inc",
+      "Lawrence-Moore",
+      "Morton Ltd",
+      "Scott PLC",
+      "Frye and Sons",
+      "Perry Inc",
+      "Villarreal Ltd",
+      "Bailey-Braun",
+      "Savage, Weber and King",
+      "Poole Ltd",
+      "Green, Harris and Schneider",
+      "Cruz-Johnson",
+      "Gonzalez-Mack",
+      "Benson Ltd",
+      "Watson, Hernandez and Watkins",
+      "Diaz-Berry",
+      "Johnson, Avila and Mccoy",
+      "Cruz Group",
+      "Smith, Robinson and Gonzalez",
+      "Kent, Burke and Bell",
+      "Lawrence-Ray",
+      "Pineda-Martinez",
+      "Cooper, Rodriguez and Brown"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 11310773.885775913,
+      "max_opportunity_size": 1943438455.7792404,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV87317",
+    "investor_name": "Lewis LLC Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "total_commitments": 49125154500.24806,
+    "asset_class_allocations": {
+      "Venture Capital": 29.4,
+      "Private Debt": 42.6,
+      "Infrastructure": 20.1,
+      "Real Estate": 7.9
+    },
+    "geographic_preferences": [
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Flores, Whitney and Green Fund 4",
+        "commitment_amount": 492059231.08636475,
+        "commitment_date": "2023-10-02"
+      },
+      {
+        "fund_name": "Rosales-Hester Fund 4",
+        "commitment_amount": 492989690.67934096,
+        "commitment_date": "2024-04-11"
+      },
+      {
+        "fund_name": "Salazar and Sons Fund 8",
+        "commitment_amount": 434219214.23533463,
+        "commitment_date": "2024-07-05"
+      },
+      {
+        "fund_name": "Love-Smith Fund 1",
+        "commitment_amount": 428053123.62978065,
+        "commitment_date": "2024-06-05"
+      }
+    ],
+    "portfolio_companies": [
+      "Martinez-Herrera",
+      "Davis Ltd",
+      "Wood LLC",
+      "Oliver-Townsend",
+      "Daniel-Carter",
+      "Baker-Stewart",
+      "Hunt, Calderon and Rice",
+      "Mccormick-Evans",
+      "Parker-Vaughan",
+      "Montes, Collins and Patterson",
+      "Turner LLC",
+      "Jones, Walsh and Chen",
+      "Stewart-Morton",
+      "Moody Ltd",
+      "Hoffman, Norman and Jones",
+      "Kennedy-Barrett",
+      "Costa, Smith and Hays",
+      "Cole, Matthews and Johnson",
+      "Mata-Villa",
+      "Cox-Cooley",
+      "Campbell-Owens",
+      "Lopez, Holder and Carr",
+      "Martinez PLC",
+      "Harrison, Santos and Benson",
+      "Bennett Ltd",
+      "Briggs-Meyer",
+      "Fischer-Jacobs",
+      "Holt-Giles",
+      "Patterson and Sons",
+      "Booker-Williams",
+      "Wilson-Martin",
+      "Crawford and Sons",
+      "Phillips, Hamilton and Harris",
+      "Parker, Stewart and Ellison",
+      "Jones-Hunter",
+      "Green Ltd",
+      "Singh, Bell and Page",
+      "Steele, Bailey and Martin",
+      "Smith-Casey",
+      "Reynolds, Potter and Edwards",
+      "Paul-Lewis"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 11025677.236027505,
+      "max_opportunity_size": 929973997.562778,
+      "preferred_service_lines": [
+        "Training",
+        "Advisory",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Prospecting",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV67381",
+    "investor_name": "Underwood, Farley and Ortega Asset Manager",
+    "investor_type": "Asset Manager",
+    "headquarters": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "total_commitments": 29194695246.534657,
+    "asset_class_allocations": {
+      "Secondaries": 33.0,
+      "Hedge Funds": 67.0
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Hendricks-Jones Fund 3",
+        "commitment_amount": 340320134.93147016,
+        "commitment_date": "2024-12-08"
+      },
+      {
+        "fund_name": "Young-Rivera Fund 8",
+        "commitment_amount": 327687962.29498905,
+        "commitment_date": "2024-10-12"
+      },
+      {
+        "fund_name": "Howard-Riley Fund 9",
+        "commitment_amount": 347600160.58769834,
+        "commitment_date": "2023-08-21"
+      },
+      {
+        "fund_name": "Gonzalez, Flynn and Thompson Fund 3",
+        "commitment_amount": 47288270.69394467,
+        "commitment_date": "2024-03-07"
+      }
+    ],
+    "portfolio_companies": [
+      "Callahan-Thornton",
+      "Evans, Jones and Hodge",
+      "Thornton Inc",
+      "Wilson Ltd",
+      "Jones, Weaver and Giles",
+      "Wood-Morris",
+      "Neal, Mason and Allen",
+      "Hall-Haas",
+      "Williams, Mckinney and Smith",
+      "Jackson-Ward",
+      "King-Johnson",
+      "Bennett and Sons"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 34666458.97722937,
+      "max_opportunity_size": 1584480897.595701,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV58362",
+    "investor_name": "Banks and Sons Endowment",
+    "investor_type": "Endowment",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_commitments": 97781941052.11086,
+    "asset_class_allocations": {
+      "Private Debt": 40.5,
+      "Hedge Funds": 59.5
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Burgess Inc Fund 10",
+        "commitment_amount": 319114690.6243345,
+        "commitment_date": "2024-05-04"
+      }
+    ],
+    "portfolio_companies": [
+      "Parsons, Cole and Robertson",
+      "Bishop and Sons",
+      "Rhodes-Bates",
+      "Nunez, Martinez and Ford",
+      "Bird PLC",
+      "Castillo, Bartlett and Gilbert",
+      "Marks, Arnold and Greene",
+      "Mccullough-Webb",
+      "Bradley, Porter and Becker",
+      "Boyle-Graham",
+      "Morales, Flores and Porter",
+      "Sexton, Hall and Gonzalez",
+      "Wood-Anderson",
+      "Castro, Hess and Castaneda",
+      "Hahn Inc",
+      "Carson PLC",
+      "Reese, Walker and Miller",
+      "Cooper, Harris and Sanchez",
+      "Chavez and Sons",
+      "Wilcox PLC",
+      "Powell, Harris and Williams",
+      "Underwood Inc",
+      "Brown PLC",
+      "Brady Inc",
+      "White, Rodriguez and Griffin",
+      "Duran-Richmond",
+      "Cardenas Ltd",
+      "Roy, Sparks and Harrington",
+      "Campbell-Brown",
+      "Dudley, Day and Holmes",
+      "Rodgers Group",
+      "Johnson-Parker",
+      "Neal LLC",
+      "Phillips-Herrera",
+      "Meyer-Crane",
+      "Davis PLC",
+      "Cox, Martin and Brown",
+      "Carlson, Buchanan and Thomas",
+      "Fischer, Hunt and Mccormick",
+      "Knight, Torres and Dyer",
+      "Torres Inc",
+      "Tapia, Williams and Chambers",
+      "Bryant Group",
+      "Miles-Finley",
+      "Payne Inc",
+      "Blanchard, Payne and Diaz",
+      "Holt-Castro",
+      "Ware-Washington"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 40249967.66008529,
+      "max_opportunity_size": 127404175.32245538,
+      "preferred_service_lines": [
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV76631",
+    "investor_name": "Kennedy LLC Asset Manager",
+    "investor_type": "Asset Manager",
+    "headquarters": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "total_commitments": 37279752460.77015,
+    "asset_class_allocations": {
+      "Private Equity": 21.7,
+      "Infrastructure": 57.8,
+      "Secondaries": 20.5
+    },
+    "geographic_preferences": [
+      "Middle East & Africa",
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Pratt-Smith Fund 8",
+        "commitment_amount": 358446040.09009564,
+        "commitment_date": "2024-09-08"
+      },
+      {
+        "fund_name": "Anderson Group Fund 2",
+        "commitment_amount": 66108930.32658028,
+        "commitment_date": "2024-06-19"
+      },
+      {
+        "fund_name": "Beasley, Gutierrez and Rose Fund 8",
+        "commitment_amount": 100480903.07448597,
+        "commitment_date": "2023-10-25"
+      },
+      {
+        "fund_name": "Mckay, Sutton and Harvey Fund 8",
+        "commitment_amount": 26032330.120956853,
+        "commitment_date": "2023-09-02"
+      }
+    ],
+    "portfolio_companies": [
+      "Robinson PLC",
+      "Taylor, Moore and Harrington",
+      "Cook-Whitehead",
+      "Bishop Ltd",
+      "Russell, Fox and Jackson",
+      "Lawson PLC",
+      "Barron-Martin",
+      "Griffin PLC",
+      "Mitchell PLC",
+      "Evans Group",
+      "Scott Inc",
+      "Miller, Johnson and Williams",
+      "Santos-Khan",
+      "Leonard-Gibbs",
+      "Winters-Sanchez",
+      "Gibson, Wilkerson and Hernandez",
+      "Black, Peterson and Stein",
+      "Velasquez-Deleon",
+      "Cantrell-Bishop",
+      "Ibarra LLC",
+      "Mueller Group",
+      "Mathis, Hinton and Chen",
+      "Decker PLC",
+      "Johns PLC",
+      "Rivers, Mahoney and Wilson",
+      "Foster, Bass and Greene",
+      "Michael and Sons",
+      "Davis-Goodman",
+      "Perez-Clark",
+      "Howell, Rich and Chen",
+      "Zuniga-Newton",
+      "Powell, Collins and Gilbert",
+      "Watson-Nunez",
+      "Leonard Inc",
+      "Jordan, Dawson and Sanchez",
+      "Martinez, Brooks and Parker"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 14111836.188765844,
+      "max_opportunity_size": 753261979.7412469,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific",
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV40947",
+    "investor_name": "Fox and Sons Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_commitments": 53473628380.410965,
+    "asset_class_allocations": {
+      "Private Equity": 17.7,
+      "Private Debt": 26.8,
+      "Real Estate": 55.5
+    },
+    "geographic_preferences": [
+      "Europe"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Barnes-Rodriguez Fund 4",
+        "commitment_amount": 165148764.8784295,
+        "commitment_date": "2023-10-31"
+      },
+      {
+        "fund_name": "Baker-Wagner Fund 8",
+        "commitment_amount": 495611409.508657,
+        "commitment_date": "2024-11-02"
+      }
+    ],
+    "portfolio_companies": [
+      "Johnson-Johnston",
+      "Jimenez, Thompson and Rodriguez",
+      "Baker Ltd",
+      "Beck-Daniels",
+      "Rogers-Perez",
+      "Ray-Whitaker",
+      "Mendoza, Dunn and Coffey",
+      "Moreno-Flores",
+      "Lewis and Sons",
+      "Harper PLC",
+      "Reed Group",
+      "Lewis Ltd",
+      "Hicks, Camacho and Walker",
+      "Powers Ltd",
+      "Wood, Lara and Flowers",
+      "Rogers-Clark",
+      "Jenkins and Sons",
+      "Ward, Baker and Downs",
+      "Kirk Group",
+      "Miller-Fitzpatrick",
+      "Vaughn, Lee and Mitchell",
+      "Hansen-Jones",
+      "Douglas-Huynh",
+      "Sellers-Carpenter",
+      "Flores LLC",
+      "Ellis-Hoffman",
+      "Harris, Christian and Rivera",
+      "Berry-Martinez",
+      "Smith, Barnes and Lee",
+      "Decker Inc",
+      "Smith-Graham",
+      "Lewis Ltd",
+      "Lee, Ball and Ford",
+      "Welch and Sons",
+      "Webb-Fitzgerald",
+      "Adkins, Stephens and Klein",
+      "Rogers-Allison",
+      "Trevino Group",
+      "Romero and Sons",
+      "Romero-Allen",
+      "Little, Paul and Miller",
+      "Jones, Jackson and Kaufman",
+      "Martin Group"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 16552704.285172744,
+      "max_opportunity_size": 1657136176.7071085,
+      "preferred_service_lines": [
+        "Research",
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV18321",
+    "investor_name": "Smith, Welch and Taylor Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Australia"
+    },
+    "total_commitments": 44659692639.77859,
+    "asset_class_allocations": {
+      "Natural Resources": 24.5,
+      "Private Equity": 37.0,
+      "Private Debt": 38.5
+    },
+    "geographic_preferences": [
+      "Middle East & Africa",
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Jackson-Rice Fund 9",
+        "commitment_amount": 115312499.55173363,
+        "commitment_date": "2023-10-18"
+      }
+    ],
+    "portfolio_companies": [
+      "Wang, Edwards and Gutierrez",
+      "Gordon Inc",
+      "Benson, Morrow and Berg",
+      "Garcia-Taylor",
+      "Estrada PLC",
+      "Farley, Johnson and Holmes",
+      "Nelson Inc",
+      "Hebert-Duncan",
+      "Pope LLC",
+      "Savage Group",
+      "Kaufman, English and Kim",
+      "Parrish Ltd",
+      "Bauer, Santos and Shannon",
+      "Ortega, Hall and Alexander",
+      "Robinson Inc",
+      "Johnson-Price",
+      "Gallegos-Meyer",
+      "Collins-Perez",
+      "Johns and Sons",
+      "Ray PLC",
+      "Wilson-Keith",
+      "George PLC",
+      "Fritz, Morgan and Bishop",
+      "English Inc",
+      "Mills-Patterson",
+      "Johnson-Gutierrez",
+      "Malone, Davis and Martinez",
+      "Tanner, Richard and Stone",
+      "Mcguire, Davidson and Odom",
+      "Brown-Horton",
+      "Jones, Evans and Byrd",
+      "Hernandez-Heath",
+      "Benson-Willis",
+      "Flores, Wilson and Black",
+      "Williams-Burns",
+      "Lewis-Davis",
+      "Smith Inc",
+      "Rhodes Ltd",
+      "Anderson, Cunningham and Smith",
+      "Stevenson Group",
+      "Russell, Webster and Johnson",
+      "Rose LLC",
+      "Gonzalez, Murray and Torres",
+      "Fuller-Rice",
+      "Fuller, Mcguire and Moran",
+      "Drake and Sons",
+      "Frost-Bates"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 29527799.86707867,
+      "max_opportunity_size": 1753092425.2814543,
+      "preferred_service_lines": [
+        "Advisory",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV13676",
+    "investor_name": "Gray and Sons Asset Manager",
+    "investor_type": "Asset Manager",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_commitments": 91242240901.55493,
+    "asset_class_allocations": {
+      "Real Estate": 12.4,
+      "Venture Capital": 18.6,
+      "Secondaries": 46.8,
+      "Natural Resources": 22.3
+    },
+    "geographic_preferences": [
+      "Global",
+      "North America",
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Thompson-Carter Fund 1",
+        "commitment_amount": 260006846.82771665,
+        "commitment_date": "2024-09-21"
+      },
+      {
+        "fund_name": "Moore-Clay Fund 10",
+        "commitment_amount": 353071142.9272119,
+        "commitment_date": "2023-09-19"
+      },
+      {
+        "fund_name": "Gonzalez-Williams Fund 4",
+        "commitment_amount": 163108379.39286813,
+        "commitment_date": "2024-09-23"
+      },
+      {
+        "fund_name": "Morales Group Fund 6",
+        "commitment_amount": 283411457.1322121,
+        "commitment_date": "2025-04-22"
+      }
+    ],
+    "portfolio_companies": [
+      "Evans-Robertson",
+      "Brady, Buckley and Garcia",
+      "Ross LLC",
+      "Meyer, Mitchell and Phillips",
+      "Hodges and Sons",
+      "Hubbard-Johnson",
+      "Farmer-Lee",
+      "Ramos-Hahn",
+      "Klein, Strickland and Richards",
+      "Fuller-Washington",
+      "Adams-Murphy",
+      "Hill-Bishop",
+      "Walsh, Montgomery and Stein",
+      "Sandoval Group",
+      "Baker-Cunningham",
+      "Schwartz-Mclean",
+      "Sexton, Burns and Hawkins",
+      "Wang, Kidd and Moore",
+      "Roth Group",
+      "Stokes-Hanna",
+      "Gillespie Inc",
+      "Wright-Ochoa",
+      "Rollins-Sanchez",
+      "Huff LLC",
+      "Duffy Ltd",
+      "Bennett LLC",
+      "Wilson Ltd",
+      "Moreno-Adams"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 28335892.030981887,
+      "max_opportunity_size": 236935418.70373672,
+      "preferred_service_lines": [
+        "Technology",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV73745",
+    "investor_name": "Davis-Ortiz Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_commitments": 7787600780.669961,
+    "asset_class_allocations": {
+      "Private Debt": 8.5,
+      "Venture Capital": 47.9,
+      "Real Estate": 43.6
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Global",
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Black Inc Fund 4",
+        "commitment_amount": 303064751.79789996,
+        "commitment_date": "2025-01-17"
+      },
+      {
+        "fund_name": "Perry-Miller Fund 10",
+        "commitment_amount": 51438390.88336342,
+        "commitment_date": "2023-08-06"
+      }
+    ],
+    "portfolio_companies": [
+      "Smith-Rosario",
+      "Jackson-Allen",
+      "Keller-Rodriguez",
+      "Kelly Group",
+      "Atkins, Powell and Randolph",
+      "Strickland, Campbell and Kelley",
+      "Henry-Marshall",
+      "Tran Inc",
+      "Jones, Hardy and Parrish",
+      "Rasmussen-Bennett"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 15850127.979533216,
+      "max_opportunity_size": 645926716.9582894,
+      "preferred_service_lines": [
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV74897",
+    "investor_name": "Mccann PLC Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "total_commitments": 5126983900.960822,
+    "asset_class_allocations": {
+      "Infrastructure": 59.7,
+      "Secondaries": 40.3
+    },
+    "geographic_preferences": [
+      "Middle East & Africa",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Vasquez-Reynolds Fund 3",
+        "commitment_amount": 343247259.7870418,
+        "commitment_date": "2024-12-20"
+      },
+      {
+        "fund_name": "Graham Ltd Fund 3",
+        "commitment_amount": 380395803.8228243,
+        "commitment_date": "2024-02-29"
+      },
+      {
+        "fund_name": "Smith and Sons Fund 9",
+        "commitment_amount": 254643519.19804457,
+        "commitment_date": "2025-02-08"
+      },
+      {
+        "fund_name": "Leon, Ball and Oliver Fund 3",
+        "commitment_amount": 378185556.59700954,
+        "commitment_date": "2025-01-22"
+      }
+    ],
+    "portfolio_companies": [
+      "Myers, Lara and Anderson",
+      "Tucker, Hinton and Gonzales",
+      "Smith-Reyes",
+      "Robinson LLC",
+      "Fletcher PLC",
+      "Smith, Francis and Williams",
+      "Mack-Richards",
+      "Ball, Patterson and Collins",
+      "Smith, Hodges and Reyes",
+      "Jones, Taylor and Martinez",
+      "Mcmillan Ltd",
+      "May-Hansen",
+      "Harper LLC",
+      "Riley-Clark",
+      "Martinez Inc",
+      "Perry, Grant and Fox",
+      "Baker, Williams and Hamilton",
+      "Barron-Knight",
+      "Hill Ltd",
+      "Curry-Lewis",
+      "Williams Ltd",
+      "Edwards, Hill and Bryant",
+      "White-Green",
+      "Young, Williamson and Aguirre",
+      "Castillo PLC",
+      "Mccarthy, Gutierrez and Guerra",
+      "Green Group",
+      "Porter, Calderon and Johnson",
+      "Willis, Montoya and Fox",
+      "Carter Inc",
+      "Hines Inc",
+      "Barton, White and Thompson"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 12339760.338833814,
+      "max_opportunity_size": 484432446.10098135,
+      "preferred_service_lines": [
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Global",
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV33916",
+    "investor_name": "Stein PLC Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "total_commitments": 73574255203.95259,
+    "asset_class_allocations": {
+      "Private Debt": 27.7,
+      "Real Estate": 28.5,
+      "Infrastructure": 23.0,
+      "Private Equity": 20.8
+    },
+    "geographic_preferences": [
+      "Europe",
+      "North America",
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Jones, Kennedy and Ferguson Fund 4",
+        "commitment_amount": 168514421.879601,
+        "commitment_date": "2025-05-18"
+      },
+      {
+        "fund_name": "Keller, Nelson and Gonzalez Fund 8",
+        "commitment_amount": 233107334.25152928,
+        "commitment_date": "2024-05-27"
+      }
+    ],
+    "portfolio_companies": [
+      "Baker-Mejia",
+      "Mason-Mendez",
+      "Robles-Mitchell",
+      "Wagner-Scott",
+      "Mitchell, Flores and Allen",
+      "Green Inc",
+      "Orozco Group",
+      "Neal-Johnson",
+      "Morales-Smith",
+      "Sullivan Inc",
+      "Ortiz Ltd",
+      "Shelton-Frye",
+      "Fritz, Macias and Mathis",
+      "Stevenson Inc",
+      "Clark-Hernandez",
+      "Morris PLC",
+      "West LLC",
+      "Montgomery, Leonard and Miller",
+      "Olsen-Maddox",
+      "Gomez, Oliver and Brown",
+      "Johnson, Harris and Kim",
+      "Garza, Smith and Long",
+      "Hall Ltd",
+      "Johnson, Campbell and Thompson",
+      "Simpson, Sanchez and Cox",
+      "Parks Group",
+      "Johnson, Watts and Burns",
+      "Johnson, Navarro and Walker",
+      "Mcdaniel-Harrington",
+      "Vasquez and Sons",
+      "Cross and Sons"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 3771943.5456901165,
+      "max_opportunity_size": 1865735000.9259932,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV11922",
+    "investor_name": "Kim, Roberts and Burns Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_commitments": 86632455900.96469,
+    "asset_class_allocations": {
+      "Natural Resources": 47.9,
+      "Private Debt": 52.1
+    },
+    "geographic_preferences": [
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Banks-White Fund 6",
+        "commitment_amount": 255067497.769895,
+        "commitment_date": "2024-05-24"
+      },
+      {
+        "fund_name": "Wong-Warner Fund 10",
+        "commitment_amount": 198022646.35406882,
+        "commitment_date": "2024-11-22"
+      }
+    ],
+    "portfolio_companies": [
+      "Moore-Cook",
+      "Smith-Knox",
+      "Clark, Bennett and Owen",
+      "Parrish LLC",
+      "Hood-Gates",
+      "Smith-Miller",
+      "White-Quinn",
+      "Stephenson-Williams",
+      "Davis, Jackson and Gill",
+      "Mccullough, Smith and Brown",
+      "Huber-Wright",
+      "Douglas-Brooks",
+      "Myers PLC",
+      "Fritz LLC",
+      "Buchanan-Romero",
+      "Wood-Bryant",
+      "Marshall, Cannon and Dawson",
+      "Rodriguez, Simmons and Caldwell",
+      "Page Inc",
+      "Huynh-Powell",
+      "Williams LLC",
+      "Garcia LLC",
+      "Stewart Ltd",
+      "Perry-Garcia",
+      "Wilcox, King and Miller",
+      "Dougherty Ltd",
+      "Yates, Patel and Sanchez",
+      "Lee LLC",
+      "Wells, Drake and Lucero",
+      "Dickerson, Morrison and Bennett",
+      "Boyd, Callahan and Orr",
+      "Rich, Diaz and Mcbride",
+      "Riggs-Medina",
+      "Dominguez-Black",
+      "Garcia, Gillespie and Chen"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 40271409.95598913,
+      "max_opportunity_size": 1735598886.4931498,
+      "preferred_service_lines": [
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Latin America",
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV20899",
+    "investor_name": "Hurst, Wallace and Andrade Family Office",
+    "investor_type": "Family Office",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_commitments": 59466577187.05935,
+    "asset_class_allocations": {
+      "Venture Capital": 21.0,
+      "Real Estate": 12.4,
+      "Hedge Funds": 8.7,
+      "Private Debt": 28.8,
+      "Infrastructure": 29.0
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Preston, Vazquez and Wong Fund 8",
+        "commitment_amount": 35748994.92119536,
+        "commitment_date": "2023-06-29"
+      },
+      {
+        "fund_name": "Lewis, Joseph and Aguilar Fund 1",
+        "commitment_amount": 61681134.346941225,
+        "commitment_date": "2024-08-06"
+      }
+    ],
+    "portfolio_companies": [
+      "Thomas-Sanford",
+      "Moore LLC",
+      "Whitney, Myers and Grant",
+      "Black LLC",
+      "Jimenez and Sons",
+      "Morris-Joseph",
+      "May Inc",
+      "Park, Barnes and Smith",
+      "Morrison PLC",
+      "Edwards LLC",
+      "Lewis, Becker and Martinez",
+      "Mitchell Ltd",
+      "Humphrey-Turner",
+      "Conner-Anderson",
+      "Sanford LLC",
+      "Johnson, Ball and Tucker",
+      "Lewis LLC",
+      "Miller-Gonzalez",
+      "Lawrence-Young"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 30352049.163341526,
+      "max_opportunity_size": 1707738694.426442,
+      "preferred_service_lines": [
+        "Advisory",
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV17266",
+    "investor_name": "Floyd Group Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_commitments": 31001245038.006084,
+    "asset_class_allocations": {
+      "Natural Resources": 9.9,
+      "Real Estate": 38.0,
+      "Infrastructure": 29.1,
+      "Private Debt": 10.5,
+      "Private Equity": 12.6
+    },
+    "geographic_preferences": [
+      "Europe",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Goodman Group Fund 5",
+        "commitment_amount": 449437074.8192528,
+        "commitment_date": "2025-03-13"
+      }
+    ],
+    "portfolio_companies": [
+      "Wood, Willis and Hanson",
+      "Marshall-Mckay",
+      "Foster, Alexander and Morris",
+      "Rivera, Harmon and Caldwell",
+      "Cline PLC",
+      "Ford, Frazier and Logan",
+      "Hartman-Porter",
+      "Walton LLC",
+      "Garza LLC",
+      "Morris-Bass",
+      "Martin, Matthews and Bray",
+      "Ramirez-Hill",
+      "Nguyen-Bowman",
+      "White, Navarro and Lawson",
+      "Crawford and Sons",
+      "Delgado-Gibson",
+      "Vincent-Johnson",
+      "Hudson-Anderson",
+      "Solis-Valencia"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 46784677.106968515,
+      "max_opportunity_size": 1432693468.2549982,
+      "preferred_service_lines": [
+        "Technology",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV26800",
+    "investor_name": "Rubio PLC Asset Manager",
+    "investor_type": "Asset Manager",
+    "headquarters": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "total_commitments": 96466290755.56981,
+    "asset_class_allocations": {
+      "Private Debt": 31.4,
+      "Venture Capital": 68.6
+    },
+    "geographic_preferences": [
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Ortiz, Taylor and Gutierrez Fund 6",
+        "commitment_amount": 451521111.7093774,
+        "commitment_date": "2024-05-10"
+      },
+      {
+        "fund_name": "Johnson and Sons Fund 7",
+        "commitment_amount": 495448938.695408,
+        "commitment_date": "2023-10-27"
+      },
+      {
+        "fund_name": "Taylor, Porter and Burke Fund 8",
+        "commitment_amount": 300893513.89275837,
+        "commitment_date": "2024-06-30"
+      }
+    ],
+    "portfolio_companies": [
+      "Sims-Ellis",
+      "Edwards PLC",
+      "Hansen-Nelson",
+      "Gutierrez LLC",
+      "George PLC",
+      "Jones-Ross",
+      "Gonzalez, Williams and Garcia",
+      "Watkins Group",
+      "Larson-Bryant",
+      "Briggs-Williams",
+      "Barton-Beasley",
+      "Jenkins, Ross and Hayes",
+      "Brown, Graham and Reed",
+      "Martinez and Sons",
+      "Michael Ltd",
+      "Nguyen, Martin and Willis",
+      "Hall-Garcia",
+      "Brown-Parker",
+      "Jackson-Richards",
+      "Prince-Hernandez"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 21758612.22976692,
+      "max_opportunity_size": 1902668679.2963808,
+      "preferred_service_lines": [
+        "Research",
+        "Data & Analytics",
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Prospecting",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV71970",
+    "investor_name": "Dunn, Baker and Collins Corporate Pension",
+    "investor_type": "Corporate Pension",
+    "headquarters": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "total_commitments": 87214373444.45372,
+    "asset_class_allocations": {
+      "Infrastructure": 50.4,
+      "Private Debt": 49.6
+    },
+    "geographic_preferences": [
+      "North America",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Henderson PLC Fund 8",
+        "commitment_amount": 288994843.2551703,
+        "commitment_date": "2024-04-12"
+      },
+      {
+        "fund_name": "Chavez-Johnson Fund 2",
+        "commitment_amount": 377818595.50927466,
+        "commitment_date": "2023-10-16"
+      },
+      {
+        "fund_name": "Anderson, Fisher and Wright Fund 3",
+        "commitment_amount": 33791312.740724266,
+        "commitment_date": "2023-07-19"
+      },
+      {
+        "fund_name": "Cox-Phelps Fund 5",
+        "commitment_amount": 206883796.63974103,
+        "commitment_date": "2025-03-03"
+      }
+    ],
+    "portfolio_companies": [
+      "Wheeler-Martin",
+      "Brown, Harris and Farrell",
+      "Gomez Group",
+      "Schultz, Harris and Blanchard",
+      "Patel-Watts",
+      "Smith, Martinez and Johnson",
+      "Benitez-Brown",
+      "Stevens-Morgan",
+      "Christensen and Sons",
+      "Perez Group",
+      "Peterson Group",
+      "Moreno Group",
+      "Villa, Gonzales and Morgan",
+      "Rivera Ltd",
+      "Thompson-Watson",
+      "Johnson, Kim and Schaefer",
+      "Edwards-Hall",
+      "Elliott-Johnson",
+      "Alvarez-Webb",
+      "Byrd-Oconnor",
+      "Hamilton Ltd",
+      "York Group",
+      "Scott and Sons",
+      "Glenn-Bentley",
+      "Bishop Inc",
+      "Powell LLC",
+      "Brooks Group",
+      "Cook-Gay",
+      "Gonzales-Cruz",
+      "Gonzalez, James and Henderson",
+      "Washington LLC"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 18351078.97275523,
+      "max_opportunity_size": 1010493694.1360137,
+      "preferred_service_lines": [
+        "Training",
+        "Technology",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "North America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV14728",
+    "investor_name": "Lopez, Buckley and Stewart Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Netherlands"
+    },
+    "total_commitments": 43933424808.52924,
+    "asset_class_allocations": {
+      "Natural Resources": 64.9,
+      "Private Debt": 35.1
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Global",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Sutton-Leblanc Fund 4",
+        "commitment_amount": 184237820.9991647,
+        "commitment_date": "2024-09-15"
+      },
+      {
+        "fund_name": "Morris, Jackson and Sandoval Fund 5",
+        "commitment_amount": 22381503.0971905,
+        "commitment_date": "2023-11-06"
+      }
+    ],
+    "portfolio_companies": [
+      "Martinez, Hopkins and Bennett",
+      "Kennedy Ltd",
+      "Austin LLC",
+      "Mejia-Herrera",
+      "Hamilton, Tran and Sullivan",
+      "Hernandez, Black and Caldwell",
+      "Spencer PLC",
+      "Shea, Davis and Murillo",
+      "Garcia, Franklin and Pennington",
+      "Ross, Guerrero and Scott",
+      "Butler Ltd",
+      "Phillips Inc",
+      "Ford, Roberts and Miller",
+      "Munoz-Peterson",
+      "Willis Ltd",
+      "Ryan Group",
+      "Kelley-Smith",
+      "Smith-Gutierrez",
+      "Shelton LLC",
+      "Murray, Brown and Hernandez",
+      "Cobb LLC",
+      "Cole-Faulkner",
+      "Carr-English",
+      "Romero-Benjamin",
+      "Green, Hernandez and Ramos",
+      "Watts, Green and Calhoun",
+      "Webb and Sons",
+      "Medina-Riggs",
+      "Randall, Davis and Davis",
+      "Moore-Hamilton",
+      "Rodriguez, Neal and Hendricks",
+      "Bell, Lewis and Montgomery",
+      "Bryant-Williams",
+      "Jones, Ramirez and Vaughn",
+      "Bennett-Murphy",
+      "Burton-Stephens",
+      "Fisher and Sons",
+      "Ellis and Sons",
+      "Osborne-Vasquez",
+      "Riggs, Elliott and Phillips"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 17568626.484078195,
+      "max_opportunity_size": 378161259.193144,
+      "preferred_service_lines": [
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa",
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV11855",
+    "investor_name": "Bennett-Doyle Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 15917274763.603434,
+    "asset_class_allocations": {
+      "Secondaries": 49.8,
+      "Hedge Funds": 22.2,
+      "Venture Capital": 28.0
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Europe"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Turner, Erickson and Mccarthy Fund 8",
+        "commitment_amount": 254916606.4562334,
+        "commitment_date": "2024-11-24"
+      },
+      {
+        "fund_name": "Harvey and Sons Fund 6",
+        "commitment_amount": 437661679.20967525,
+        "commitment_date": "2024-10-20"
+      },
+      {
+        "fund_name": "Nichols Ltd Fund 3",
+        "commitment_amount": 143003680.9666081,
+        "commitment_date": "2023-07-11"
+      }
+    ],
+    "portfolio_companies": [
+      "Hamilton-Ross",
+      "Diaz-Phillips",
+      "Schultz, Smith and Reid",
+      "Padilla-Copeland",
+      "Jordan-White",
+      "Irwin Inc",
+      "Hunter-Carney",
+      "Rhodes, Taylor and Contreras",
+      "Ross, Yoder and Bishop",
+      "Davis Inc",
+      "Gutierrez, Kirby and Johnson",
+      "Davis-Medina",
+      "Hamilton-Floyd"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 33261512.741302516,
+      "max_opportunity_size": 1717991438.5149388,
+      "preferred_service_lines": [
+        "Technology",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV35832",
+    "investor_name": "Shaw, Logan and Hammond Insurance",
+    "investor_type": "Insurance Company",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_commitments": 45839988280.84975,
+    "asset_class_allocations": {
+      "Natural Resources": 35.9,
+      "Infrastructure": 37.9,
+      "Secondaries": 26.3
+    },
+    "geographic_preferences": [
+      "Latin America",
+      "Asia-Pacific",
+      "North America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Bruce-Cruz Fund 2",
+        "commitment_amount": 354550804.0005802,
+        "commitment_date": "2025-03-26"
+      },
+      {
+        "fund_name": "Lee, Jones and Kim Fund 10",
+        "commitment_amount": 397974051.401087,
+        "commitment_date": "2025-05-07"
+      },
+      {
+        "fund_name": "Cole-Harrell Fund 5",
+        "commitment_amount": 203034933.49889246,
+        "commitment_date": "2025-05-19"
+      },
+      {
+        "fund_name": "Sandoval-Cox Fund 7",
+        "commitment_amount": 273042527.4968512,
+        "commitment_date": "2023-10-09"
+      }
+    ],
+    "portfolio_companies": [
+      "Bell LLC",
+      "Moss-Obrien",
+      "Williamson-Allen",
+      "Anderson-White",
+      "Martinez-Tran",
+      "Willis LLC",
+      "Abbott-Warren",
+      "Phelps-Hill",
+      "Tran-Vazquez",
+      "Snyder-Moore",
+      "Vasquez Group",
+      "Shaw, Bullock and Ochoa",
+      "Ware, Rowe and Gibson",
+      "Long-Khan",
+      "Wallace Inc",
+      "Morris-Park",
+      "Hayes-Williams",
+      "Brown LLC",
+      "Barnes, Miller and Buckley",
+      "Carey-Li",
+      "Guzman PLC",
+      "Diaz, Lane and Freeman",
+      "Adams, Scott and Griffin",
+      "Hancock Ltd",
+      "Mclaughlin-Jackson",
+      "Horn, Miller and Smith",
+      "Burnett, Edwards and Sullivan",
+      "Garcia and Sons",
+      "Simpson, Watson and Edwards",
+      "West, Villarreal and Howell",
+      "Stevens-Miller",
+      "Frazier-Stevenson",
+      "Jackson Group",
+      "Underwood and Sons",
+      "Love, Jones and Thompson",
+      "Coleman-Pierce",
+      "Ramirez-Sandoval"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 32552332.186320137,
+      "max_opportunity_size": 1868084610.6808484,
+      "preferred_service_lines": [
+        "Data & Analytics",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV32061",
+    "investor_name": "Lucero, White and Stanton Asset Manager",
+    "investor_type": "Asset Manager",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 30063387046.568657,
+    "asset_class_allocations": {
+      "Natural Resources": 18.0,
+      "Hedge Funds": 16.9,
+      "Venture Capital": 29.4,
+      "Private Equity": 6.2,
+      "Private Debt": 29.5
+    },
+    "geographic_preferences": [
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Becker-Simmons Fund 7",
+        "commitment_amount": 151589161.67203474,
+        "commitment_date": "2025-02-22"
+      },
+      {
+        "fund_name": "Leach PLC Fund 2",
+        "commitment_amount": 79240016.8395081,
+        "commitment_date": "2023-08-27"
+      },
+      {
+        "fund_name": "Garcia, Perkins and Welch Fund 10",
+        "commitment_amount": 328900790.9403958,
+        "commitment_date": "2024-02-19"
+      },
+      {
+        "fund_name": "Rodgers Inc Fund 10",
+        "commitment_amount": 129920270.19921571,
+        "commitment_date": "2025-05-19"
+      }
+    ],
+    "portfolio_companies": [
+      "Keller, Acosta and Cook",
+      "Daniel LLC",
+      "Bates-Mccoy",
+      "Fischer-Johnson",
+      "Figueroa and Sons",
+      "Garcia LLC",
+      "Rodriguez Inc",
+      "Mejia-Pearson",
+      "Clements-Fernandez",
+      "Morris LLC",
+      "Elliott, Adkins and Lee",
+      "Phillips LLC",
+      "Williams, Jordan and Smith",
+      "Foster, Harris and Brown",
+      "Pittman-Jones",
+      "Wright, Moore and Mccarthy",
+      "Williams-Knight",
+      "Lloyd-Richards",
+      "Hobbs and Sons",
+      "Taylor, Fernandez and Ortega",
+      "Villarreal-Johnson"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 34119074.35320327,
+      "max_opportunity_size": 829472963.9211296,
+      "preferred_service_lines": [
+        "Advisory",
+        "Research",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Latin America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV45545",
+    "investor_name": "Thomas LLC Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_commitments": 51041399834.81954,
+    "asset_class_allocations": {
+      "Private Debt": 6.0,
+      "Secondaries": 21.7,
+      "Natural Resources": 12.4,
+      "Private Equity": 42.6,
+      "Real Estate": 17.3
+    },
+    "geographic_preferences": [
+      "Global",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Rios, Sloan and Sullivan Fund 3",
+        "commitment_amount": 483943705.3861932,
+        "commitment_date": "2023-09-10"
+      },
+      {
+        "fund_name": "Wells PLC Fund 9",
+        "commitment_amount": 346884692.111201,
+        "commitment_date": "2025-04-19"
+      },
+      {
+        "fund_name": "Hill-Calhoun Fund 5",
+        "commitment_amount": 234226382.45269158,
+        "commitment_date": "2023-08-25"
+      }
+    ],
+    "portfolio_companies": [
+      "Oneal Ltd",
+      "Smith-Cooper",
+      "Parker Inc",
+      "Ramos-Zimmerman",
+      "Smith, Henry and Valdez",
+      "Keller Group",
+      "Bowman Ltd",
+      "Barrera Group",
+      "Smith-Daniels",
+      "Navarro-Carpenter",
+      "Garcia, Ross and Lee",
+      "Miller-Nolan",
+      "Figueroa-Steele",
+      "Smith, Conway and Rodriguez",
+      "Kirk LLC"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 23610409.555548456,
+      "max_opportunity_size": 214353443.7927855,
+      "preferred_service_lines": [
+        "Technology"
+      ],
+      "stage_preferences": [
+        "Proposal",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "Latin America",
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV58027",
+    "investor_name": "Campbell and Sons Family Office",
+    "investor_type": "Family Office",
+    "headquarters": {
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "total_commitments": 34466119028.211914,
+    "asset_class_allocations": {
+      "Secondaries": 28.0,
+      "Private Debt": 43.3,
+      "Private Equity": 28.7
+    },
+    "geographic_preferences": [
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Gonzales, White and Pittman Fund 3",
+        "commitment_amount": 147355976.5658076,
+        "commitment_date": "2024-01-26"
+      }
+    ],
+    "portfolio_companies": [
+      "Rose, Mcclain and Nichols",
+      "Deleon and Sons",
+      "Farrell-Thompson",
+      "Harris, Clements and Gross",
+      "Norman, Singleton and Collins",
+      "Sherman, Mitchell and Castro",
+      "Johnson-Shaffer",
+      "Duarte, Green and Diaz",
+      "Costa-Harris",
+      "Griffin-Armstrong",
+      "Long-Cole",
+      "Olson-Hughes",
+      "Brown and Sons",
+      "Johnson-Acosta",
+      "Reyes-Duncan",
+      "Herrera-Miller",
+      "Watkins Ltd",
+      "Mcclure Inc",
+      "Morrison PLC",
+      "Lowe-Black",
+      "Kaiser-Irwin",
+      "Shelton, Lozano and Henry",
+      "Moore, Reyes and Velasquez",
+      "Jones and Sons",
+      "Martin, Lane and Clark",
+      "Gutierrez, Powell and Koch",
+      "Henry, Mckenzie and Bishop",
+      "Barker, Joyce and Murillo",
+      "Ford-Hunt",
+      "Stanton LLC",
+      "Spence-Thompson",
+      "Hill, Robinson and Watts",
+      "Brown-Martin",
+      "Estrada-Rose",
+      "Smith-Parker",
+      "Carrillo LLC",
+      "Kline PLC",
+      "Johnson, Morris and Cain",
+      "Odom, Douglas and Maldonado",
+      "Prince-Moon"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 20287301.93689746,
+      "max_opportunity_size": 395149664.06242085,
+      "preferred_service_lines": [
+        "Technology",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV28609",
+    "investor_name": "Singapore Investment Authority",
+    "investor_type": "Sovereign Wealth Fund",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_commitments": 13855437247.854605,
+    "asset_class_allocations": {
+      "Secondaries": 31.4,
+      "Hedge Funds": 22.1,
+      "Private Debt": 28.4,
+      "Natural Resources": 18.2
+    },
+    "geographic_preferences": [
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Morgan-Perez Fund 8",
+        "commitment_amount": 222877862.52258372,
+        "commitment_date": "2024-12-25"
+      }
+    ],
+    "portfolio_companies": [
+      "Clay, Torres and Lowe",
+      "Allen, Hansen and Sandoval",
+      "Miller-Mitchell",
+      "Little, Gibbs and Perez",
+      "Evans Ltd",
+      "White, Perez and Vazquez",
+      "Russo-Harris",
+      "Jackson, Beck and Miller",
+      "Johnson and Sons",
+      "Bowers, Strickland and Murillo",
+      "Le, Harrison and Ramirez",
+      "Finley Inc",
+      "Hahn-Brown",
+      "Heath Group",
+      "Swanson Group",
+      "Casey, Peters and Powell",
+      "Dean LLC",
+      "Tucker, Everett and Moore",
+      "Waters and Sons",
+      "Martin LLC",
+      "Ferrell PLC",
+      "Callahan-Strickland",
+      "Hoffman, Camacho and Johnson",
+      "Gutierrez-Hebert",
+      "Davis, Griffin and Miller",
+      "Boyd, Bishop and Le",
+      "Wells-Torres",
+      "Baldwin, Reilly and Nguyen",
+      "Wade Group",
+      "Miller Ltd",
+      "Chavez, Zimmerman and Aguirre",
+      "Downs, Washington and Wilson",
+      "Zuniga-Garrett",
+      "Morgan-Glenn",
+      "Perez-Mason"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 21052062.98186371,
+      "max_opportunity_size": 1679326290.1466713,
+      "preferred_service_lines": [
+        "Training",
+        "Data & Analytics",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Negotiation",
+        "Qualification"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV76456",
+    "investor_name": "Young-Morgan Family Office",
+    "investor_type": "Family Office",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "South Korea"
+    },
+    "total_commitments": 99533720769.14279,
+    "asset_class_allocations": {
+      "Private Debt": 9.9,
+      "Venture Capital": 47.4,
+      "Hedge Funds": 30.6,
+      "Secondaries": 12.1
+    },
+    "geographic_preferences": [
+      "Global",
+      "Europe",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Fields, Castaneda and Evans Fund 9",
+        "commitment_amount": 450999426.6885436,
+        "commitment_date": "2024-04-21"
+      },
+      {
+        "fund_name": "Melton and Sons Fund 10",
+        "commitment_amount": 195072887.31612194,
+        "commitment_date": "2024-05-21"
+      },
+      {
+        "fund_name": "Allison Group Fund 3",
+        "commitment_amount": 54641329.346726745,
+        "commitment_date": "2024-05-04"
+      },
+      {
+        "fund_name": "Patterson Inc Fund 2",
+        "commitment_amount": 465752731.0263959,
+        "commitment_date": "2024-08-29"
+      }
+    ],
+    "portfolio_companies": [
+      "Jackson, Williams and Palmer",
+      "Kerr Inc",
+      "Galvan and Sons",
+      "Hardy-Richardson",
+      "Lang-Jones",
+      "Andrews-Payne",
+      "Jimenez, Brown and Pena",
+      "Rivera-Davis",
+      "Buckley, Reyes and Clark",
+      "Padilla, Simmons and Holden",
+      "Huber Ltd",
+      "Koch-Nguyen",
+      "Robinson, Smith and Sanchez",
+      "Edwards-Sullivan",
+      "Mccall-Carter",
+      "Andersen Inc",
+      "Martin-Macias",
+      "Jones-Johnson",
+      "Morgan, Johnson and Pearson",
+      "Stephens-Hutchinson",
+      "Hayes-Elliott",
+      "Adams, Clark and Melton",
+      "Vazquez Ltd",
+      "Smith-Hall",
+      "Garcia, Yu and Ellis",
+      "Walker LLC",
+      "Bean, Velez and Lee",
+      "Brennan-Brown",
+      "Perry-Lewis",
+      "Jackson-Harper",
+      "Campbell-Welch",
+      "Brown, Bryant and Smith",
+      "Stephens-Paul",
+      "Romero, Heath and Hughes",
+      "Lawrence, Bowen and Dunn",
+      "Cunningham Inc"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 26866490.448452476,
+      "max_opportunity_size": 638192114.3591051,
+      "preferred_service_lines": [
+        "Technology",
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV67270",
+    "investor_name": "Alaska Teachers Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "total_commitments": 45265008255.05505,
+    "asset_class_allocations": {
+      "Venture Capital": 14.0,
+      "Real Estate": 22.5,
+      "Private Debt": 25.6,
+      "Natural Resources": 15.6,
+      "Hedge Funds": 22.4
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Middle East & Africa",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Harrison, Mahoney and Brown Fund 1",
+        "commitment_amount": 181952465.18895674,
+        "commitment_date": "2023-10-28"
+      },
+      {
+        "fund_name": "Freeman PLC Fund 5",
+        "commitment_amount": 235613657.982322,
+        "commitment_date": "2025-05-02"
+      }
+    ],
+    "portfolio_companies": [
+      "Tate and Sons",
+      "Sims, Thompson and Schultz",
+      "Gardner-Carter",
+      "Carter-Brown",
+      "Pruitt-Baker",
+      "Lee, Coleman and Cook",
+      "Houston-Johnson",
+      "Hudson, Greene and Moore",
+      "Watkins and Sons",
+      "Lewis and Sons",
+      "Guerra and Sons",
+      "Holmes and Sons",
+      "Brown, Kim and Wilson",
+      "Franklin, Salazar and Williams",
+      "Mullen-Obrien",
+      "Warren LLC",
+      "Pittman-Smith",
+      "Stanley, Meadows and Smith",
+      "Alexander, Nelson and Russo",
+      "Sullivan, Smith and Blair",
+      "Jimenez, Davis and Vaughan"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 38708213.43749553,
+      "max_opportunity_size": 713704964.5615911,
+      "preferred_service_lines": [
+        "Research"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV74757",
+    "investor_name": "Payne-Jones Bank",
+    "investor_type": "Bank",
+    "headquarters": {
+      "city": "Geneva",
+      "country": "Switzerland"
+    },
+    "total_commitments": 15876274989.597124,
+    "asset_class_allocations": {
+      "Private Equity": 14.5,
+      "Venture Capital": 17.0,
+      "Real Estate": 24.1,
+      "Infrastructure": 44.4
+    },
+    "geographic_preferences": [
+      "Latin America"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Ferguson-Moyer Fund 8",
+        "commitment_amount": 376145849.20124096,
+        "commitment_date": "2024-07-29"
+      },
+      {
+        "fund_name": "Gonzalez-Daniels Fund 5",
+        "commitment_amount": 453827294.6267673,
+        "commitment_date": "2024-01-10"
+      },
+      {
+        "fund_name": "Wyatt-Ramsey Fund 6",
+        "commitment_amount": 390052975.73214847,
+        "commitment_date": "2024-11-01"
+      }
+    ],
+    "portfolio_companies": [
+      "Gomez Ltd",
+      "Blair, Gutierrez and Jones",
+      "Hudson Ltd",
+      "Scott, Baker and Garcia",
+      "Willis and Sons",
+      "Richardson PLC",
+      "Lee Group",
+      "Mckee Inc",
+      "White-Lozano",
+      "Delgado-Stewart",
+      "Gutierrez-Hoffman",
+      "Hanna and Sons",
+      "Vargas PLC",
+      "Silva-Gonzalez",
+      "Miller Group",
+      "Price, Smith and Shaffer",
+      "Bryan, Gardner and Smith",
+      "Ramirez Inc",
+      "Bailey, Bender and Brown",
+      "Weber-Foster",
+      "Foster-Chang",
+      "Golden and Sons",
+      "Duncan Ltd",
+      "Thompson, Gutierrez and Esparza",
+      "Maxwell-Black",
+      "Jones Ltd",
+      "Sherman-Townsend",
+      "Torres PLC",
+      "Arnold-Park",
+      "Garcia, Sanders and Cole",
+      "Hopkins, Dunn and Harris",
+      "Briggs LLC",
+      "Martin, Hines and Frazier",
+      "Burnett, Hamilton and Garcia",
+      "Brown-Alexander",
+      "Smith, Bush and Torres",
+      "Martinez Group",
+      "Whitehead Ltd",
+      "Leon, Graham and Potter"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 6990114.511764304,
+      "max_opportunity_size": 1213613013.739592,
+      "preferred_service_lines": [
+        "Research",
+        "Training"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Latin America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV36631",
+    "investor_name": "Burns PLC Foundation",
+    "investor_type": "Foundation",
+    "headquarters": {
+      "city": "Osaka",
+      "country": "Japan"
+    },
+    "total_commitments": 45815396222.43185,
+    "asset_class_allocations": {
+      "Private Debt": 13.5,
+      "Private Equity": 24.5,
+      "Infrastructure": 16.8,
+      "Natural Resources": 30.0,
+      "Real Estate": 15.3
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Global",
+      "Middle East & Africa"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Cordova, Anderson and Jones Fund 8",
+        "commitment_amount": 52790892.002410226,
+        "commitment_date": "2024-06-07"
+      },
+      {
+        "fund_name": "Benton-Paul Fund 9",
+        "commitment_amount": 444755619.64611936,
+        "commitment_date": "2025-03-29"
+      },
+      {
+        "fund_name": "Fletcher-Burke Fund 7",
+        "commitment_amount": 371093662.5019801,
+        "commitment_date": "2024-09-13"
+      },
+      {
+        "fund_name": "Mclaughlin PLC Fund 3",
+        "commitment_amount": 440550554.97904176,
+        "commitment_date": "2024-03-23"
+      }
+    ],
+    "portfolio_companies": [
+      "Davis, Baker and Cox",
+      "Davis LLC",
+      "Scott-Coleman",
+      "Lynch, Ray and Deleon",
+      "Bell, Keller and Potter",
+      "Turner Group",
+      "Thomas Inc",
+      "Johnson, Scott and Harrington",
+      "Guerra-Smith",
+      "Peterson, Murphy and Day",
+      "Guerrero LLC",
+      "Lopez Ltd",
+      "Mckinney PLC",
+      "Ramirez-Jenkins",
+      "Oliver-Hall"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 4080783.868246963,
+      "max_opportunity_size": 791272789.6320072,
+      "preferred_service_lines": [
+        "Advisory",
+        "Data & Analytics"
+      ],
+      "stage_preferences": [
+        "Prospecting",
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "Middle East & Africa",
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV54014",
+    "investor_name": "Nebraska Public Employees Pension Fund",
+    "investor_type": "Pension Fund",
+    "headquarters": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "total_commitments": 74051800575.06128,
+    "asset_class_allocations": {
+      "Hedge Funds": 8.3,
+      "Infrastructure": 22.6,
+      "Natural Resources": 36.2,
+      "Secondaries": 33.0
+    },
+    "geographic_preferences": [
+      "Europe"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Alvarez, Hines and Ewing Fund 8",
+        "commitment_amount": 400960455.4820093,
+        "commitment_date": "2023-06-26"
+      }
+    ],
+    "portfolio_companies": [
+      "Cuevas PLC",
+      "Allen PLC",
+      "Cunningham, Collins and Castro",
+      "Allen LLC",
+      "Lopez LLC",
+      "Key, Jones and Martinez",
+      "Mcclain, Martinez and Miller",
+      "Franco, Hernandez and Harris",
+      "Zhang, Webster and May",
+      "Watson, Mcdowell and Smith",
+      "Williams-Willis",
+      "Davis-Reynolds",
+      "Rowe Ltd",
+      "Soto and Sons",
+      "Wright, Hart and Nichols",
+      "Green, Wright and Russell",
+      "Wallace, Spencer and Jones",
+      "Thomas PLC",
+      "Hoover Group",
+      "Carr, Lang and Lopez"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 26158246.436967332,
+      "max_opportunity_size": 814453773.1622106,
+      "preferred_service_lines": [
+        "Training",
+        "Research"
+      ],
+      "stage_preferences": [
+        "Proposal"
+      ],
+      "geographic_focus": [
+        "North America",
+        "Global"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV35203",
+    "investor_name": "Norway Investment Authority",
+    "investor_type": "Sovereign Wealth Fund",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Norway"
+    },
+    "total_commitments": 52669384790.96016,
+    "asset_class_allocations": {
+      "Venture Capital": 34.7,
+      "Private Equity": 65.3
+    },
+    "geographic_preferences": [
+      "Middle East & Africa",
+      "North America",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Davis-Patterson Fund 1",
+        "commitment_amount": 460298432.3907739,
+        "commitment_date": "2024-08-25"
+      },
+      {
+        "fund_name": "Weeks-Bullock Fund 10",
+        "commitment_amount": 173168204.32835856,
+        "commitment_date": "2024-05-07"
+      }
+    ],
+    "portfolio_companies": [
+      "Ruiz and Sons",
+      "Bolton, Foster and Mullen",
+      "Hoffman-Hall",
+      "Wilson-Rodriguez",
+      "Griffin, Bryant and Garcia",
+      "Rowe-Lewis",
+      "Lam PLC",
+      "Johnson Group",
+      "Hays LLC",
+      "Scott-Williams",
+      "Sharp, Williams and Chaney",
+      "Everett LLC",
+      "Roberts PLC"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 40740790.03182559,
+      "max_opportunity_size": 937756420.1110098,
+      "preferred_service_lines": [
+        "Technology",
+        "Training"
+      ],
+      "stage_preferences": [
+        "Negotiation"
+      ],
+      "geographic_focus": [
+        "Global",
+        "Latin America"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV95435",
+    "investor_name": "Adkins-Nguyen Endowment",
+    "investor_type": "Endowment",
+    "headquarters": {
+      "city": "Unknown",
+      "country": "Sweden"
+    },
+    "total_commitments": 95051508678.46146,
+    "asset_class_allocations": {
+      "Secondaries": 30.4,
+      "Hedge Funds": 30.1,
+      "Venture Capital": 5.7,
+      "Private Equity": 33.8
+    },
+    "geographic_preferences": [
+      "Europe",
+      "North America",
+      "Asia-Pacific"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Nguyen-Wright Fund 5",
+        "commitment_amount": 373049425.60304165,
+        "commitment_date": "2025-05-10"
+      },
+      {
+        "fund_name": "Villa, Browning and Ramos Fund 5",
+        "commitment_amount": 103948096.4676661,
+        "commitment_date": "2023-11-16"
+      }
+    ],
+    "portfolio_companies": [
+      "Jackson-Richards",
+      "Johnson, Houston and Elliott",
+      "Wilson, Carter and Russell",
+      "Hayes-Carter",
+      "Warren Inc",
+      "Cantu Ltd",
+      "James-Lopez",
+      "Daniels, Mcdonald and Ayers",
+      "Parker Group",
+      "Peters and Sons",
+      "Miller, Nichols and Thompson",
+      "Brown-Underwood",
+      "Campbell LLC",
+      "Valdez Ltd",
+      "Rodriguez-Hawkins",
+      "Bolton, Osborne and Macias",
+      "Glover PLC",
+      "Wise, Arias and Crawford",
+      "Rodriguez, Cooley and Clark",
+      "Phillips-Holden"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 37326726.47593511,
+      "max_opportunity_size": 478944528.8714672,
+      "preferred_service_lines": [
+        "Advisory"
+      ],
+      "stage_preferences": [
+        "Qualification",
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Asia-Pacific"
+      ]
+    }
+  },
+  {
+    "investor_id": "INV74065",
+    "investor_name": "Cummings LLC Fund of Funds",
+    "investor_type": "Fund of Funds",
+    "headquarters": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "total_commitments": 54913615154.834496,
+    "asset_class_allocations": {
+      "Private Equity": 7.2,
+      "Secondaries": 31.6,
+      "Infrastructure": 37.3,
+      "Hedge Funds": 23.8
+    },
+    "geographic_preferences": [
+      "Asia-Pacific",
+      "Global"
+    ],
+    "recent_commitments": [
+      {
+        "fund_name": "Kim, Rose and Gray Fund 1",
+        "commitment_amount": 441076350.8489598,
+        "commitment_date": "2024-11-09"
+      },
+      {
+        "fund_name": "Morse-Wright Fund 3",
+        "commitment_amount": 291134873.9825768,
+        "commitment_date": "2024-10-02"
+      },
+      {
+        "fund_name": "Stone, Perkins and Neal Fund 1",
+        "commitment_amount": 274793521.6813474,
+        "commitment_date": "2024-03-14"
+      },
+      {
+        "fund_name": "Cooke-Carr Fund 1",
+        "commitment_amount": 415276566.4995466,
+        "commitment_date": "2024-08-01"
+      },
+      {
+        "fund_name": "Conley LLC Fund 10",
+        "commitment_amount": 23181771.217857033,
+        "commitment_date": "2024-11-19"
+      }
+    ],
+    "portfolio_companies": [
+      "Cortez-Myers",
+      "Tucker-Montgomery",
+      "Webb, Thomas and Meyers",
+      "Davis-Wilson",
+      "Burton, Carroll and Calderon",
+      "Montgomery and Sons",
+      "Stephenson, Phillips and Cooper",
+      "Oneill, Austin and Marquez",
+      "Williams-Trevino",
+      "Ingram-Nguyen",
+      "Brown, Glass and Johnson",
+      "Rangel-Cochran",
+      "Porter, Walker and Jensen",
+      "Joseph PLC",
+      "Edwards Group",
+      "Mccarthy Group",
+      "Vargas-Wilson",
+      "Doyle, Lambert and Barber",
+      "Huang and Sons",
+      "Torres, Cortez and Mcgee",
+      "Gilbert PLC",
+      "Parrish-Davis",
+      "Walker, Neal and Steele",
+      "Bryan Group"
+    ],
+    "salesforce_opportunities": [],
+    "investment_criteria": {
+      "min_opportunity_size": 16854009.64608983,
+      "max_opportunity_size": 1696604316.267855,
+      "preferred_service_lines": [
+        "Training"
+      ],
+      "stage_preferences": [
+        "Prospecting"
+      ],
+      "geographic_focus": [
+        "Latin America"
+      ]
+    }
+  }
+]

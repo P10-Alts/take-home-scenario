@@ -1,0 +1,102 @@
+Id,AccountId,Name,StageName,Amount,CloseDate,Type,LeadSource,Service_Line__c
+006exTVQUC8eHqKJqS,001XaWpbI7Tv9gd9Cg,"Blackstone Group - Underwood, Farley and Ortega Asset Manager - Data & Analytics",Qualification,1348962.0407046936,2025-04-12,Existing Business,Cold Call,Data & Analytics
+006eTditS0XPH16OBI,001eXCudnogWz8gsTo,Robinsonport Investment Group - New Mexico Public Employees Pension Fund - Data & Analytics,Qualification,1792526.1121185673,2025-01-09,Renewal,Web,Data & Analytics
+006vqHHARBqIWtX7YT,001eXCudnogWz8gsTo,Robinsonport Investment Group - United Kingdom Investment Authority - Research,Negotiation,,2024-08-17,Renewal,Referral,Research
+006qJdk9M2nWB5vyCK,001qhn8Ia4KbwiOPVj,Sandoval & Associates - Dixon Ltd Corporate Pension - Training,Prospecting,1989498.180478603,2025-04-23,Existing Business,Cold Call,Training
+006Qpp3D2jJ6rX56Y1,001qhn8Ia4KbwiOPVj,"Sandoval & Associates - Hurst, Wallace and Andrade Family Office - Research",Prospecting,,2024-09-22,Renewal,Partner,Research
+006zyxguiU9NoEyjGQ,001R6qpGpmW5hsswAy,PLC Investment Management - Rogers-Shaffer Insurance - Training,Closed Won,1775917.8510906058,2024-10-24,Renewal,Cold Call,Training
+006zzRkayKsyAlGDgO,001OkiZHF8d18iR1Qv,"Lawson Partners - Sullivan, Morgan and Daniels Corporate Pension - Training",Qualification,760592.6047984033,2025-05-09,Renewal,Cold Call,Training
+006JCSCCf5z2zegttu,001OkiZHF8d18iR1Qv,Lawson Partners - Hernandez-Parker Fund of Funds - Advisory,Negotiation,495442.3124127066,2025-05-27,Renewal,Partner,Advisory
+006fdDTR5HhUOWIiBE,001u0erZDAzzEPpr1X,"LLC Investment Management - Shields, Khan and Anderson Family Office - Data & Analytics",Closed Lost,751125.5331604712,2024-07-24,New Business,Referral,Data & Analytics
+0065n2DEwobkoDziTH,001gXtN2e3vyO5xGxT,Campbell & Associates - Stein PLC Corporate Pension - Technology,Qualification,185502.78938695675,2024-07-04,New Business,Web,Technology
+006k7YbORrcwcgPamF,001a7omw3fjLgJaqpK,and Sons Investment Management - Payne-Jones Bank - Advisory,Qualification,,2025-05-21,New Business,Partner,Advisory
+006lXoCtPvd2YdWbil,001a7omw3fjLgJaqpK,"and Sons Investment Management - Hess, Stephens and Fitzgerald Foundation - Data & Analytics",Negotiation,,2025-03-20,New Business,Partner,Data & Analytics
+006Q5iShocrWhP6DKr,001ToTGtgLFqJI1Ogk,Jennifershire Investment Group - Cummings LLC Fund of Funds - Technology,Negotiation,1025937.4322829052,2025-06-02,Existing Business,Referral,Technology
+006jM9J6P8wqSpQ7dv,001CyfoXZFnWDkaQnQ,New Joshua Investment Group - Kansas Public Employees Pension Fund - Data & Analytics,Closed Lost,404633.15860923525,2025-04-23,Existing Business,Web,Data & Analytics
+006oTzHZXjrN5lK5Vy,0011IGIx9Kpk3WQ47x,Brown Capital - Jackson-Lyons Corporate Pension - Technology,Closed Won,1140143.6043711463,2025-06-02,New Business,Cold Call,Technology
+006xpLDIg3qMJPIr48,001dg3nXDAnwTcEz9L,LLC Investment Management - Ramirez Ltd Foundation - Advisory,Negotiation,,2024-11-27,New Business,Cold Call,Advisory
+006RiL1erXstRYtGCr,001dg3nXDAnwTcEz9L,LLC Investment Management - Johnson-Simmons Family Office - Data & Analytics,Prospecting,1465682.8099046298,2024-07-17,New Business,Referral,Data & Analytics
+006IKODsYKSlG1HPDN,001QO819YCSQEmyh0m,"West Lisa Investment Group - Rodriguez, Spence and Garza Bank - Training",Closed Lost,888945.1462695212,2024-08-30,New Business,Web,Training
+006zUT6xVrOWuVRqEH,001QO819YCSQEmyh0m,West Lisa Investment Group - Mccann PLC Foundation - Training,Prospecting,,2024-07-03,Renewal,Cold Call,Training
+006g47tlCcAdIYLI3U,001fznamAoAsqZH7UD,Petersen Partners - Miller-Brown Corporate Pension - Advisory,Qualification,1580841.6348719343,2025-04-03,New Business,Partner,Advisory
+006p2hiAcaEDDp98xZ,001gXHoSaxRtUfkVXr,Wu Partners - Navarro-Cameron Fund of Funds - Data & Analytics,Negotiation,279749.0925450149,2025-01-25,Renewal,Partner,Data & Analytics
+006hxb5GJGWiusSRGs,001tHF722Yo3aogK7j,"Keith & Associates - Perez, Holland and Herrera Fund of Funds - Advisory",Closed Won,87096.83783827414,2024-12-14,Renewal,Cold Call,Advisory
+006wIOTXxXCXHrif5b,001tHF722Yo3aogK7j,"Keith & Associates - Kim, Roberts and Burns Bank - Advisory",Closed Won,853799.4492124679,2025-01-20,New Business,Web,Advisory
+006MJA9KBrBh7qmlBu,001XmZePBEo1oXLSPi,Mack & Associates - Andrade-Watson Asset Manager - Data & Analytics,Proposal,667475.1485675104,2024-11-18,Existing Business,Cold Call,Data & Analytics
+00681HCuaYI4S1lcUh,001XmZePBEo1oXLSPi,Mack & Associates - Singapore Investment Authority - Data & Analytics,Closed Won,1113858.6539379065,2024-08-13,New Business,Web,Data & Analytics
+006mLw3tcOQsOsCZhA,001IkPgcS31ovwZ1Y8,Gallegos Capital - New Mexico Public Employees Pension Fund - Training,Negotiation,129171.32986272177,2024-06-15,Renewal,Partner,Training
+006lkpIxcYhkS0hkOz,001hl1pPuWcmlBs5WS,"Mckenzie Capital - Perez, Holland and Herrera Fund of Funds - Research",Qualification,,2025-05-21,Renewal,Conference,Research
+00657EoQ6SvzdwvxEs,001hl1pPuWcmlBs5WS,Mckenzie Capital - Fisher-Matthews Insurance - Training,Prospecting,1494358.6737569736,2025-01-06,Existing Business,Cold Call,Training
+006hYmPJqxkqhbbjXv,001itwVHDlKpxgXxjb,Stewart Williams Capital - Floyd Group Foundation - Advisory,Prospecting,,2024-12-27,Existing Business,Conference,Advisory
+0065GFQWuxpLek6OnB,001itwVHDlKpxgXxjb,Stewart Williams Capital - Japan Investment Authority - Data & Analytics,Prospecting,,2025-05-14,Renewal,Web,Data & Analytics
+0060cPlvA6CS5BLfWI,001QgWqgkjS0ZUclgA,Moore Capital - Bennett-Doyle Bank - Data & Analytics,Qualification,852649.1397597716,2025-03-04,Existing Business,Conference,Data & Analytics
+0067bzUQ6v93fX7Ut7,001uMTRGevbR1jXODd,Moore Chase Capital - Ramirez Ltd Foundation - Technology,Prospecting,1687158.384314713,2025-02-03,New Business,Referral,Technology
+006dCWyNs0r2aMz3Fi,001uMTRGevbR1jXODd,Moore Chase Capital - Minnesota Public Employees Pension Fund - Technology,Prospecting,340731.8180184178,2024-10-15,Renewal,Referral,Technology
+006tGFPcqwZ8YoTbnB,001H02FhZdY0BUL23C,"Patterson & Associates - Lucero, White and Stanton Asset Manager - Research",Negotiation,,2025-03-02,Existing Business,Conference,Research
+006vuQTCzOxRzr76VF,001H02FhZdY0BUL23C,Patterson & Associates - Florida State Workers Pension Fund - Training,Prospecting,932626.3287056579,2024-08-15,Existing Business,Referral,Training
+006ao2PzvKMri2zv1X,001VhLVX5ZxeBeF3hg,Thompson & Associates - Hernandez-Parker Fund of Funds - Advisory,Qualification,1239965.6625071277,2025-01-22,Renewal,Partner,Advisory
+006o6fNj8xOBIYxE47,001ADkE6eGECEBJ6Du,"Mack Capital - Shields, Khan and Anderson Family Office - Data & Analytics",Proposal,,2024-11-07,New Business,Cold Call,Data & Analytics
+0064M5vjNBdBBQJTY9,001iESSb9jGM4FjW2q,Preston Capital - Singapore Investment Authority - Data & Analytics,Prospecting,,2024-11-01,Renewal,Referral,Data & Analytics
+0065b14TDRzms0WeWI,001c9RAzkaujg13bHl,New Douglas Investment Group - Garcia and Sons Endowment - Advisory,Qualification,125939.9979545181,2025-03-14,New Business,Referral,Advisory
+006k4CzIVsHyfvFcWa,001jrKN7CRCnK32EWa,Gregoryborough Investment Group - Hernandez-Parker Fund of Funds - Data & Analytics,Closed Lost,724204.3718669949,2025-03-24,Existing Business,Partner,Data & Analytics
+006GL7aUcYh0257cL7,001Lp3b7idmczkzyqa,Wilson Ball Capital - Ramirez Ltd Foundation - Technology,Qualification,530200.7988801042,2024-10-30,Renewal,Web,Technology
+006LZeqvOgwlKWxZ7u,001Lp3b7idmczkzyqa,"Wilson Ball Capital - Lucero, White and Stanton Asset Manager - Data & Analytics",Qualification,1022806.8520223848,2024-10-20,New Business,Conference,Data & Analytics
+006iWJs0mO6eeUv6ty,001Xv8LOM4ajAa5RQH,"Sullivan Partners - Cook, Lucas and Wilson Endowment - Training",Closed Lost,1454368.0470560803,2024-11-21,Renewal,Web,Training
+006fqFQWDhg9xnBHr7,001Xv8LOM4ajAa5RQH,Sullivan Partners - Adkins-Nguyen Endowment - Advisory,Closed Lost,1668196.8556539507,2025-02-09,Existing Business,Web,Advisory
+006Q1yWhLBONkLdgbd,001N40zSVqBQtpJPIn,Weiss Partners - Burns PLC Foundation - Research,Prospecting,,2024-09-01,Renewal,Conference,Research
+006oROoORGYGnEndUZ,001N40zSVqBQtpJPIn,Weiss Partners - Lewis LLC Bank - Research,Closed Won,223821.98664984925,2025-02-26,Renewal,Conference,Research
+006r5zlDWRn1kualIi,001wrAiLWTsUR9EZk8,White Partners - Kansas Public Employees Pension Fund - Advisory,Negotiation,1595202.5074328398,2024-09-12,Existing Business,Referral,Advisory
+0065jT1BjsILQ419RI,001wrAiLWTsUR9EZk8,"White Partners - Shaw, Logan and Hammond Insurance - Advisory",Negotiation,563167.1461905297,2025-01-26,Existing Business,Conference,Advisory
+006QfAkNjZDierCSMW,001oaph0Q5VuKTgigK,PLC Investment Management - Paul-Torres Endowment - Research,Proposal,903312.4213489562,2025-04-19,New Business,Conference,Research
+006BJfQWzAp1nLrPE4,001oaph0Q5VuKTgigK,PLC Investment Management - Campbell and Sons Family Office - Data & Analytics,Closed Won,,2025-02-07,New Business,Partner,Data & Analytics
+006uDDMHl1I05z65Ps,001YkuaD2Thsq4Adi9,"Vaughn & Associates - Kim, Roberts and Burns Bank - Advisory",Qualification,754191.8539949254,2024-09-26,New Business,Conference,Advisory
+006gAdbXWt30zBfhdu,001NHgcUElbART42ZC,Harris Miller Capital - Cruz LLC Bank - Advisory,Closed Lost,,2024-06-20,Renewal,Cold Call,Advisory
+0065U0Z6iM4ZZiQqut,001aEJmdRuMjZPKr4H,Port Ashley Investment Group - Nebraska Public Employees Pension Fund - Training,Prospecting,1074878.2555155484,2024-07-24,Renewal,Conference,Training
+006iIRFsq96ZWvcYk2,001eHeGinQbPrERl07,"Lake Christopher Investment Group - Hurst, Wallace and Andrade Family Office - Data & Analytics",Closed Lost,1357933.0749527013,2024-07-13,New Business,Cold Call,Data & Analytics
+006tVCIp9mz8nTguHh,001eHeGinQbPrERl07,Lake Christopher Investment Group - Kansas Public Employees Pension Fund - Training,Qualification,1932705.0020240117,2024-12-16,Existing Business,Partner,Training
+006sdmRil1zkTiuoKx,001d7JGoCbv5HeQXTA,Mckinney Partners - Jackson-Lyons Corporate Pension - Technology,Prospecting,204922.2703565992,2024-10-03,Renewal,Conference,Technology
+006eZb1BOpTBN6HOjj,001c6jVxszZ5dauHzv,Stricklandhaven Investment Group - Gray and Sons Asset Manager - Research,Closed Won,,2024-11-21,New Business,Cold Call,Research
+006f9uPcHAOYi2BBlX,001c6jVxszZ5dauHzv,Stricklandhaven Investment Group - Hawaii Teachers Pension Fund - Data & Analytics,Negotiation,1228662.9455595382,2024-11-04,New Business,Partner,Data & Analytics
+006r1WOhUrVOXDckQh,001UfH5OgnWQu2bQRV,Lake Mark Investment Group - Hernandez-Parker Fund of Funds - Advisory,Qualification,89163.79577086092,2025-04-16,Existing Business,Conference,Advisory
+006qJGiR1Ts11uXIwZ,001KFt7hSjGNlZxkVR,Brown Cardenas Capital - Cruz LLC Bank - Research,Closed Lost,1892488.5554227335,2024-11-12,Existing Business,Web,Research
+0065fkTWsTIx3OMVjz,001TBUp1uq2JAdE3Vl,West Wesleyland Investment Group - Navarro-Cameron Fund of Funds - Training,Closed Won,1782016.0432245042,2024-11-25,Renewal,Conference,Training
+006x3TFKsiOumrkU2e,001TBUp1uq2JAdE3Vl,West Wesleyland Investment Group - Alaska Teachers Pension Fund - Technology,Proposal,,2024-06-14,New Business,Web,Technology
+006o2hFuStPWYllYoj,0010RVVwFGmBxrABgf,Inc Investment Management - Japan Investment Authority - Advisory,Closed Lost,767203.1138114085,2024-11-05,New Business,Conference,Advisory
+006gmqHuChN8suwlG8,0010RVVwFGmBxrABgf,Inc Investment Management - Payne-Jones Bank - Data & Analytics,Qualification,1538738.8578348185,2025-02-05,New Business,Referral,Data & Analytics
+006xBP2zy4pylYa4Br,001MjcrOKgWN9WRfkk,"Inc Investment Management - Carter, Mills and Graham Foundation - Training",Closed Lost,528358.4106257269,2025-04-19,Renewal,Partner,Training
+0064DevqzDZz0IhBj7,001XFWwZzZz0XV6QqM,Bennett Capital - Hawaii Teachers Pension Fund - Data & Analytics,Proposal,272215.48532051046,2025-05-23,Existing Business,Cold Call,Data & Analytics
+006n4GqX7XBprf2cWp,00187P1gmKjs1u3ieD,Ltd Investment Management - Rubio PLC Asset Manager - Training,Closed Won,997573.752066046,2024-11-05,New Business,Cold Call,Training
+006xuwGfNEWObgOC3Q,001azbgHk8JHMr5fll,"PLC Investment Management - Smith, Welch and Taylor Corporate Pension - Advisory",Closed Won,950894.049084601,2024-12-06,New Business,Conference,Advisory
+006Eepng6bQsj90QXL,001Rl5Ar6QvGXxRvo8,"Barber Partners - Carter, Mills and Graham Foundation - Research",Prospecting,636206.3762100685,2024-11-22,Renewal,Conference,Research
+006027R3dNGeqs6tCm,001Rl5Ar6QvGXxRvo8,Barber Partners - Kennedy LLC Asset Manager - Data & Analytics,Prospecting,,2024-11-16,New Business,Cold Call,Data & Analytics
+0069tFHjzx2DG2saig,001hInu0JMICW5hF03,Stephens Capital - Navarro-Cameron Fund of Funds - Data & Analytics,Prospecting,1400668.8556805053,2024-09-17,New Business,Partner,Data & Analytics
+006hZUItxiFBYA4w8R,001xnd0M7WR3pnULyi,Conleytown Investment Group - Carr-Carroll Foundation - Training,Negotiation,326829.1351653297,2024-08-05,Renewal,Referral,Training
+006jWLtLXieX4sQEmi,001xnd0M7WR3pnULyi,Conleytown Investment Group - Payne-Jones Bank - Data & Analytics,Closed Lost,1288433.6295108555,2025-01-08,New Business,Cold Call,Data & Analytics
+006vrdnk5Nmd3qS6Ya,001xCLmnyGEa5ut6rq,South Brandytown Investment Group - Bennett-Doyle Bank - Research,Closed Lost,,2024-09-29,New Business,Partner,Research
+006ZucDUuNdijK0bgq,001Ft1JMW0t5vENCLx,"Morris Wolf Capital - Hurst, Wallace and Andrade Family Office - Technology",Proposal,,2024-09-14,Renewal,Partner,Technology
+006par0rEubYWJnzG9,001Ft1JMW0t5vENCLx,Morris Wolf Capital - Adkins-Nguyen Endowment - Data & Analytics,Prospecting,330432.2546857239,2025-02-22,Renewal,Referral,Data & Analytics
+006Ft6rE9b0vZolMdG,001n2FoLVCUFdi28RK,Taylor & Associates - Iowa Public Employees Pension Fund - Research,Closed Lost,1282897.0529292384,2025-04-12,Existing Business,Referral,Research
+0069wI2R2Iez1qomOx,001n2FoLVCUFdi28RK,"Taylor & Associates - Kim, Roberts and Burns Bank - Technology",Closed Won,1475399.537223317,2025-02-16,Existing Business,Conference,Technology
+006H9RWHyRaa7v5ccd,001lmd4lfC3pUErG1g,Espinoza Capital - Denmark Investment Authority - Advisory,Closed Lost,645479.7799747748,2024-09-02,Renewal,Referral,Advisory
+0064yb0goLBbarMK68,00183BVLvmxTxuJZ3z,Franklin & Associates - Burns PLC Foundation - Training,Prospecting,270196.84768970066,2024-12-05,Renewal,Conference,Training
+006Rbg13eKVSi8I8P6,0011DniYVGhpfJDsbn,Group Investment Management - Garcia and Sons Endowment - Advisory,Prospecting,842021.7865568586,2025-04-10,New Business,Referral,Advisory
+006lnu2phmPEDrIlUK,0011DniYVGhpfJDsbn,Group Investment Management - Gray and Sons Asset Manager - Research,Closed Won,,2025-04-23,Existing Business,Referral,Research
+006bFhI7I1MHCyM3tD,00149ZDOqqX2Vu7jJv,LLC Investment Management - Rowe Ltd Asset Manager - Data & Analytics,Closed Won,1432875.1223453814,2025-02-05,Existing Business,Partner,Data & Analytics
+006QFnQ2FA9nWgSoyg,001uBQvxXM52aPh2Cp,North Melissaport Investment Group - Alaska Teachers Pension Fund - Training,Proposal,1792700.0715580403,2024-07-20,Existing Business,Cold Call,Training
+006B1cXda366ibVxLf,001LSPGEJ8UZMbjLUK,Carlson Capital - Iowa Public Employees Pension Fund - Training,Negotiation,188732.77039533667,2024-12-12,New Business,Conference,Training
+006shckS8MP4J0VZtn,001LSPGEJ8UZMbjLUK,"Carlson Capital - Perez, Holland and Herrera Fund of Funds - Technology",Negotiation,512406.5475138026,2024-08-17,Existing Business,Referral,Technology
+006R6mgegF10bmpmNd,001a87VPNwpWMhEx4Q,"Ltd Investment Management - Hurst, Wallace and Andrade Family Office - Data & Analytics",Closed Lost,1229421.4205282927,2025-01-11,Renewal,Partner,Data & Analytics
+0062ZPLQSUWzVIXlgr,001WVk14dovXmYJFBp,Williams Capital - Hawaii Teachers Pension Fund - Advisory,Closed Won,1256291.4314541654,2025-04-10,New Business,Cold Call,Advisory
+006r7XYp6PjWcXoI9q,001WVk14dovXmYJFBp,"Williams Capital - Juarez, Patrick and Lopez Insurance - Technology",Proposal,,2024-12-25,New Business,Cold Call,Technology
+00692dI2BGgyOmz4e8,001xlxzKkMuefAp1Gl,Allen Capital - Villegas Inc Bank - Research,Closed Won,1737062.325718535,2025-04-29,Renewal,Web,Research
+006LElcSmUbOAs150P,001xlxzKkMuefAp1Gl,Allen Capital - Japan Investment Authority - Data & Analytics,Proposal,592259.1369682346,2024-07-08,New Business,Web,Data & Analytics
+006vgRZWpm4aiNwSMl,001jp069f30ihb50Pb,"Reynolds Bailey Capital - Kim, Roberts and Burns Bank - Research",Proposal,330245.94215195917,2024-07-09,New Business,Cold Call,Research
+006eDdhAOXihgupgXM,001KECFOP5vvlJOMFK,Wilson Capital - Payne-Jones Bank - Data & Analytics,Negotiation,657986.984447621,2024-12-26,Renewal,Referral,Data & Analytics
+0069r9uwjOEk0J535Q,001Ur2RPpG90QltaF0,Moran Conley Capital - Floyd Group Foundation - Advisory,Negotiation,1699021.3003491906,2025-04-03,Existing Business,Partner,Advisory
+006T4VK8SVCHB7hXCK,00160oeiXxPjFodUlU,"Brown Partners - Juarez, Patrick and Lopez Insurance - Training",Negotiation,1102826.3871546728,2025-02-22,New Business,Web,Training
+0065Vf25i46jMT228x,001SyOUfa1xzwIjfr1,Port Michael Investment Group - Nebraska Teachers Pension Fund - Advisory,Prospecting,923812.1849645913,2025-02-28,Existing Business,Web,Advisory
+006pNX4bkV2a1XVQgE,001D0IHUyXG0jzkDIm,Ltd Investment Management - Peterson PLC Fund of Funds - Technology,Qualification,621770.2468167505,2024-10-16,Renewal,Partner,Technology
+006JvLwuPcCoOdFNj3,001D0IHUyXG0jzkDIm,Ltd Investment Management - Young-Morgan Family Office - Technology,Closed Lost,829955.740875984,2025-02-22,Existing Business,Partner,Technology
+006ypEnKGN1UiSUjBz,001qTyINIXBOovJqtK,Scotthaven Investment Group - Bennett-Doyle Bank - Training,Prospecting,1999454.3554717726,2024-06-27,Renewal,Conference,Training
+006EQr8T2L1NmmV8fr,001o8evwt1BPQpbzb1,Ltd Investment Management - Rowe Ltd Asset Manager - Research,Closed Lost,1307990.5063244714,2024-10-16,New Business,Referral,Research
+006TN1FY1g9DULFZ1p,001o8evwt1BPQpbzb1,Ltd Investment Management - Bennett-Doyle Bank - Research,Prospecting,511839.36511972354,2025-05-03,New Business,Referral,Research
